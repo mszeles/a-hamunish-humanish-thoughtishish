@@ -39,7 +39,7 @@ the test team.
 I am an Agileish Superhero with the superpowers of super learning, super
 thinking and super memory.
 
-If you want to learn more about me, just read my bio!
+If you want to learn more about me, just read my bio and the bottom of this article!
 
 ## Why reloaded?
 
@@ -55,11 +55,11 @@ If you want to learn more about me, just read my bio!
 
 -   Minnie: 😊. So why now?
 
--   Miki: McRuiter just found a new partner for us.
+-   Miki: McRuiter just found **a new partner** for us.
 
 -   Minnie: Really? Who?
 
--   Miki: He is called Nester!
+-   Miki: He is called **Nester**!
 
 -   Minnie: Hm. I like the name. It is like a jester. Is he the funny
     guy?
@@ -72,18 +72,18 @@ If you want to learn more about me, just read my bio!
 
 -   Minnie: So then, from where the name Nester is coming from?
 
--   Miki: From the word tester. Nester is the son of NoSEO and the twin
-    brother of Neveloper.
+-   Miki: From the word tester. **Nester is the son of NoSEO and the twin
+    brother of Neveloper.**
 
--   Minnie: Fascinating, but I know that family. They are the worst
-    experts in the world.
+-   Minnie: Fascinating, but I know that family. **They are the worst
+    experts in the world.**
 
 -   Miki: You are right, Minnie. You are right.
 
 -   Minnie: Then why Miki? Why?
 
--   Miki: The only thing you have to do is exactly the opposite of what
-    they suggest.
+-   Miki: **The only thing you have to do is exactly the opposite of what
+    they suggest.**
 
 -   Minnie: Wow. That is a great idea.
 
@@ -102,93 +102,93 @@ previous article, so the first question is:
 
 ### The cost of test automation
 
-- McMuck: Everybody knows cost efficiency is one of the USPs of test
-    automation.
+- McMuck: Everybody knows **cost efficiency is one of the USPs of test
+  automation**.
 
 - Miki: Well, I am not good with numbers, so our expert Manality will
-    do the calculation as usual.
+  do the calculation as usual.
 
 - Manality: We live in the remote work era thanks to COVID, so to find
-    a good expert, you have to compete with all the companies worldwide.
-    As all companies are looking for test automation engineers, [the
-    average yearly salary of a test automation engineer is
-    $95,149/year.](https://webcache.googleusercontent.com/search?q=cache:AFTJc4rvKNcJ:https://www.ziprecruiter.com/Salaries/International-Automation-Engineer-Salary+&cd=13&hl=hu&ct=clnk&gl=hu)
-    India has the second-largest workforce globally. There are 501
-    million workers, which means the workforce available in India is 50
-    as much as the total inhabitants of Hungary.
+  a good expert, you have to compete with all the companies worldwide.
+  As all companies are looking for test automation engineers, [**the
+  average yearly salary of a test automation engineer is
+  $95,149/year.**](https://webcache.googleusercontent.com/search?q=cache:AFTJc4rvKNcJ:https://www.ziprecruiter.com/Salaries/International-Automation-Engineer-Salary+&cd=13&hl=hu&ct=clnk&gl=hu)
+  India has the second-largest workforce globally. There are 501
+  million workers, which means the workforce available in India is 50
+  as much as the total inhabitants of Hungary.
 
-    [In India, the average yearly salary is
-    ₹382,500](https://khatabook.com/blog/know-about-average-salary-and-wage-in-india)/year
-    which means $4994/year. This means you can employ 95149 / 4994 = 19
-    manual testers for the price of a test automation engineer.
+  [**In India, the average yearly salary is
+  ₹382,500**](https://khatabook.com/blog/know-about-average-salary-and-wage-in-india)/year
+  which means $4994/year. This means **you can employ 95149 / 4994 = 19
+  manual testers for the price of a test automation engineer.**
 
 - Miki: Thanks, Manality! So let me repeat it, **you can employ 19
-    manual testers for the salary of one test automation engineer**.
+  manual testers for the salary of one test automation engineer**.
 
 - Nester: It is clear you have to go with manual testers. As you can
-    see, **they can do 19 times more work than a single test automation
-    engineer for the exact cost.**
+  see, **they can do 19 times more work than a single test automation
+  engineer for the exact cost.**
 
-- Miki: Yeah, but you know, you only have to write automated tests
-    once, and you can run it forever. You do not have to give food to
-    it.
+- Miki: Yeah, but you know, **you only have to write automated tests
+  once, and you can run it forever**. You do not have to give food to
+  it.
 
-- Nester: Well, that is another USP of test automation, but is it
-    true? Have you had to touch the already written test automation
-    code?
+- Nester: Well, that is **another USP of test automation**, but is it
+  true? **Have you had to touch the already written test automation
+  code?**
 
 - Miki: Well, I have to admit, yes.
 
 - Nester: Why?
 
-- Miki: Most of the E2E tests are flaky due to timing issues. I heard
-    about a company where cookie banners appear randomly multiple times,
-    one after the other, just to mention an example.
+- Miki: Most of the **E2E tests are flaky** due to timing issues. I heard
+  about a company where cookie banners appear randomly multiple times,
+  one after the other, just to mention an example.
 
 - Nester: Anything else?
 
-- Miki: Sure. Often, texts on the UI change, so if I want to make sure
-    the correct texts appear, I have to write tests for that, but they
-    break on a single translation change. Not even mentioning there can
-    be dozens of supported languages.
+- Miki: Sure. Often, **texts on the UI change**, so if I want to make sure
+  the correct texts appear, I have to write tests for that, but they
+  break on a single translation change. Not even mentioning there can
+  be dozens of supported languages.
 
 - Nester: I see. Anything else?
 
-- Miki: Sure. The most significant source of change is the change in
-    functionality. In today's agile world, instead of designing and
-    implementing a full-fledged feature, we only implement featureish,
-    the bare minimum that gives the most value to the customer.
+- Miki: Sure. **The most significant source of change is the change in
+  functionality.** In today's agile world, instead of designing and
+  implementing a full-fledged feature, we only implement featureish,
+  the bare minimum that gives the most value to the customer.
 
 - Nester: Ahh, agile. That is worth another story. So what does
-    changing features mean in terms of testing?
+  changing features mean in terms of testing?
 
-- Miki: You have to adapt each test after changing the functionality.
+- Miki: **You have to adapt each test after changing the functionality.**
 
 - Nester: I knew it. Miki, have you noticed our data expert Manality
-    calculated the average salary of an Indian person instead of the
-    maximum wage, similarly to what she did with the test automation
-    engineer calculation?
+  calculated the average salary of an Indian person instead of the
+  maximum wage, similarly to what she did with the test automation
+  engineer calculation?
 
 - Miki: Yeah, actually, I wanted to ask about it, as it has been on my
-    mind since I saw that calculation.
+  mind since I saw that calculation.
 
 - Nester: The reason is straightforward.
 
 - Miki: What is it?
 
-- Nester: Anyone who can use a browser can test 99% of the
-    applications currently available on the market.
+- Nester: **Anyone who can use a browser can test 99% of the
+  applications currently available on the market.**
 
 - Miki: Makes sense, but in that case, we could calculate with a
-    salary close to the bare minimum.
+  salary close to the bare minimum.
 
 - Nester: We could, but we are a humanish team, so we won't aim for
-    the minimum salary.
+  the minimum salary.
 
 - Miki: Makes sense.
 
 - Nester: That is enough about the cost of testing. Let's examine
-    testing from a theoretical point of view.
+  testing from a theoretical point of view.
 
 ### Beware of The Pesticide Paradox.
 
@@ -207,8 +207,8 @@ previous article, so the first question is:
 -   Nester: So, Miki! Please explain what the pesticide paradox is.
 
 -   Miki: The pesticide paradox brings an analogy from the real world:
-    The more pesticide you use, the less effective it will be over time,
-    as the insects adapt to the pesticide.
+    **The more pesticide you use, the less effective it will be over time,
+    as the insects adapt to the pesticide.**
 
 -   Nester: I see. Now, let's hear the official mumbo jumbo.
 
@@ -225,23 +225,23 @@ previous article, so the first question is:
     here. We will write a fat 50$ bill for each fun fact coming from
     Funality.
 
--   Miki: The official Mumbo Jumbo is the following: The more you
+-   Miki: The official Mumbo Jumbo is the following: **The more you
     repeatedly run the same test suite, the less likely it will find any
-    bugs in the code.
+    bugs in the code.**
 
--   Nester: You see! All the benefits you can get from test automation
-    significantly degrade over time.
+-   Nester: You see! **All the benefits you can get from test automation
+    significantly degrade over time.**
 
 -   Miki: That is true.
 
--   MatchyT: I would call it the Inflation of Test Automation!
+-   MatchyT: I would call it the **Inflation of Test Automation!**
 
 ### The Inflation of Test Automation
 
 -   Miki: Who are you, MatchyT? I have never met you before.
 
 -   MatchyT: I was always here in your head, Miki, but finally I got a
-    name, and I can speak on my own, so it will be me, the one who
+    name and I can speak on my own, so it will be me, the one who
     really deserves it, who will get the appreciation for coming up with
     catchy titles and terms.
 
@@ -250,66 +250,66 @@ previous article, so the first question is:
 
 -   MatchyT: Yep.
 
--   Miki: We will see. Ok, so how can manual testing address the problem
-    of the inflation of test automation?
+-   Miki: We will see. Ok, so **how can manual testing address the problem
+    of the inflation of test automation?**
 
--   Nester: Simply, by letting humans do the work.
+-   Nester: Simply, by **letting humans do the work.**
 
--   Miki: But humans are making mistakes which is not valid for
-    automated tests.
+-   Miki: But **humans are making mistakes which is not valid for
+    automated tests.**
 
--   Nester: First of all, humans are not making mistakes; they just
+-   Nester: First of all, **humans are not making mistakes; they just
     examine things from different perspectives depending on their
-    current state of mind. Secondly, that is what makes sure the value
-    of your tests won't degrade over time.
+    current state of mind.** Secondly, **that is what makes sure the value
+    of your tests won't degrade over time.**
 
--   Miki: I do not get it. We have clear step-by-step test cases. Even
-    if testers make some mistakes, they repeatedly execute the same
-    steps.
+-   Miki: I do not get it. **We have clear step-by-step test cases**. Even
+    if **testers **make some mistakes, they **repeatedly execute the same
+    steps.**
 
--   Nester: Miki! Why do you think we need test specifications?
+-   Nester: Miki! **Why do you think we need test specifications?**
 
--   Miki: To make tests repeatable and to make sure we test precisely
-    the same thing again and again.
+-   Miki: To **make tests repeatable and to make sure we test precisely
+    the same thing again and again.**
 
--   Nester: Do you see why this leads to the pesticide paradox?
+-   Nester: Do you see why **this leads to the pesticide paradox**?
 
 -   Miki: Nopeish.
 
--   Nester: If you test precisely the same thing repeatedly, you won't
-    find new bugs with it.
+-   Nester: **If you test precisely the same thing repeatedly, you won't
+    find new bugs with it.**
 
--   Miki: So what should we do then? How can we live without test
-    specifications?
+-   Miki: So what should we do then? **How can we live without test
+    specifications?**
 
--   Nester: There should be one single source of truth.
+-   Nester: **There should be one single source of truth.**
 
 -   Miki: Are you talking about the specification?
 
--   Nester: Almostish. I am talking about the user story. The user story
-    should be the single source of truth,
+-   Nester: Almostish. I am talking about the user story. **The user story
+    should be the single source of truth**.
 
 -   Miki: Why?
 
--   Nester: First of all, that defines the customer's need. That is
+-   Nester: First of all, **that defines the customer's need**. That is
     what the customer really wants to have.
 
 -   Miki: Ok. What else?
 
--   Nester: That is based on which developers should develop the
-    feature, and that is based on agileish testers should test the
-    implementation.
+-   Nester: **That is based on which developers should develop the
+    feature** and **that is based on agileish testers should test the
+    implementation.**
 
--   Miki: What if the user story is not clear enough?
+-   Miki: What **if the user story is not clear enough**?
 
--   Nester: In that case, you have to make it clear enough. You can
+-   Nester: In that case, **you have to make it clear enough**. **You can
     resolve the neverending debate between developers and testers by
-    doing that.
+    doing that.**
 
 -   Miki: Which debate?
 
--   Nester: The debate of "It is a feature, not a bug! No, it is a bug,
-    not a feature! No, it is a feature, not a bug! No, it is a bug, not
+-   Nester: The debate of "**It is a feature, not a bug! No, it is a bug,
+    not a feature!** No, it is a feature, not a bug! No, it is a bug, not
     a feature! No, it is a feature, not a bug! No, it is a bug, not a
     feature! No, it is a feature, not a bug! No, it is a bug, not a
     feature! No, it is a feature, not a bug! No, it is a bug, not a
@@ -333,12 +333,12 @@ previous article, so the first question is:
 
 -   Miki: Nester!!! Stop! I got the point! What is the solution, then?
 
--   Nester: The solution is simple: If something is not in the user
-    story, **it is a bug.**
+-   Nester: **The solution is simple: If something is not in the user
+    story, it is a bug.**
 
--   Miki: But what if it is valuable?
+-   Miki: But **what if it is valuable**?
 
--   Nester: Then it should go into the user story.
+-   Nester: Then **it should go into the user story.**
 
 -   Miki: I have to admit, it makes sense. I have wasted many hours of
     my life and my employer's time too by takinparticipatinghis Feature
@@ -350,30 +350,30 @@ previous article, so the first question is:
 
 -   Nikolai: It was my pleasure, Miki. It was my pleasure.
 
--   Miki: Nester! What about continuous integration? Without that, you
-    cannot deliver in our fast-paced world.
+-   Miki: Nester! **What about continuous integration? Without that, you
+    cannot deliver in our fast-paced world.**
 
--   Nester: You are right. Let's talk about the Agileish Humanish CI/CD
-    pipeline (credits go to MatchyT).
+-   Nester: You are right. Let's talk about **the Agileish Humanish CI/CD
+    pipeline** (credits go to MatchyT).
 
 -   Miki: About what????
 
 ### The Agileish Humanish CI/CD Pipeline
 
--   Nester: About the agileish humanish CI/CD pipeline
+-   Nester: About the agileish humanish CI/CD pipeline.
 
 -   Miki: This sounds crazy, but you made me curious.
 
--   Nester: So, what is the main point of the CI/CD pipeline?
+-   Nester: So, what is the **main point of the CI/CD pipeline**?
 
--   Miki: To have immediate feedback.
+-   Miki: To **have immediate feedback.**
 
--   Nester: Exactly. It is needed to ensure developers do not have to
-    wait a long time to see whether the changes have broken the build.
+-   Nester: Exactly. It is **needed to ensure developers do not have to
+    wait a long time to see whether the changes have broken the build.**
 
--   Miki: Yep, I believe a short feedback loop is the most critical
+-   Miki: Yep, **I believe a short feedback loop is the most critical
     factor in improving anything. That is why I made my whole life
-    agile.
+    agile.**
 
 -   Nester: Your whole life? How?
 
@@ -383,54 +383,54 @@ previous article, so the first question is:
 
 -   Nester: Okayish.
 
--   Miki: How can you get immediate feedback by doing manual tests?
+-   Miki: **How can you get immediate feedback by doing manual tests?**
 
--   Nester: It is simple. As soon as something is ready, manul testers
-    can test it immediately.
+-   Nester: It is simple. As soon as **something is ready, manul testers
+    can test it immediately.**
 
--   Miki: But what if the tester is busy?
+-   Miki: But what **if the tester is busy**?
 
--   Nester: You still have 18 manual testers who can do the job.
+-   Nester: **You still have 18 manual testers who can do the job.**
 
--   Miki: Ok, but what about timezones? What if the team is distributed
-    and working from different time zones?
+-   Miki: Ok, but what about timezones? **What if the team is distributed
+    and working from different time zones**?
 
--   Nester: Let's split the day into six 4 hours blocks.  From the 19
+-   Nester: **Let's split the day into six 4 hours blocks.  From the 19
     testers, you can form 6 groups, all of them having 3 testers, and
     you will still have one extra available tester, which might come in
-    handy if somebody is sick.
+    handy if somebody is sick.**
 
--   Miki: Ok, so testers should work for 4 hours?
+-   Miki: Ok, so **testers should work for 4 hours**?
 
--   Nester: Well, that is an option too, but you can decide whether you
-    want to have testers in 4, 6, or 8 hours per day, depending on the
+-   Nester: Well, that is an option too, but **you can decide whether you
+    want to have testers in 4, 6, or 8 hours per day**, depending on the
     needs of your company and the needs of the testers.
 
--   Miki: Let's stay with the 8 hours per day, which means at every
+-   Miki: Let's stay **with the 8 hours per day, which means at every
     single point of time, there will be 6 available testers. So this
-    means they can test 6 features parallelly.
+    means they can test 6 features parallelly.**
 
 -   Nester: That is true. But let's be realistic. If a feature needs 4
-    hours to develop and 4 hours to test, then it means 1 tester can
-    keep up with the pace of one developer. Let's suppose the company
+    hours to develop and 4 hours to test, then it means **1 tester can
+    keep up with the pace of 1 developer**. Let's suppose the company
     recognised the importance of testing, so they have employed one
     single test automation engineer.
 
 -   Manality: In Miki's team at DMG MORI HEITEC Digital Kft. they have
-    1 + 2 * 0,5 = 2 test automation engineers and 1 + 2 * 0,5 manual
-    testers. This means we have the budget to employ 2 * 19 + 2 = 40
-    manual testers. The dev team is around 10 people, so there could be
-    4 manual testers for one developed feature.
+    1 + 2 * 0,5 = **2 test automation engineers** and 1 + 2 * 0,5 = **2 manual
+    tester**s. This means we **have the budget to employ** 2 * 19 + 2 = **40
+    manual testers**. The **dev team is around 10 people**, so **there could be
+    4 manual testers for one developed feature.**
 
--   Nester: Yep. That is 4 different viewpoints for each test, which is
-    way much more valuable than you can get by automated tests.
+-   Nester: Yep. That is **4 different viewpoints for each test**, which is
+    way **much more valuable than you can get by automated tests.**
 
 -   Miki: Do you want me to be fired?
 
 -   Nester: Nope, you also have your part in the equation, but let's
     talk about that later.
 
--   Miki: Ok, so what about regression testing? Any single change in the
+-   Miki: Ok, so **what about regression testing**? Any single change in the
     code can break anything. You know, many companies have **neural
     code** bases.
 
@@ -458,8 +458,8 @@ previous article, so the first question is:
 
 -   Nester: Regression what?
 
--   Miki: You know. Regression testing is when testers test whether the
-    non-changed features are still working.
+-   Miki: You know. **Regression testing is when testers test whether the
+    non-changed features are still working.**
 
 -   Nester: Oh, you are talking about that. Well, **manual testers
     should not do regression testing apart from the primary usage of the
@@ -494,8 +494,8 @@ previous article, so the first question is:
 -   Nester: We should not answer all the questions. Let's give some
     homework to the readers
 
--   Miki, Nester: Dear Readers! How can we narrow down the scope of
-    regression testing knowing the exact lines which have been modified?
+-   Miki, Nester: **Dear Readers! How can we narrow down the scope of
+    regression testing knowing the exact lines which have been modified?**
 
 -   Miki: Let's move on to the test pyramid.
 
@@ -503,14 +503,16 @@ previous article, so the first question is:
 
 ## The Humanish Test Pyramid
 
--   Miki: Humanish test pyramid? Never heard of that.
+-   Miki: **Humanish test pyramid**? Never heard of that.
 
 -   Nester: Of course not. I have created it.
 
 -   Miki: Interesting. How it looks like?
 
 -   Nester: It looks exactly like
-    this:![The Humanish Test Pyramid](artisticish-treasureish/Humanish Test Pyramid.png)
+    this:
+
+![Humanish Test Pyramid.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1650351990779/g4NzcgSVp.png)
 
 -   Miki: So you say that no automated tests are needed?
 
@@ -540,15 +542,15 @@ previous article, so the first question is:
 
 -   Nester: I know. I came up with it.
 
--   Miki: What about tedious, boring tests? They have to be automated,
-    too, right?
+-   Miki: **What about tedious, boring tests? They have to be automated,
+    too, right?**
 
--   Nester: Nope.
+-   Nester: **Nope**.
 
 -   Miki: Why????
 
--   Nester: If a feature is tedious/boring to test, it is tedious/boring
-    for the user too. It is a design smell.
+-   Nester: **If a feature is tedious/boring to test, it is tedious/boring
+    for the user too. It is a design smell.**
 
 -   Miki: Can you explain it?
 
@@ -606,12 +608,13 @@ previous article, so the first question is:
     discussion, but our readers are here to learn about testing. Can you
     please continue, Nester?
 
--   Nester: Sure. So here is the updated version of the Humanish Testing
-    Pyramid, AKA The Agileish Humanish Testing Pyramid:
+-   Nester: Sure. So here is the **updated version of the Humanish Testing
+    Pyramid, AKA The Agileish Humanish Testing Pyramid**:
 
 ## The Agileish Humanish Test Pyramid
 
-![The Agileish Humanish Test Pyramid](artisticish-treasureish/Agileish Humanish Test Pyramid.png)
+
+![Agileish Humanish Test Pyramid.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1650352014486/W5AbjfKGW.png)
 
 -   Miki: Finally, I won't lose my job. Why did you write Automated
     tests upside down?
@@ -624,33 +627,33 @@ previous article, so the first question is:
 
 -   Nester: Exactly. That is why it is memorable.
 
--   Miki: What types of tests should I write to make these
-    preconditions? I guess I have to create E2E tests to create the
+-   Miki: **What types of tests should I write to make these
+    preconditions?** I guess I have to create **E2E tests** to create the
     preconditions.
 
--   Nester: Nope.
+-   Nester: **Nope**.
 
--   Miki: Should I write unit tests? That does not make sense.
+-   Miki: Should I write **unit tests?** That does not make sense.
 
--   Nester: You are right, Miki! Writing unit tests for a tester does
-    not make sense at all. Unit tests are for developers. They are there
+-   Nester: You are right, Miki! **Writing unit tests for a tester does
+    not make sense at all.** Unit tests are for developers. They are there
     to provide a safety net for them to refactor and, of course, to show
     the logic of their program is correct.
 
--   Miki: I guess I have to use SQL and NoSQL to put the data needed for
-    the precondition into the database.
+-   Miki: I guess I have to **use SQL and NoSQL to put the data needed for
+    the precondition into the database.**
 
--   Nester: Do not even think about that.
+-   Nester: **Do not even think about that.**
 
 -   Miki: Why?
 
--   Nester: The database is an implementation detail. Testers have
-    nothing to do with it.
+-   Nester: **The database is an implementation detail. Testers have
+    nothing to do with it.**
 
--   Miki: I am afraid to ask, but what kind of tests should I write
-    then?
+-   Miki: I am afraid to ask, but **what kind of tests should I write
+    then?**
 
--   Nester: You do not have to write automated tests at all.
+-   Nester: **You do not have to write automated tests at all.**
 
 -   Miki: What??? I am fired. No way I can get out of this situation.
 
@@ -658,51 +661,51 @@ previous article, so the first question is:
 
 -   Miki: How?
 
--   Nester: You will automate the process of creating the preconditions.
+-   Nester: **You will automate the process of creating the preconditions.**
 
 -   Miki: How?
 
--   Nester: By using the app API to create the initial data.
+-   Nester: By **using the app API to create the initial data.**
 
--   Miki: I see. Can I at least write a few assertions? What about
-    checking conditions? I will definitely need some there.
+-   Miki: I see. Can I at least write a few assertions? **What about
+    checking conditions?** I will definitely need some there.
 
--   Nester: You should not automate checking postconditions.
-
+-   Nester: **You should not automate checking postconditions.
+    **
 -   Miki: Why?
 
--   Nester: If something is not visible on the UI, it is irrelevant to
-    the user.
+-   Nester: **If something is not visible on the UI, it is irrelevant to
+    the user.**
 
--   Miki: Still, I think it would make sense to check some conditions.
+-   Miki: Still, I think **it would make sense to check some conditions.**
 
 -   Nester: All right! What kind of postcondition checkings you would
     like to automate?
 
 -   Miki: I don't know. What about asking the readers again?
 
--   Miki, Nester: Dear Reader! What kind of postcondition checks should
-    be automated?
+-   Miki, Nester: **Dear Reader! What kind of postcondition checks should
+    be automated?**
 
--   Miki: So, you would like to downgrade me from a test automation
-    engineer to a test postcondition automation engineer?
+-   Miki: So, you would like to **downgrade me from a test automation
+    engineer to a test postcondition automation engineer**?
 
 -   Nester: Nope.
 
 -   Miki: Then what?
 
--   Nester: I would like to upgrade you to an automation engineer.
+-   Nester: I would like to **upgrade you to an automation engineer**.
 
 -   Miki: Hmmm. I still have to taste this name, but I like it. So what
     does it mean?
 
--   Nester: Many tasks can and should be automated in a software
-    development company.
+-   Nester: **Many tasks can and should be automated in a software
+    development company.**
 
 -   Miki: That is true.
 
--   Nester: So, your job will be to step back, look at the big picture
-    and automate the tasks with which you can get the biggest win.
+-   Nester: So, **your job will be to step back, look at the big picture
+    and automate the tasks with which you can get the biggest win.**
 
 -   Miki: Sounds cool.
 
@@ -740,8 +743,8 @@ previous article, so the first question is:
 
 ## The Rise of The Agileish Humanish Tester
 
--   Miki: In the beginning, you said that an average person can become a
-    tester. At least you calculated the salary on average.
+-   Miki: In the beginning, you said that **an average person can become a
+    tester**. At least you calculated the salary on average.
 
 -   Nester: You are right. Both in terms of the calculation and also in
     terms of the average person.
@@ -784,11 +787,10 @@ previous article, so the first question is:
 -   Nester: That is true, but the decision to work at such a place or
     not is in your hand.
 
+-   Miki: So **how will the Agileish Humanish Testers learn** this info?
 
--   Miki: So how will the Agileish Humanish Testers learn this info?
-
--   Nester: It is easy; you will write an article about all of them and
-    then attach it to the perfectish matchish partnership opportunity.
+-   Nester: It is easy; **you will write an article about all of them and
+    then attach it to the perfectish matchish partnership opportunity**.
 
 -   Miki: Ah, you are talking about McRuiter's dream.
 
@@ -796,11 +798,11 @@ previous article, so the first question is:
 
 -   Miki: Can you tell me a few words about it?
 
--   Nester: Not right now, but you can learn our previous writing. [How you can find a job in one round of interviews? AKA Perfectish
+-   Nester: Not right now, but you can **read our previous writing**. [How you can find a job in one round of interviews? AKA Perfectish
     Matchish Partnerish Opportunityish From Developerishish AKA The Great Refactoring](https://mszeles.com/how-you-can-find-a-job-in-one-round-of-interview-aka-perfectish-matchish-partnerish-opportunityish-from-developerishish-aka-the-great-refactoringmd)
 
--   Miki: So you say we should lead our candidates by giving the
-    information based on which they can prepare for the interview?
+-   Miki: So you say **we should lead our candidates by giving the
+    information based on which they can prepare for the interview**?
 
 -   Nester: Exactly.
 
@@ -812,57 +814,57 @@ previous article, so the first question is:
     basics despite this, that person is definitely not our perfectish
     matchish candidate.
 
--   Miki: I heard McRuiter also has one more idea.
+-   Miki: I heard **McRuiter** also has one more idea.
 
 -   Nester: That guy has so many stupid ideas. What is it this time?
 
--   Miki: He would like to attach the skill matrix describing what
+-   Miki: He **would like to attach the skill matrix describing what
     knowledge and skillset are needed for junior, medior, senior and
-    lead positions.
+    lead positions.**
 
--   Nester: Wow. But then people could prepare for the interview to make
-    sure they will get hired.
+-   Nester: Wow. But then **people could prepare for the interview to make
+    sure they will get hired**.
 
--   Miki: That is precisely the type of person I would like to work
-    with.
+-   Miki: That is **precisely the type of person I would like to work
+    with.**
 
 -   Miki: Nester! You would like to find manual testers willing to
-    learn, so I understand the term Humanish Tester. But what does
-    Agileish Humanish Tester mean?
+    learn, so **I understand the term Humanish Tester. But what does
+    Agileish Humanish Tester mean?**
 
--   Nester: It means that this person should be agile.
+-   Nester: It means that **this person should be agile.**
 
 -   Miki: How can they achieve that?
 
--   Nester: Introducing retro(section) into their every day, like you
+-   Nester: **Introducing retro(section) into their every day**, like you
     did in the [Agileish super learner article](https://msz.team/3vEc4Mr) and
     [videos](https://msz.team/3jFifdl).
 
--   Miki: I know what a retro is, but can you please explain to the
+-   Miki: I know what a **retro is**, but can you please explain to the
     users who do not know it.
 
--   Nester: Sure. After each iteration, the team gathers together to
-    create 3 lists. During this Scrum ceremony, everybody writes down
+-   Nester: Sure. **After each iteration, the team gathers together to
+    create 3 lists.** During this Scrum ceremony, everybody writes down
     all the above mentioned three things:
 
-    1.  What went well
+    1.  **What went well**
 
-    2.  What went wrong
+    2.  **What went wrong**
 
-    3.  What will we do to make things better
+    3.  **What will we do to make things better**
 
--   Miki: How often should they do this? After every sprint?
+-   Miki: **How often** should they do this? After every sprint?
 
--   Nester: Yes, after every sprintish.
+-   Nester: Yes, **after every sprintish.**
 
 -   Miki: But isn't 2-3 weeks too long to wait for the retro?
 
--   Nester: Who talks about 2-3 weeks? I am talking about 1-2 hours.
+-   Nester: Who talks about 2-3 weeks? I am talking about **1-2 hours**.
 
 -   Miki: Whatttt?
 
--   Nester: No matter what you are doing, you can have a retro after
-    each sprintish. The shorter the iteration, the better.
+-   Nester: **No matter what you are doing, you can have a retro after
+    each sprintish. The shorter the iteration, the better.**
 
 -   Miki: Yeah, that is what I am doing in many aspects of my life.
     Earlier I had a retro after each article. Now I have a retro after
@@ -870,30 +872,30 @@ previous article, so the first question is:
 
 -   Nester: Cool. That is what I call agileish.
 
--   Miki: So how should the agileish humanish tester test a feature?
+-   Miki: So **how should the agileish humanish tester test a feature?**
 
--   Nester: He should use a modified version of Edward de Bono's six
-    thinking hats.
+-   Nester: He should** use a modified version of Edward de Bono's Six
+    Thinking Hats.**
 
 -   Miki: I  know that method. I have incorporated it into my life. So
     what is the name of this method?
 
--   MatchyT: Three thinkingish stuffish.
+-   MatchyT: **Three thinkingish stuffish**.
 
 -   Miki: Why stuffish?
 
 -   Nester: We will talk about that later.
 
--   Miki: What is the relationship between the agileish humanish tester
-    and Edward de Bono's six thinking hats?
+-   Miki: What is the **relationship between the agileish humanish tester
+    and Edward de Bono's six thinking hats**?
 
--   Nester: So, the agileish humanish tester should wear a red hat,
-    black, and retro hat.
+-   Nester: So, the **agileish humanish tester should wear a red hat,
+    black, and retro hat.**
 
--   Miki: Ok. So what the testing process will look like?
+-   Miki: Ok. So what the **testing process will look like**?
 
--   Nester: First, the agileish humanish tester should put on the redish
-    stuffish.
+-   Nester: First, the **agileish humanish tester should put on the redish
+    stuffish**.
 
 -   Minnie: That is meeee!
 
@@ -901,11 +903,11 @@ previous article, so the first question is:
 
 -   Minnie: Yeah, I wanted to let you converse this time.
 
--   Miki: Very excellent of you. So, Nester, can you please explain the
+-   Miki: Very nice of you. So, Nester, can you please explain the
     meaning of the red hat in the three thinkingish stuff?
 
--   Nester: So when someone is wearing a redish stuffish, he/she/it has
-    to think positively and emotionally.
+-   Nester: So when **someone is wearing a redish stuffish, he/she/it has
+    to think positively and emotionally.**
 
 -   Miki: But Edward de Bono has a different hat for positivity. It is
     the yellow hat.
@@ -923,8 +925,8 @@ previous article, so the first question is:
 
 -   Miki: What should I do when wearing the redish stuffish?
 
--   Nester: You should test the positive situations when everything
-    should happen precisely the way it is described in the user story.
+-   Nester: **You should test the positive situations when everything
+    should happen precisely the way it is described in the user story.**
 
 -   Miki: Ok, so basically, you are testing the happy path. Right?
 
@@ -932,12 +934,12 @@ previous article, so the first question is:
 
 -   Miki: What else is?
 
--   Nester: In addition to testing the main functionality, you have to
-    collect all the things which you found good and useful
+-   Nester: **In addition to testing the main functionality, you have to
+    collect all the things which you found good and useful.**
 
 -   Miki: Why?
 
--   Nester: Tell the developer how great the job he/she/it did.
+-   Nester: **Tell the developer how great the job he/she/it did.**
 
 -   Miki: Hmm. I have never heard of such processish.
 
@@ -945,40 +947,40 @@ previous article, so the first question is:
 
 -   Miki: So what is the next one, Nester?
 
--   Nester: You put on a blackish somethingish.
+-   Nester: You **put on a blackish somethingish.**
 
--   Miki: Oh! De Bono's black hat!
+-   Miki: Oh! **De Bono's black hat!**
 
--   Nester: Exactly. By wearing the blackish stuffish, you get the
-    superpower to break every app you touch. It is like Midas' touch,
+-   Nester: Exactly. **By wearing the blackish stuffish, you get the
+    superpower to break every app you touch.** It is like Midas' touch,
     but instead of converting the app to gold, it converts the
     application to a massive pile of shit.
 
 -   Miki: Haha. That was funny.
 
--   Nester: First, the agileish humanish tester should use his creative
+-   Nester: **First, the agileish humanish tester should use his creative
     mind to find as many bugs as possible Then, he/she/it should write
     down everything terrible about the feature and the application
-    itself.
+    itself.**
 
 -   Miki: Ok. So what is the third thinkingish stuffish?
 
--   Nester: The third one is the retroish hatch.
+-   Nester: **The third one is the retroish stuffish.**
 
 -   Miki: You mean old school?
 
--   Nester: I mean retrospectives stuffish.
+-   Nester: **I mean retrospectives stuffish.**
 
--   Miki: Ah, ok. So basically, the agileish humanish tester should have
-    a retro after each sprintish, right?
+-   Miki: Ah, ok. So basically, the **agileish humanish tester should have
+    a retro after each sprintish**, right?
 
 -   Nester: Right.
 
 -   Miki: What should he/she/it do during the retroish?
 
--   Nester: First, he/she/it should compile a list of positive things
-    that are good in the application, so based on that, positive
-    feedback can be given to the developer.
+-   Nester: First, **he/she/it should compile a list of positive things
+    that is good in the application, so based on that, positive
+    feedback can be given to the developer.**
 
 -   Miki: That makes a lot of sense.
 
@@ -1006,19 +1008,19 @@ previous article, so the first question is:
 -   Nikolai: We should stop the gibberish talk and continue our
     conversation.
 
--   Nester: The next step is collecting all the bad things. What went
-    wrong with the tests? What is terrible is the application itself.
+-   Nester: The **next step is collecting all the bad things. What went
+    wrong with the tests? What is terrible in the application itself?**
 
 -   Nikolai: Haha. This is my time. I will tell all the bad stuff to the
     developers. I want them to feel miserable, and I also expect some
     good fight, during which they will try to persuade me I am a jerk.
 
--   Nester: You won't tell it to the developers.
+-   Nester: **You won't tell the developers.**
 
 -   Nikolai: What???? Then what is the point?
 
--   Nester: You will use this list to compile a list of proposed
-    improvements.
+-   Nester: You will **use this list to compile a list of proposed
+    improvements.**
 
 -   Nikolai: But, that is the same.
 
@@ -1051,14 +1053,14 @@ previous article, so the first question is:
 
 -   Miki: Guys! Focus. Focus.
 
--   Nester: As a third step, you put on the retroish stuffish and
-    collect all the potential improvements.
+-   Nester: As a **third step, you put on the retroish stuffish and
+    collect all the potential improvements.**
 
--   Miki: I see. That makes sense. What should I do with the list of
-    positive things and improvement suggestions?
+-   Miki: I see. That makes sense. **What should I do with the list of
+    positive things and improvement suggestions?**
 
--   Nester: You have to comment on the ticket/issue that you move from
-    testing to done state.
+-   Nester: You have to **comment on the ticket/issue that you move from
+    testing to done state.**
 
 -   Miki: Comment to where?
 
@@ -1067,20 +1069,20 @@ previous article, so the first question is:
 -   Miki: Sure. Sure. We always have tickets. Alwaysish. So what about
     the bugs?
 
--   Nester: You are right. You also have to report the bugs in separate
-    tickets and link them to this ticket.
+-   Nester: You are right. **You also have to report the bugs in separate
+    tickets and link them to this ticket.**
 
 -   Miki: Isn't it enough if I just comment my bugs into this ticket?
 
--   Nester: Well, it is up to your team how you do it, but I like to use
-    separate tickets for each bug.
+-   Nester: Well, **it is up to your team how you do it, but I like to use
+    separate tickets for each bug.**
 
 -   Miki: Why?
 
--   Nester: Because they are separate bugs, and there is a high chance
-    they will be fixed independently from each other and have a
+-   Nester: Because **they are separate bugs, and there is a high chance
+    they will be fixed independently from each other and by having a
     different issue ID, you can have a more readable commit message
-    history.
+    history.**
 
 -   Miki: I see. Actually, I am doing that, but I wanted to share our
     reasonings with the reader.
@@ -1092,7 +1094,7 @@ previous article, so the first question is:
 -   Nester: Of course. It is the platypus.
 
 -   Miki: Well, the platypus is really funny, but these animals are even
-    more amusing:
+    more funny:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aZvCwgJgm-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -1118,32 +1120,39 @@ previous article, so the first question is:
 
 -   Nester: Ok, let's do this together.
 
-Miki, Nester: Dear Reader! Thanks for taking the time to read our
+Miki, Nester: **Dear Reader!** Thanks for taking the time to read our
 article. We hope you found it valuable, even if you hate us now. You can
-find the original article here:
+find the original article here: [To Test, Or Not To Test, That Is Not The Question](https://mszeles.com/to-test-or-not-to-test-that-is-not-the-question).
 
 
-We are very curious, which one do you like better and why. Please share
-your thought in the comment section, and do not hesitate to ask if you
-have any questions!
+**We are very curious, which one do you like better and why. Please share
+your thoughts in the comment section, and do not hesitate to ask if you
+have any questions!**
 
 
-**BECOME AN AGILEISH SUPERHERO!**
+<a href="https://msz.team/38yKicd" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&amp;emoji=&amp;slug=theashishmaurya&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff"></a>
 
-**Learn how to memorise anything in the world with me. In this series, I
-teach you everything I know about learning and memorisation, including
-memory palaces, marker images, number memorisation techniques, etc.**
+---
 
-*You can already find the first videos on my Youtube channel in which I
-show you that it is possible to memorise such boring things as positions
-of circles. *
+** BECOME AN AGILEISH SUPERHERO!**
 
-*The following online session will be tomorrow, the 17th of April, at 3
-am (GMT+1/2, Budapest time). You can ask any question, and I will try to
-answer them while I try to reach level 103 and more in the Camera Mind
-memorisation game.*
+**Learn how to memorize anything in the world with me. In this series, I teach you everything I know about learning and memorization, including memory palaces, marker images, number memorisation techniques, associations, etc.**
 
-[Just click here to join!](https://msz.team/3NMJ11c)
+**You can already [find the first videos on my Youtube channel](https://msz.team/36qHu06) in which I show you that it is possible to memorise such boring things as positions of circles.**
+
+**Don't forget to [read How You Can Become An Agileish Super Learner AKA How You Can Become A Super Thinker AKA The Proof Of Concept (POC)](https://msz.team/3vxmaP8)  before you watch the videos.**
+
+**The next session's date is still under discussion, [join the Agileish Superheroes Facebook group](https://msz.team/3KXFTOg) to learn memorization techniques, thinking techniques, agility, reading and learning techniques and also to get notified about new live sessions and videos**
+
+---
+
+**As I am a crazy person, I have open-sourced my life on GitHub on Fool's day.**
+
+**I am sharing my thoughts, writings and creations and as I am committing frequently, I have open-sourced my thinking process, my writing process and also my creation process.**
+
+**[Just click here, to check my open-sourced life on Github!](https://msz.team/3JSzceX)**
+
+---
 
 **My credo**: [The Mystery Of The Supposedly Red ❤ Emoji AKA The Story
 Of How I Became A Software Developer Detective To Debug The
@@ -1154,6 +1163,8 @@ as a developer and tester in the real world.** You can **get some
 insights into my humour**, and I am also happy to tell you that **this
 is the article about which I am proudest** now.
 
+---
+
 If you do **not want to miss my other posts**, just **follow me on**
 [Hashnode](https://hashnode.com/@mszeles),
 [LinkedIn](https://www.linkedin.com/in/miklos-szeles/),
@@ -1162,6 +1173,8 @@ If you do **not want to miss my other posts**, just **follow me on**
 [dev.to](https://dev.to/mszeles),
 [Hackernoon](https://hackernoon.com/u/mszeles) and even
 on [Instagram](https://www.instagram.com/szelesmiki/). 😊
+
+---
 
 -   Minnie: Pssst! Miki!
 
@@ -1181,5 +1194,6 @@ on [Instagram](https://www.instagram.com/szelesmiki/). 😊
 -   Miki: No way! Show it to us!
 
 -   Minnie: Here it is:
-    ![The Agileish Humanish Tester](artisticish-treasureish/Agileish Humanish Tester.png)
+
+![Agileish Humanish Tester.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1650351952708/2Xkr7BRCr.png)
 
