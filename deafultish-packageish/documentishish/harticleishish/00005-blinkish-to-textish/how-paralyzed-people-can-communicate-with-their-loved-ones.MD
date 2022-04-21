@@ -56,13 +56,25 @@ DJMic: [Please start this music](https://www.youtube.com/watch?v=p8UYvbqROdc)!
 - Thoughtish to Thoughtish
 
 ## Thougthish to Thoughtish
-
+DJMic: Here is the next song. [Just click here.]( https://www.youtube.com/watch?v=shoVsQhou-8)
 ### Goals
-
-## Blinkish to Textish
 
 ### Motivation
 
-### Insipration
+### Inspiration
+## Blinkish to Textish AKA Contacting The Brain - The 0th Step
+As I knew very little about the brain I have decided to do a study project during which I learn about the following things:
+-	The build-up of the brain
+-	The function of the brain
+-	Brainwaves
+-	The build-up of EEG devices
+-	The function of EEG devices
+-	The limitations of EEG devices
+-	Biofeedback
+-	The Morse code
+-	Building a mobile app in Python
+     In this writing, I will focus on mobile development, but I will mention related things when it helps understand the whys.
+     This project is for contacting the brain the first time. I have to know very little about the brain in order to achieve this. Actually based on the information shared by Anush Mutyala I can implement the first step as I only have to combine blinks with the Morse code.
 
-### The
+As I did not know the Morse code, I have learnt it using my agileish super learner abilities. You can find the mind map here if you would like to learn it too.
+
