@@ -192,6 +192,9 @@ to memorise the word gulyás (Goulash in English and グヤーシュ in Japanese
 you heard about 
 it. 😊
 
+**Dear Reader! What is the first word comes into your mind when you hear the word hungarian? Please share it in the
+comment section.**
+
 While I was using memory palaces I usually used the place with which I am most familiar with which is our flat.
 
 So in order to get into the flat, I open the door, but an accident happens. There were a bogrács (cauldron in 
@@ -200,61 +203,186 @@ meeat cubes.
 
 That's it.
 
-If you want to memoruze the order too, it is important to have a visit order in which you visit the parts of your room.
+If you want to memorize the order too, it is important to have a visit order in which you visit the parts of your room.
 
-That's enough from boring memorisation techniques. Let's talk about speed reading!
+That's enough about memorisation techniques. Let's talk about the big gun!
 
 ### Speed reading
+I have tried to learn speed reading 3 times. The first 2 was a complete disaster. I have used tools like Spreeder and 
+others with which I was able to boost my reading speed.
 
-**Dear Reader! What is the first word comes into your mind when you hear the word hungarian? Please share it in the 
-comment section.**
+But there was a tiny little problem.
 
-To keep it short let's say I want to memorize a queen of heart, and a diamond king.
+I could remember almost nothing.
 
-So I imagine a queen with a crown on her head wearing a robe. The robe is open and I can see a T-shirt on the queen 
-with the text "I ❤ chocolate cake". To connect it with number 1, I imagine she is eating a pistachio cake which has 
-a single candle on it.
+The fact that I have never known a single person who can really do reading with 700 words per minute with 90% of 
+comprehension lead me to the conclusion of speed reading is a hoax.
 
-This is enough, especially as I was able to connect it with a very memorable thing. With the movie "És megint dühbe 
-jövünk... (Odds and Evens in English)" featuring Bud Spencer and Terrence Hill.
+That is how I lived my last 15 years.
 
-So for the king I imagine a huge room in which there is a hook on the ceiling. A king is clenched his fists on this 
-hook, to make sure he won't fall down to ground. As the room is completely full of aligators. The king has a huge 
-diamond in his hand but in order to prevent falling down he drops diamond nad one of the aligators swallows it.
+But something changed since then.
 
-That'a it. This is 
+My Udemy course library is similar to my Steam library. It is full of never visited courses/games which I bought 
+when there was a sale. 
 
-I even blogged about that on [my personal blog](https://msz.team/3NSGB14). It is in Hungarian, but thanks to Google 
-translate you can read it if you are interested.
+So back then in December I found a course called Super Learner and bought it.
 
-However I was able to memorize the order of a deck of cards using the PAO (Person, Action, Object) object, but I 
-could never appl this technique in real life up till recently.
+As it is promised I will become a superlearner I immediatelly bought it and started to watch.
 
-1. Raise curiosity by előolvasás (preview)
-2. Ask as many question as possible related to your subject
-3. Speed read the book
-Create mindmaps in your head.
+It was a disappointment for me. The subject was interesting but I had the feeling it is just talking about things, 
+and not giving any guideline to follow.
+
+Then I found out it might be intentional as Jonathan Levi who has created the course founded a company Super Learner 
+Academy.
+
+You can enroll to this academy for a nice amount of money. In exchange to that, you will get access to a lot of 
+courses. There is a basic and a premium offering, I have decided to go with the premium to get the most value about it.
+
+I have only wathed a small portion of the Super Learner Master Class, as for me it did not provided extra vvalue, 
+except an excel sheet, which contains what you should practice when.
+
+So I decided to cancel my subscription. After writing a mail to the support to cancel my subscription I got a mail 
+(I guess an automatic mail) from Jonathan LEvi in which he explains why should I stay.
+
+This is a perfect marketing strategy, he was able to convince me to keep the subscription as I was interested in 
+productivity boosting about which they also have a course.
+
+I just cancelled my subscription a few days ago, as I am becoming more and more productive since I became an 
+agileish super learner.
+
+Despite this I highly recommend giving it a try. If it can onyl improve your learning speed a little bit, it is 
+still a great value. And of course you can cancel your subscription anytime, like I did.
+
+I am happily pay even a high price for something which gives me value, but as I am constantly changing it is always 
+something different in which I see value at the moment.
+
+I have learnt one very important thing from the Udemy Super Learner course:
+
+Up till you do not have a great memory, there is no pointof learning speedreading, as you will forget everything. 
+The book came up with the example of filling a bucket with a water hose. No matter how fast the water is coming, in 
+case your bucket is full, then you just waste the water/time by trying to fill it.
+
+The information that you have to improve your memory first was crucial for me.
+
+## Becoming a Super Thinker AKA The Hundred Thinkingish Smurfs Methodish
+In case you read my writings you already know I have introduced more than 30 immaginary characters by now. In the 
+beginning they were inspired by Edward de Bono (who is a genious)'s Six Thinking Hat, then later I relized there is 
+an even better method. 
+
+The method is coming from Peyo who is an even bigger genious than Edward de Bono.
+
+Peyo is the father of the Hupikpk Törpikék (Smurfs in English, スマーフ in Japanese).
+
+But he does not only have 6 hats, but he has more than a 100 smurfs.
+
+So let's see how they connect:
+|My character| De Bono Hat|Smurf in Hungarian|Smurf in English|Smurf in Japanese|Attributes|
+|------------|---|------------------|----------------| -----------------|----------|
+|Minnie|red|Törpilla|Smurfette| スマーフェット|empathy, enthusiasm|
+|Nikolai|black|Dulifuli|Grouchy Smurf|Grouchy sumāfu|negativity, critical thinking|
+|Mictor|green|Törpingáló|Painter Smurf|画家スマーフ|creativity|
+|Metro|blue|thinking about thinking, keeps focus, reflects|
+|Not employed yet|yellow|még nincs beazonosítva|not identified yet|まだ特定されていません|
+|Miki|white|Miki|Miki|In reality I have a rainbow coloured hat, as I am all my characters together|
+
+My first character was Minnie. I have no idea where she came from. I do not believe in the one and only God as it is 
+described by the Bible, but I do believe in a higher intelligence.
+
+At the moment I cannot exclude the possibility of the idea that this came from a higher intelligence, but I will 
+revisit my writings in the upcoming days who know maybe I find something just like in [The Mystery Of The Supposedly 
+Red ❤ Emoji AKA The Story Of How I Became A Software Developer Detective To Debug The Internet](https://mszeles.
+com/the-mystery-of-the-supposedly-red-emoji-aka-the-story-of-how-i-became-a-software-developer-detective-to-debug-the-internet.)
+
+So as at that time my most important feelings were empathy and enthusiasm Minnie came alive.
+
+Almost immediatelly came Nikolai, who was ruled my life for 3 decades.
+
+The appearing of these characters completely change my thinking process. Thanks to De Bono and Peyo no matter what 
+exact question/topic we are talking about, I can think crystal clearly.
+
+In the beginning I had to write down everything in a conversational style, then I just separated my thoughts in my 
+head by naming the source of the thought.
+
+By now, I can immediatelly tell which of my thoughts coming from whom.
+
+**I do believe we have everybody in our head who has affected our lives in any way.**
+
+Of course the most loud people are our parents, but I have thoughts coming from every single person I interacted 
+with in any way.
+
+All the characters were there, and they were talking all the times, but I couldn't hear them as they were talking 
+at the same time.
+
+By putting on the white hat, I became a moderator who makes sure everyone has the chance to talk and also makes sure 
+that only one character talks at the same time.
+
+By doing this I have become a Super Thinker, it is like having a quantum computer in my brain.
+
+I use this super thinker skill to make the world better for my son Levi, for all the children and for the adults too.
+
+I have many ideas, but I love to think in groups much more, as it is much much much more valuable.
+
+In order to start conversation with people from all around the world, I have decided to make myself open-source.
+
+## Becoming open-source-minded
+I am a foolish guy, so on 1st of April, 2022 I have decided to make my mind open-source via GitHub.
+
+I share my thoughtishish, my writingishish and my artisticish creationsishish and as I do it on GitHub I also share 
+my thinking process, my writing process and my art creation process.
+
+You can find it here if you are interested. [Just click here!](https://msz.team/3M9yyLV).
+
+In addition to start conversation with open-minden fellow humans I have crated it to have a legacy for my son, Levi, 
+for my wife, Panni, for my family, for my friends and also for everybody who is interested in it for the case when 
+the time comes, or in case a tram goes through me.
+
+## Being an Agileish Super Learner AKA The Agileish Mind Methodish
+As I am an agileish learner, I commit after each iteration.
+
+Approximately 1 week ago Metro joined our team. He is our Scrum Master who is responsible for the retros.
+For those who are not coming from the agile world:
+
+Scrum is a methodology for software delopment, but it is universal you can use it almost eveywhere. 
+
+Actually that is what I am doing. My life consists of short sprints, no matter what I do thanks to Metro.
+
+So a Sprint is a 1-6 weeks long etap, during which the team develops the features which gives the most value to the 
+customers.
+
+After each Sprint/iteration there is a meeting called retrospectivev.
+
+During this meeting the team creates 3 lists:
+1. What went good?
+2. What went wrong?
+3. What we will do differently?
+
+With this simple process you can make sure your team is continuously improving. Just imagine you have 2 weeks long 
+sprints and you can improve 1% in something which is relevant after the retro. This means an 1.296 performance 
+multiplier in 1 year and 3.64 multiplier in 5 years.
+
+1% might sound overoptimistic, but believe me it is not.
+
+In the beginning I only applied the retro for my writing after finishing an article. That was already a huge step 
+forward.
+
+By now I do a retro after each paragraph, and in addition to that I do a retro for basically everything what I do, 
+thanks to this I improve exponentially no matter what I do.
+
+Dear Reader! If there is only one thing you will bring home from this hartcile, I kindly ask you to bring home this:
 
 
 
+**Everybody can become a super thinker and also a super learner by following the simple guidelines I have shared 
+here!**
 
 
-## My attempts to become a superhero with the super learner ability
-learner. 
 
-An efficient solution that is very effective for this problem.
+In case you are stucked, I will gladly help you just contact me on any of my channels which you can find at the 
+bottom of this article.
 
-In the video, I also came up with an idea of how to reuse memory palaces without mixing them with previous usages. I have not learnt that technique anywhere. It just popped into my mind. And it works like a charm.
-
-- Minnie: Miki! Won't you share this technique with your readers here?
-- Miki: Nope.
-- Minnie: Why?
-- Miki: I want them to watch the video as I do believe it is equally valuable for kids for adults too.
-- Minnie: That is clever.
-- Miki: I know.
 
 ## The Pomodoroisch Techniqueish
-I use the Pomodoroish techniqueish, which consists of 2 parts.
+I use the Pomodoroish techniqueish to do iterations, which consists of 2 parts.
 
 1. 5-25 minutes smoking, during which I am thinking.
 2. 15min - 3-hour creation and thinking till I am in the flow. My son Levi might ask me to play with him after 15 minutes, but in case my family is sleeping, I could go up till 3 hours.
@@ -267,19 +395,128 @@ Earlier I had a retro after each article. Now, I have a retrospection after each
 
 Thanks to this, I can improve exponentially.
 
-## How I Made Myself Open source?
+Minnie: Wow, Miki! That sounds amazing!
+Nikolai: This is a bullshit.
+Mritishish Scientistish: We have proven with my colleagues that Humanish Intelligence (HI) cannot overperform 
+Artifical Intelligence (AI) anymore.
+Miki: We will see. We will see.
+Nikolai: Without any proof this is just a fairy tale. Do you have something?
+Miki: Sure! First let tell where I am at the moment.
 
-I am a crazy guy, so on Fool's Day, I have decided to make myself open-source.
+## Where I am at the moment?
+Thanks to the Hundred Thinkingish Smurfs method I feel like Paul Atreides. 
 
-I have decided to share my thoughtishish, writingishish and artish creationish projectishish.
+Paul has all his ancestors in his mind, and I do have all my ancestors in my mind, because my parents are in my head,
+and they are the improved versions of their ancestors.
 
-As I am doing it on GitHub, I also share my thinking process, writing process, and art creation process, thanks to the commit history.
+Thanks to the Agileish Mind Methodish I feel like Eddie Morra (Bradley Cooper) on NZT or like Paul Atreides being 
+high thanks to the spice.
 
-You can find it here if you are interested. [Just click here!](https://msz.team/3M9yyLV).
+At the moment I can type as fast as I vocalize the words in my head. This is the current biggest barrier in my 
+improvement.
 
-## My First Ever Live Session
+I have contacted Andrea Szabó, who is a Super Learner coach at Jonathan Levi's Superhuman Academy.
 
-Tomorrow at 3 pm (GMT+1), I will have my first ever live session in which I try to reach 103 random circles.
+I conteacted her to help me get rid of subvocalization (that is the official term for vocalizing the word in your 
+head while you are thinking).
+
+Andrea teaches memory techniques and speed reading. I highly recommend to contact her, as the value she provides is 
+invaluable. 
+
+I do think you can progress on your own with the methodish I shared here, but in case you need some guidance just 
+contact her, or me.
+
+If I can get rid of subvocalization I will be able to think only in images which will give an extreme boost to my 
+memory, as the brain can process images in a fraction of a second.
+
+## My plans for the future
+So let's see where I am at the moment!
+
+My ultimate goal is to arrive to the point when two humans can communicate with each other only with their thoughts. 
+
+For this I think we will need a temporary solution in which we can convert our thoughts into text and the other 
+person can (super) read it.
+
+I will create a GitHub repo with the name The Hamunisch Intelligenceish (HI) Projectis. I will collect all the projects 
+in that repo, which helps to make this planet a better place for our children and for us too.
+
+At the moment I have 3 project ideas:
+1. A Douglas Adams inspired life simulation game.
+2. An universal sign language.
+3. Converting brain waves to written text.
+
+I write here about the 3. project but in case you are interested in the others, just drop me a DM.
+
+All of these projects will be open-source. They license type will be the Hamunish Licenseish. To quickly sum it up, 
+you can use it for free for any project, even for for-profit goals in case you use it for making the world better.
+
+In case AI will be used in these project, they must be understandable and ethical AI solutions only.
+
+Everybody will have read access (even AI), but it is not allowed for AI to incorporate these projects into their 
+learnings.
+
+I would like to find kind and helpful people who are willing to contribute to these projects. Just drop me a DM in 
+case 
+you are interested! You can find my contact options at the bottom of this article.
+
+Regarding the 3. point I have defined the following goals which will be transformed to HSMARTish goals in the near 
+futures.
+
+1. Being able to transfer 0 and 1 to the computer. I do believe the best approach is to define a common languaeg 
+   between computers and humans. At the moment we are the smarter ones, so we should speak the computers language first.
+2. With this we could convert any thoughts to written texts, even if it is cumbersome.
+3. Teach the universalish sign language to the computer, so we can have a conversation with it.
+4. Communicate with the computer by transfering the subvocalized words.
+5. Communicate with the computer only with images.
+6. Communicate with other humans using a middle layer (computer).
+7. Direct image based communication between humans.
+
+The concept is working as 3 people from the California University have created such a solution with which they were 
+able to recognize with 96% of the words.
+
+Unfortunatelly, it is not open-source as far as I know, and it 
+
+I already borrowed a Muse (1st gen) dry electrode EEG device from Andrea and soon I will order the Muse S. I do 
+believe if we reach some goals, we can get Muse to support us with EEG devices. At least I will definitely ask them 
+to do that.
+
+With this device you can get the RAW brainwave data in real time. 
+
+I have not written a single line of code, but I found projects with which you can control the computer with blinking.
+
+My plan is to collect all my friends on the [Craft Conf](https://msz.team/37uSJ7Q) about which I will write later. I 
+want to collect them to join this project, I would like to put the basic cornerstone of this project by Hungarian minds.
+
+Immediatelly after that, I will open it as an open-source project. Just drop me a DM if you are interested.
+
+So let's get back to Nikola's question
+
+## The proof of the usefulness of techniqueishish I have written above
+Andrea Szabó has shawn me a game called [Camera Mind](https://msz.team/3xg0Y2z) on the webpage of the Super Human Academy in which you have to 
+memorize the position of colourful circles.
+
+Andre told me she has a student who reached level 102 where she stopped, as in case you can memorize 102 circles you 
+can memorize as much as you want.
+
+My goal is to reach 103,and later to reach the final level. At least I guess there is a final level as we will run 
+out of empty space at some point.
+
+I had my first session at the very same day.
+
+I had 3 sessions and I have reache level 52, where I miserably failed.
+
+In this video I demonstrate almost all the memorization techniques I have learnt during my life, and I also 
+demonstrate how you can use the Agileish methodish in real life.
+
+I am thinking aloud in this video, so you can understand what I am doing.
+
+It is so easy even children can lear it. Actuall yit is much easier to them, as they still have an unimaginable memory.
+
+You can find this video on Youtube. [Just click here!](https://msz.team/3v4dRtL)
+
+## My first ever live Super Learner session
+
+Today at 3 pm (GMT+1), I will have my first ever live session in which I try to reach 103 random circles.
 
 You can ask me anything during this, and I will try to answer it.
 
