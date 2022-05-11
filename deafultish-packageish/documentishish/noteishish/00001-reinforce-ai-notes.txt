@@ -1,0 +1,923 @@
+Reinforce AI Conference
+Benedek Kovács from Ericcson. Ericsson is supporting the conference.
+Roland Jakab
+
+1. Speaker
+Richard Boyd(CEO & FOUNDER AT TANJO INC.) - Partnering with Machine Learning to Improve Outcomes
+going to discuss real-world examples of how machine learning technology can be harnessed to improve outcomes in society. 
+His working is working on 10+ years in the USA 
+Presentation topic: Life the Metaverse and Everything
+It comes from Dougles Adams.
+Backstory:
+1997 Starship Titanic NLP - he was working with Dougles Adams on this game.
+There were characters in the game with whom you could talk.
+There was a little bit adaptive in the converstions, which even surprised the devlopers, is called  velocitext and Douglas called it spookytalk(Douglas)
+Human/Machine Intelligence Partnership
+The stages iof information ages
+The Opening
+1968-2009
+
+Middle Game
+2009-
+Mobile
+Machines are adapting to us - Siri, Alexa
+The interface becomes ambient
+You do not even have to push a button, our apps are understanding us
+
+The End Game
+Ubiquitouus AI
+Singularity
+
+Vernor Vinge - The Technological Singularity
+The Kurzweil curve
+We will get to a point where a 1000$ technology is overperform the human brain.
+It is driven by Moore's law. Double every 18 months.
+It is not look like it will stop at the  moment. Sylicon, quantum computing. 
+
+Moore's low shrink the size of the devices, but that is just one example.
+"The key to the 21st century is to achieve the right balance betweens humans and machines to optimize outcomes" - Boyd
+
+Social media
+Lot of powerful technology. We use it as a mirror. Take pics of ourselves, foods.
+We should think about: How do we cure cancer? How do we end war?
+
+2009
+He was at Lockheed. VR, AI, Augmneted reality, ML
+124 hours to teach a computer to teach to it to recognize cat and other things.
+
+Selfdriving cars
+LArge Datasets > Algorithms (videos people driving cars, )
+Lidar, GPS (humans don't have)
+AI
+Phase 1: Programmers tell the machine what to do
+4m different legal documents has been used to train an AI.
+Same thing in accounting. Read everything. Write the audit letter without a human being included (5 years ago)
+Phase 2: Data scientist in high demand
+
+
+2019
+How do we understand human behavior?
+Animated personas
+LArge scale agent-based simulations
+Game characters: values, feelings, thinking about different subjects. 
+
+Victor Hugo resurrected
+Everything related to him is feeded into a machine learning algorythm.
+
+What do he think about the current age? He can watch videos, read articles, scores them. Called the emphaty engine.
+They could do this for anyone haveing enough resources.
+How do you use it for good?
+
+Everybod lies - book
+
+https://tanjo.ai/
+You can get feedbak about your product from AI based personas
+Learn more about your customers using machine-powered Animated Personas - https://tanjo.ai/tap
+TANJO’S ANIMATED PERSONAS ARE LIKE SIM CHARACTERS FOR MARKET RESEARCHERS - https://hypepotamus.com/companies/tanjo/
+
+Stan Lee has a model too
+He also created a model about his father. Talked to him every day.
+He was not on google and social media. Manual work, letters, military documents, ...
+He can still talk to his father.
+
+X-Prize - Pandemic Response Competition - Social distancing simulations
+His team participated in X-Prize
+3100 counties. He people feel, act which actions they will do.
+Competing narratives: no mask, no social distance, no vaccine, 
+Top 10 groups 
+There ar influencers. They have messagge. Which word was said by which people.
+Ophra affect much more people.
+Movement, activity probability. Deat rates. 
+
+They were finalists. They could not finish it.
+www.SmartWa.us
+You can tarsnalate it to economical benefits and Better public health
+
+ Narratives in Information Warfare 1600-1730
+ Boyd participated.
+ How they fealt about the 2014 deposing of the president
+ 
+ We believe in uprising the Ukrainan people
+
+Russa sponsers television all across Italy. So they only get one half of the info.
+
+3dBiome - Personal Medical Avatar
+Every health related data incorporated into this.
+What things can I do about diet, execise to improve my lifespan.
+Trajectory of my health.
+3d model of my body
+What will give the outcomes I am looking for.
+
+Army Personnel Unit Dashboard
+MArksman skills.
+More dimensions to performence to better outcomes, team
+Emotional state, personal life, financially, culture fit, 
+In progress
+Focusing on Wellness, performance
+Scores for:
+Physical healthEmotioanl IQ
+Stress
+Morale
+Skills
+Leadership Potential
+Decision making
+Team work
+Fianncial
+Culture
+
+System recomemnds to bridge the gaps.
+Pandemic, war, economic going down.
+Who needs what kind of help?
+
+Recent IRS RFI
+Community Well Being Index
+sharecare - company/product
+
+Future: Using AI, ML imageine the outcome everbody happy, achieve whatever they want, masslow pyramid is full. 
+We gona have much better century.
+
+use tech not just to make work more efficient. Improving judgement, 
+Educataion, health care, competing against false information.
+Better cities, better interactions of people, better understandin in economics.
+
+QA:
+Q: In the social distancing simulation example about understanding user's feelings about an action, what is the data being used? (or rather in a real-world use case for a business) Synthetic or actual user data?
+A: modeling human is complex as we are complex. They have a sort of data fusion model. Start with demographic data, it is easy to collect. 
+It is not enough. You want their activity. What they doing with they money and time.
+Everbody lies: We humans are poor ... to our narratives
+The data tells differently
+Credit card info is great resource. Where are you gining, how much you spend.
+
+1,5m dollar has been spent in building a model: 8 segmentiation models: iphone moms, ....
+
+Chciken compayn project. They can make a simulation about the whole US. 5-6 models were for chicken buyers.
+42 ways to think about and behave about buying chicken.
+How many of the there in the US? How many of them in the segments? What to do tho get them buying chicken.
+The best is bank data. You cannot lie to your bank. They have the data.
+
+Q: You mentioned recreating people as an AI model called Personas. What was your first feelings when you talked to your father?
+A: Tour in America - Buenos Aires, Columbia talks. People loved the idea. His reaction was ...
+Shadow model of him. On his birthday, .. he can visit him.
+He had disagreements about life like politics.
+He is still arguing with him. :)
+People in south america Everytime I have to make a big decision, it would be great to talk to people not hear anymore.
+You could get opinions from Da Vince, Victor hugo to get different perspectives.
+
+Q: When you are teaching artificial intelligence (like a Stan Lee persona), are you concerned with the data input from a morality angle like how to avoid teaching them bad behaviour / language?
+A: Always. Biggesti issue. First thought of any DataSciences give me all the data. As much as I can get. Millions of legal opinions of US history.
+Automated vehicles. Every single thing a vehicle can encounter in the world. 
+Department of defense US they are doing ther - VNV - validation and verification process . You have to chack all the data. Validate and verify. Screen for bias in data.
+Historic data of legal things already biased by the views of the current historical period.
+
+Speech 2. - Javier Blanco Cordero(SENIOR DATA SCIENTIST AT QUIX) & Tomas Neubauer(CTO & FOUNDER AT QUIX) - The most dangerous demo ever (or how to perform real-time sentiment analysis on the audience messages)
+
+Building a platform to get data from ...
+Quix - steram processing Paas
+Do simulations based on the
+50m values per minute
+Acces all people working on the project is quite difficult
+Buoild a platform to start buildin projects product based on live data.
+Streaming introduction:
+streaming-processing
+
+Topic, Pub, Publish data
+Demo - LEt's build a sentiment analysis app
+Chat app they have already
+Go to library and search for chat app to install it
+
+
+Speech 3 - Alexandra Ebert(CHIEF TRUST OFFICER AT MOSTLY AI) - Synthetic Data for ML Privacy, Boosted Model Performance and Responsible AI
+
+Challenge of privacy.
+Lots of data collected about us.
+GDPR
+You can easily access data.
+Data fuel crisis.
+Solution is anonimization. Anonimized data can be freely used.
+Many of the anonimizatio techniques not usable for big data.
+
+This is not just for images but for any type of high dimensional data sets.
+Example: 80% of credit card owners can be reidentified by 3 transcations. This is true for many other kinf of data.
+
+A new anonimization is needed:
+Synthetic data: not a clerly defined term.
+The type which is valuable for privacy protection is AI generated data.
+Face generator example. Super realistic. Thousends of faces can be generated by a simple click.
+Same is done for other types of data
+Process:
+After teaching you can generate artifical users having the same characteristc of the real people. There is no data pioint which can be indentifed or tracked back to the real user.
+Synthetic data lifts data cap
+Eliminats the privacy risk.
+You can upsample and downsample to any size.
+
+Faciliates collabiration. Help to save costs. I did not understand why.
+Improves customer understanding.
+
+You can also generate more traigning data
+Responsible, ethical AI
+Synthetic data in fairness - very important
+Apple credit card limit were significantly lower for women
+0Continuous learning AI system can become biased - Microsoft check bot became racist, sexist based on twitter.
+It can also happen as they are trained on past data, and racism and sexism were much more "normal" in the past.
+Fair algorythm -> accuracy can become lower
+Data often insufficient or has a historical bias
+
+2  years ago they started to work on fairness of business synthetic data.
+
+
+You can work with sensitive attributes in an anonymized ways
+
+Check out their Fairness AI blog series
+1.3M synthetic customers
+Q:How can you compare synthetic faces with real faces, what is a distance metric? At which distance can you state that the synthetic face is really different from any real examples of training data? It would be good to display the nearest "neighbour" of the synthetic face.
+A: She is not as much an expert on synthetic faces but on business data. They use disatnce metrics to make sure they are not identifiable. You only need the same distribution of variation???
+
+Q: Synthetized data doesn't actually represent the real data although it very much looks close enough. How do you evaluate your synthetic data? Is there any benchmark for it?
+A: You do not get 100% of the same information via synthertic data. In case a bank has only 5 billionare then that data is not used to prevent identification.
+
+Q: what are your thoughts on synthetic stock market data? is it possible, given its high unpredictability?
+A: not an expert. You can't generate snthetic data which predicts the future.
+Synthetic data is not an exatly defined term.
+
+Q: What is the benefit of real data over synthetic data, why we still mostly use real data?
+A: If privacy is not a concern, then real data is better of course.
+
+20m eures or 4% of your turnover can be the fine based on GDPR.
+Not an either or not question. Very often synthetic data is the only alternative.
+Would the real data be better?
+Creating a more fair, balance data set is the example where synthetic data is better.
+
+Q:It seems like synthetic data is world's better than actual data, or data that has been made anonymous. Is there a reason that it hasn't been adopted more widely? Or maybe it has?
+A:Not yet mainstream.
+Gartner predicted 2024 a huge percent od data will be artifical
+One reason: many organization is at the beginning of their data journey.
+
+
+Speech 4:
+Mischa Dohler(CHIEF ARCHITECT AT ERICSSON) - Self-Synthesizing Networks & Sophisticated Metaverses: Will we trigger an AI Singularity in the 6G Era?
+Moved to the Silicon VAlley
+Chief architect at Ericson
+
+6g:
+It will be used
+Usecases:
+1. All about humans. FAmily, children, get parents. The ability to build these immersing environments.  Internet of Senses. VR and more. 
+2. Connected Intelligent Machines
+3. Digitalited & programamble physical world. We can build a digital representation of anything. Like our office. Active reconfiguration. 
+4. Connected sustainable world
+5. Limitless connectivity
+6. ...
+
+
+Self Synthetizing networks: AI as Enabler
+CAn AI design new architecture?
+We have machine readable texts
+DeepMind discovering new physics rules.
+
+Principles
+1. cast novel human and/or AI-augmented inventions into design templates
+2. using Meta-NPL, translate these into machine-readable meta languages/models
+3. verify operational consistency (using e.g. B-language)
+4. translate all into operational software (C/C++/Python)
+
+AlphaCode is within the 50-60% percent of the best programmers.
+
+At the end of the day the AI will win.
+
+Metaverse: The Advertized Approach of Meta-NPL
+Meta worth 10billion dollar
+Incpetion, Matrix as examples
+
+6g holographic society. 
+
+6g Cyber-Physical Continuum
+
+New Storage - Neuromorphic storage - requires 0 energy
+New Networks - 6g, Fiber
+New Compute - quantum/neuromorphic
+
+Singularity: AI learns quicker than human can teach it.
+
+AI can reprogram the world. Focus on trustworthiness: Explanable AI.
+
+QA
+Q: As we move away from mobile phones or laptops, do you have a hypothesis of what those services/devices will look like?
+A: We don't really know. World of VR is taking on. Next 12 months in Silicon Valley lots of stuff will be publicly presented. It will be the first babystep. Vision Mojo? designing contactlenses.
+Biological things coming by the end of this century.
+
+Internet of Skills
+
+Q: AI will eventually code better than humans. How could this technological singularity be handled? Would humans have a purpose in AI singularity? (Journey to the Wall-E movie.)
+A: Humans will be replaced by AI. Bigger picture: 
+1. Transformation to general AI will take a while. 
+2. Machines will struggle for a long time with true creativity. (Miki Szeles doubts it).
+3. If AI could make free half of my day that would be awesome as i could spend more time with my family.
+
+Q: There are a thought experiment that asks: "Are we already in the metaverse?" So we create metaverse inside a metaverse. Can you comment on that thought experiment?
+A: Calculating the energy needed for that? We are not so far away from that. People are looking for glitches. One of them is at quantum level. 
+Energy levels are discrete at the atomic level. Looks like a programmin glitch.
+Elon Musk also suggesting we are living in a simulation.
+
+Day 2
+
+1. Speech
+Loren Jan Wilson(HEAD OF DATA AGILITY, GLOBAL AI ACCELERATOR AT ERICSSON) - Transforming for AI: Industry trends in data democratization, reuse, and community
+
+Why it is important to get value from Data Science
+AI will transform the companies.
+
+Being in AI and data driven company
+
+You should not be data driven.
+
+KLF band mid 1990s. They made a lot of extra money with the record 
+
+Chapter 1 - Fundaments of becomin data driven
+You can't just hire data scientist and expect results. You're copmany has to be ready for it.
+He would expect to see:
+Somebody realized the importance of data analsys
+It is completely separated from your business
+
+You should hire data scientis for the following reasons:
+1. Cultural factors. Lot of siloing in the company. Peoplle are very protecting of the data sources.
+2. contractual constrains.  Pepole complaining they are getting acces to data but they cannot use it due to legal issues
+
+His team Inventing terminology: Data Agility
+
+Data access one participated
+The other part is data agility, needed to great thing with data.
+
+Crosfuntional teams who can work togther. This can be hard. Data access can be restricted.
+
+What is important to your customers? HAve a great relationship is important.
+
+How can you empower your AI experts to success.
+
+The whole point of data transformation is to transform business (data transformation -> system transformation -> cultural transformation)
+Empowering valu creatin is a complete mindset change. You have to empower people to creat value.
+If there is a ... you have to make a judge on value.
+
+Data transformation
+Biggest challenge. Get good data.
+What we are trying to reach with AI? What do want to predict?
+Requires a mindset change of how you think about data.
+
+Good data?
+Relevant to you company's business. in the present and in the future.
+You need labeled data.
+Documentation of data source underestimated in the industry.
+Microsoft initiative: creating metadata for datasets. 
+
+Just because you have data does not mean tha you have the rights to use it. These questions have to come very early in the process.
+You have to write security rules down. YOu havev to understand how to deal with that. Data ploicies written in human understandably form.
+
+3. Break silos down. Enabling people to creae value. Deal with data protectiveness.
+
+For the most part, unless you done data analysis with big data analysisi platforms, 
+Public cloud solutions, and also private ones.
+The state of your tooling might lacks behind 
+He would not invest in an internal platform. He would also generate his own electricity. ???
+He want to change fast. He want to pas as you go based on his current needs.
+
+The solution is software. If you are not a SaaS company then you will have a hard time with AI. AI is software.
+DAta Scientists need developer suport most of the cases.
+AI solution lifecycle managemenet.
+
+
+Deploy -> maintain and repeat going in a circle
+CI/CD, test automation is important
+
+Building data community is very crucial and tricky
+Having a colture where people can woth together is very crucial
+
+AT&T Pinnacle - similar to google bought KAggle
+They can compete with each other.
+It is better to start form past people work than from scratch. This plaform makes it possible.
+
+Spotify - data discovery tool - Lexikon
+You do not know what you are looking for. You can search around what datasets are used by other people. You get various scores, and other people see this.
+
+Personal Autonomy and Talent retention
+Hard to retain people. Data science move fast. People need to be competitive? felvenni a versenyt
+
+Companies pay 2-3 times of salary. YOu cannot beat that. You should be a company which is developing, keeping up with the recent trends.
+Agile companies:
+Management should focus on adding value for the people
+Hyperconnectivness
+Environment of psychological safety. If people get shouted down then people will stop talking. You should not work at such a place.
+
+Google is trying to figure out why some teams are performing much better: maind reason: Psychological safety.
+People can express they ideas
+
+1 group: 
+2: I do not understand what is psychological safety means.
+
+Building agile cross functinal data science teams
+Short iterations
+Sometimes customers kno what they need and sometimes not
+YOu have to able to get your customer to think differently.
+You have to collaborate with your versenytársakkl. Open-sourse is very important and popular in these days.
+The team have tto be multifunctional as things are so complicated no one person has the full skillset. Selforganization is important.
+
+Data talent retnetion
+People has to be proud about what they are doing to stay.
+Costs a lot of money, but it worth the investment.
+General manager has to step out from the loop, thisis basic for agile teams.
+Lot of bureocray will hold back improving skillsets of people.
+
+Company/organizational team comes first.
+
+Recap:
+screenshot
+From Ericson 
+
+QA:
+Q:Views on synthetic data?
+A:strong opinion. Ericcson is a pioner in synthetic data
+Pepole will tell tehy need real data.
+Maufactoring company, you have raw materiols. You want to find knots in the wood. You have to train to identify. If you cannot find enough pictures you can(not)? synthetize data.
+Simulator: won't be good.
+
+Q: How do you feel about the startup culture and company culture? Is there any problem world?
+A: Worked at startups and also at large companies. US government, Ericsson.
+He is trying to do to bring in enterprener startup thinking into big companies. Itis a huge challenge. He loves Ericsson. Meaningful mission.
+PArt of the big chalenge for a larger company is to make an environment as a manager where people feel the thing they are working on is very valuable.
+
+Q: The human aspect is obvious. How we can put psychological safety into hightech industry.
+A: Technology is about people at the end of the day. Tech for tech is not important.
+Anytime you make new tech you do it to help the world.
+Defending your cultural .. is important.
+He is an Enginer 30x years. 
+TEch selects the kind of people who ...?
+
+Q: What is the amount of info you should share with your competition?
+A: HE is very transparent. He could secret from teammates and competitors and chosed to not share and the outcome was bad.
+He believes in stealth mode. If you are an early stage startup, and afraid of being copied you should go in stealth mode.
+One of the biggest success factor: LEvel of connectiveness inside a company
+
+Q: Chalenges with marketing? How do you market your product?
+A: His eam is focusing on internal tools.
+Identify a problem, build a set of tools to fix, takes months to develop, some external company come up by that time which would have been cheaper.
+Stying competitive is the biggest problem. 
+
+His team do not have to deal with marketing challenges.
+
+A: DId IA really change our life in the good way? Lots of people lost job due to automation.
+Q: Tech will change human nature. Micha ericcson employee had a great presentation about ai snygularity.
+It has chanegd our lige, this change will be so subtl you won't even realize it. Rise of social media ~2007. The time people spend on thos platforms compared to real connections is drasticall changed. It was doen with the help of AI.
+AI makes it more addictive.
+AI does change people lives and that is not always being for good.
+
+Moderator: Watched a video about Youtube recommendation algorythms. Ethical side of the AIneed to be touched. Deep fake, missinformation
+
+Q: Where do you see the future in 5 years?
+A: realist. Ericsson mission: wants to be data drive, passionate about connectivity??? He would love to be closer to this reality.
+He cannot say what will be the exact things.
+
+Q: Most time consuming part? Knowledge? Creativity? Biggest challenges when you run into silos.
+A: Biggest challanges are "reconfigurin" bureocracy, if there is a silo usually ther is a good reason for that. YOu have to persude people how much they can win with tearing down those silos.
+Case studies are super powerful.
+The ability to demonstarte to people what works.
+
+Q: Mantra in software industry: API is the cure for everything. In reality API is just a mouth speaking to other mouth on different langunge. Is API good for everything?
+A: No. Worked at a startup one problem: multipke systems doing very similar thing. They decied to build APIs to talk with each other. Was totally not working.
+One size does not fit all. Sometimes API helps sometimes not.
+He like to see practical, working things.
+
+Q: ??? Possible downsides and dangers? Lot of talk about ethical dilemmas.
+A: So much fn to think about this. It is also a little bit distopian. Everybody is afraid of new investions even himself.
+Feedback loop. 
+We probably win1t create Sentinent AI?
+For TV the feedback loop is much longer.
+Probably not the most dangerous invention AI is. It can be used for the good of the humanity.
+Anthing what humans do if we do taht with good intention to help the commmunity. He would change if he could not do that.
+
+---
+Virginia Dignum(PROFESSOR AT UMEÅ UNIVERSITY) - Responsible Artificial Intelligence- from principles to action
+
+What is AI?
+Ai is not artifical
+AI is not intelligent
+AP applications are not alone, they are connected to the social... ecosystem
+
+Focusin on what the data we have we are changin the metrics to success. What we can focus on as we have data bout that.
+Conserns of AI.
+Cost of AI. Money, energy.
+
+How do we want to apply AI? How do we balance between advantages and disadvantages?
+Responsible AI is looking for: Lawfulness, ethcial, alignment with human rights
+ART principles
+There are more than 200 principles from different instituons. Recommendations, guidleines to develop AI.
+Main principles are universally accepted:
+From principles to Actions - otherwise we do not benefir ftom principles and guidelines
+Enorsement is not compliance
+
+EU is the most notorious. AI act. Last april draft. EU parlament started discussion to move from the draft to concrete legal acts.
+The systems has more impact on people, it is more risk. Type of app, the way it is used.
+
+Issue with regulation
+Providing regulation/guidelines/governance/principles about what we would like AI systems to do, we are providing steppingstones. Can be a drive dfor transformation to a better more faor more transparent AI systems.
+
+Conclusion
+AI can support decision making
+When why AI should be used? Issue of Power.
+AI appps re not magic, we set the goal, so the responsibility is on us.
+She don't think AI will turn towards us. There is no intrinsic motivation to do that. But of course people can use it for bad. An AI is only a bunch of algorythm
+
+QA
+Q: Will AI create more inequality in the world?
+A: The decisions of the one who has the power might create this inequality. Looking at AI for the enhancement of business theay are creating inequalitis. 
+We can identify those applications in AI, in which AI can support diversity. 
+
+Q: Mention a role where AI will take over all decision making?
+A: Already see AI systems are superior like in analyzing images. Identification of cancer cells in X-ray images. 
+
+Q: Do you think the regulations will ... GDPR?
+A: I don1t think the regulations will have the same character as GDPR. Combination perceived risk in technology and applicataions. More contextualise and focused principles than the GDPR.
+
+Q: How do you see AI misinformation?
+A: People believe the news they see is correct. We generate much mire fake news than before without AI. 
+It is not only the AI doing, but there is a ... in whichh misinformation generation is jövedelmező.
+
+-----
+
+Alex Honchar(HEAD OF AI/ML PARTNER AT NEURONS LAB) - Deep learning - the final frontier for time series analysis
+
+He likes controversial topics.
+Do AI needed for time series?
+Maximalists: We can predict anything with AI, just give us enough data.
+
+Different nature of time series data: How do you choose your encoder?
+Different problems with time series: How do you choose your target?
+
+Engineer in HealthTexh and FinTech domain
+Teaching it also, also Medium blog with more than 1M views
+Have seen lots of time series
+
+Nature-Encoder - Time-domain analysis
+Visual geomatry and patterns
+	MLPs, CNNs, Fancy autoregressive NN-based libraries(Facebook, Uber, ... libraries). They could work, but there are different task for which they are not adequate.
+	
+Nature-Encoder - Frequency-domain analysis
+Changes in frequency are not always time-dependent, local bursts and changes. 
+	- CNNs (convolutinal networks)
+	- Transformers
+	
+Nature-Encoder - Hidden state analysis	
+	We see final observations, many latent variables are not avilable, often happens in economics
+	LSTMs
+	Fancy autoregressive NN-based libraries(Amazon DeepAR, Ar-Net, GluonTS)
+	
+	
+This speech is about Pure high level economical analysis. Not about trading and financial machine learning.
+
+Nature-Encoder - Other
+	Complex non-linear danymics
+		Neural ODEs, SDEs, ...
+	Multivariative time series	
+		Graph neural netorks
+		Transforms, self-attention
+		
+Problem-Target - Regression and Classification
+	Instance-wise classification
+	Point-wise classification
+	Single-step regression
+	Multi-step regression
+		
+Problem-Target - Anomaly detection
+	It's all about embeddings
+		Autoencoders
+		GANs
+		Siamese neural networks (supervised)
+		Autoregressive models (self-supervised learning)
+	Is the prediction different from the data?
+	
+Problem-Target - MAtching and similarity analysis
+	-It's all about embeddings
+		- Autoencoders
+		- GANs
+		- Autoregressive models (self-supervised learning)
+	- Are the embeddings similar to each other wrt to some metrics? (Euclidean, Cosine, etc. )
+		
+---
+Sercan Arik(RESEARCH SCIENTIST AND MANAGER AT GOOGLE CLOUD AI) - Highlights from pushing the state-of-the-art AI into real world
+Tabular data is the most common type in adressable AI market.
+Why deep learning?
+
+QA:
+Q: How about the regulations? Are there any US regulation?
+A: Depends on the application area. In finance and healthcare there are many regulations. Data privacy can be very important. 
+
+Q: What is your view on the ethical side of AI from Google perspective.
+A: Very important to develop AI in responsible way. There are AI ruleas at Google to ensure responsibilty of AI.
+Needs further research. Current state of AI is not really explanable and controllable.
+
+
+Q: What are the some value applications of Tabnet and TFT.
+A: Tabular data and TFT(time series forecasting) are the most important. Tabular data: detecting financal visszaélés, Healthcare: disease diagnosis from sensor data, modeling of the user behaviours
+TFT: You need to plan the future as in retail. Energy companies trying to predict the demands. Logistic companies...
+
+Q: How much consider ... decisions made by AI? ...
+A: How to have human in the loop of AI system deployments. AI replacing some of the human works. We need to add some human. 
+We need to realy on AI as much as possible. Figuring out how to efficently use humans, the human feedback is an important topic.
+
+Q:
+A:
+	
+	
+Day 3
+
+Sppech 1
+Eduardo Blancas(CEO & CO-FOUNDER AT PLOOMBER) - Ploomber: Open-Source Tools for Maintainable and Production-Ready Data Science
+https://ploombers.io
+30 organizations using Pllomber
+130k Downloads from PyPl
+33 contributors
+207 community members
+
+6 years as a data scientist
+
+Data analysis practice
+Jupyter Notebook problems
+
+May data scientis not used to pull requests
+
+----
+
+Speech 2
+
+Gellért Máttyus(SENIOR MACHINE LEARNING ENGINEER - ARTIFICIAL INTELLIGENCE DEVELOPMENT CENTER AT CONTINENTAL) - Interpretable AI: Fusing deep learning and classical methods
+Level 3
+Already allowed that human driver can do something else, but a human driver sitting there.
+
+Level 4
+No more human driver need to be in the card
+Some restrictions: only functioning in a limted area(e.g. urban area) and under specific conditions (good weather)
+Waymo, Uber
+
+Level 5
+No driver needed
+It can drive anywhere and anytime
+Comapnies are concentraing on the previous ones. Continental is targeting Level 1,2,3
+
+Assistance
+Emergency breaking
+Autonomus parking
+Can alarm fallen asleep driver
+
+Sensors
+Lidar, Radar, Cameras
+One image is not enough for anything
+
+Least squares
+
+With old methods you could not recognize faces before ML
+
+Contact him on LinkedIn - whenever I write the article...
+
+QA
+Q: Can you give any sort of assessment about how close we are to level 5 automated driving?
+A: At least one decade. Companies are focusing on Level 1-4. 
+
+Q: Tesla aims to use solely Deep Learning so called "Software 2.0". Neural networks are lack of explainability, but they are very accurate. Can you give some thoughts on that trade-off and on Tesla's decision?
+A: Not want to connect on competitors. They use both ML and classical methods. This is the future in according to him. 
+
+Q: Could the fusion of a deep learning and classical method be used to mitigate the effects of adversarial examples?
+A: Very ggod question. He cannot answer he definitely know the answer. It is not guaranteed that by using hybrid methods we can solve everything, but ...
+
+Q: The paradigm is more learning data, more computing, more layer. Tesla's AutoPilot needs 70 000 GPU training hours, 48 networks, 1.5 petabytes data in order to train. By contrast, humans can learn to drive roughly in 30 hours. Can you see paradigm shift or innovation in this area? A: On the long term we have to come up with methods which can learn better. DL systems are very good at learning from bigdata, but they not really able to generalize and solve new problems.
+There will be methods which can address these problems. Little bit unknown.
+
+Q: Could we achieve human level efficiency with hybrid approach?
+A: At the moment the current soultions are not soultion to allt the problems. It can bring us colser. We can leverage the redundancy of the data. Current methods do not solve the problem, but they can go closer.
+
+Q: Can you please brief on how to convert these black box neural nets to white boxes in order to ensure more trust in the insights by deep learning?
+A: He is not working on the field of making AI interpretable. 
+
+Q: There is a general distrust toward AI. I'd imagine lawmakers don't hold AI to the same standard as humans, with this in mind, reasonably how much better AI has to be to be considered an alternative to human drivers, how can you measure these aspects?
+A: This is not on the engineering level. When will society accept it. Statistics. When we can really reliable show that these systems just save lives. 
+
+At that point AI methods will ahve enough trust. People will start to see the positive side of AI.
+
+----
+Dr. Olivia Erdelyi(SENIOR LECTURER & DIRECTOR OF ETHICS AND POLICY AT UNIVERSITY OF CANTERBURY & SOUL MACHINES) - AI Ethics: From Policy to Implementation
+
+Corporate social responsibility
+Keep in mind: applies to all organization. Organizations should sustain ...
+Can be used for also ood and bad
+Most of the organizations has pretty comprehensive code of conduct
+Smaller organizations: Why do we should take care of ethics
+We have to develop fundraise, ...
+Very valid argument
+Couple of thigs to keep in mind:
+Corporate ...: Wheter or not you do anything about sustainability? that will highly affect your company's public image
+AI ethics: The more you invest the better public image will you have
+There are very fe regulations at the moment
+Sometimes there is a public push to corporal commitment even if there is no regulation
+Techincal people: data scientist: you studied the field as you are interested in. Somebofdy asks you ethical question: I did not really signed up for this. Why should I care.
+You will less and less be able to get over with that.
+You are going to be the person implementing of those decisions
+You have to figure out how to do that
+
+Product development: most companies adapt agile practices. You will like to make all risks transparent early on and eliminate them.
+You want to discover ethic related risks early on, otherwise whenever a new regulation comes out, you are in trouble, you cannot release your product
+Key thought: You want to discover these risks too early
+
+Where do you find the sources out of the miriad 
+
+Most important recent development on this field: AI Act proposal
+Specific regulations, what should AI devlopers do to adapt AI systems safely to society
+You will most likely face ethical questions
+
+In a general context, you might have a team discussion about a new producet, and some ethical question comes up. Where do you go to get ansers?
+Sometimes the questions are very specific: ...
+Where do you for guidance? How do you make your AI system transparent and understandavble to your customers?
+Do you target cu...
+Do you have to explain in a way it is undestandable for non-tech customer?
+Or tech customer?
+How do you go with it?
+
+At the end of the day the core quersion: how do you setup your organization for success.
+In case you have support from company leadership you will succedd
+Otherwise many initiative will fail
+
+You should think about putting dedicated ethic rules ...
+In case you are a medium sized company then you might not have the budet
+
+Key problem is expertize
+
+It is hard to find people who have the disciplineM on different topics
+
+Lot of economic consideration
+
+Another things which helps is detaling your policies. Very good guidance for eployees and partners.
+Little bit of a nasty worlsd. A public instrument is to inform the public???
+
+Accepting different opinion is crucial.
+
+Her personal favourite as the biggest challenges
+Mindset: very often people see it as a necesseary bad.  it is muc an enabler than a barrier . Can creat tangibale business value. Developing products in whihc peopole trust.
+You can have competitive edge 
+Communication: 
+Totally underestimated
+Evn within a company and between stakholders. Everybody sopeaks different languages.
+You are interesetd in some ethical questions either general or specifi? Who do you ask?
+If you are a small me startup then you might not have the right person.
+You might have it, but do not know about it.
+
+You have to bridge many things from the technical even algorytmic level all the way to monitoring policies. Yoer expert have to be a ...  with a technical background
+There are serious barriers. You have to deal with it.
+Confliction prioritiesy. Sometimes happens between ...
+
+Both parties have valid points, but it can become an issue, you have to think about how to handle
+
+1. AI bears more risks than brings opportunities???
+2. Don't cheap on getting the necesseary expertise. Niether an excecutive nor a tech person have the time to do that, you need an expert specifically to that.
+
+QA:
+
+Q: What can we do beyond policies, regulations? How can AI Ethics/ or in general: responsible, ethical business, product development be considered as a CORE VALUE of doing business, 
+from Day 1. Not after every other metric is met. 
+I am convinced, that we would come to different products having this in mind. 
+Any idea, how an individual can start initiating (small) positive changes from tomorrow on?
+A: If youa are a product developer engineer, you are thinking about some product feature. For example robostusness, making product function as intended. Standard product development thing and also ethical question.
+You have to ensure a ceratin levele of performance. ... If you are a team lead then you watch your team work and you can keep on eye on everything ethic related.
+One thing by which you can suport the team. ???
+If you are One of the executives, you have to include these ethicatl thought into your broader company olicy?
+Translate these very abstract rules into something imple,mentable.
+
+Q: It is clear that ethics should be and will be (if it isn't already) one of the most important things a company that is working in the AI space should be thinking about. 
+However, how do you balance the overly heavy intention set on the business/profit goals that AI provides?
+A: The billion dolar question: IS it up to .. leadership. Think about ethics not as a compliance issue, barrier, but how it can boost your producet and create business value. How it can build trust.
+On the other hand if you think about coming up with a safe pruduct people trust and ... privacy that gives you a competitve edge. Gives you tangible business value.
+Yo won't be able to establish this synergy, but you should at least try.
+
+
+
+Q:
+A:
+
+Q:
+A:
+
+Robert-Zsolt Kabai(DEEP LEARNING FOR POINT CLOUD TEAM LEAD AT CONTINENTAL, ARTIFICIAL INTELLINGENCE DEVELOPMENT CENTER BUDAPEST) - Lidar-Camera Low-level Fusion
+
+---
+Alan Nichol(CO-FOUNDER & CTO AT RASA) - Conversation Driven Develpoment
+Hugely relevan tfor enterprises.
+Self serve customers on their support needs.
+Achieve different needs you need.
+LArge companies amposing their work on the customer.
+Conversatin AI can be the solution.
+
+Rasa is the most widely used platform to build AI assistance
+T-mobile
+If you dont want to wait an agent is avaiable
+Spectacuélar results by moving to Rasa
+Customer first, system is adapting to the usr, instead of user focusing on how to speak with the assistant
+
+JPMOrgaChase - integrated into thier app
+user wants a transfer, they can help. it is your job to figure out how you can help.
+
+5 levels of Conversational AI
+1. Command based
+User has one chance to provide input.
+You want a mortgage. You have to provide all the info to get the mortgage quote. You have to be expert user to use. You hav to know what input to give.
+
+2. Chatbots
+Rather than telling here is my API DSL learn it to communicate with me. It is my job to figure out how to communicate with the user.
+Mortgage rates: Being asked for the relevant input is needed. Natural language form that makes sense to them. 
+You have a particular path you have to go down and in case you are deviationg from that you will fail. 
+
+3. Contextual Assistants
+User goal 
+
+4. Consultative Assistants
+My kids are going to colege so I want a downsize.
+It is ambiguos as you do not know how to help them you have to figure out.
+Users are telling their goals and it is your job to figure out how to do that.
+
+
+
+5. Adaptive Assistants
+Knows the lingo, knows about mortgages.Knows much more than the basics.
+Lowering the burden on the end user.
+
+Conversation-driven development(CDD)
+Why we need a term for thinking about it?
+Anybody who built a chatbot knows it is very hard. The prototype building is easy, but putting it into production is tough.
+Build nbetter conversational AI.
+Newbies have to learn on the hard way.
+
+There will be much more way a user will interact than you can anticipate. 
+
+You have to make overlap the conversations you expect and the conversations your user are doing
+People can say anything. That is the challenge.
+They are telling to you exactly what they want in their own words.
+
+6 actions of CDD - they re not sequential but parallel and iterative too
+1. Share
+Share you assistant to collect user conversations
+
+2. REview
+Review the conversations your users are having
+
+
+3. Annotate
+Annotate the user messages to improve your NLU model
+
+4, Test
+Test your assistant to check that changes are helping
+
+5. Track
+Track (un)succefull conversations
+
+6. Fix
+Fix your assistants by studying points of conversational failures
+
+From waterfall to agile.
+Same true for CDD. CDDis the analouge of shifting from waterfal to Agile. Iterate.
+
+CDD is a team effort, because it requires a range of skills and experience, data science skills, technical skills, user knowledge, what they want to do, the way they ar talking.
+MAny different roles:
+
+Lean teams
+
+Rsources
+
+Rasa youtube channels
+How chat bots are build and everything else.
+
+QA
+
+Q: Can you talk about design best practices like do you develop the input-potential flow-output and add classifiers to them or rather define start / end and let the AI fill in between based on samples?
+A: The desing process for any kind of AI system is very iterative. Using paper mockups. Wizarf of Oz. You meet with real people and listen to what they say. I am not a deep expert on conversation design.
+Book: Conversation with things.
+
+Q: What are nowadays's state of the art chatbot solutions/technologies from a deep learning's perspective? Thank you.
+A: Few years ago ... was the news. VEry efficient foundations to build performing bots on very little data. Generative language moduls. Lots of fantastic progress.
+You cannot use them in primetime yet.
+Very impressive conversations with GTB3?
+You can really condition on on specific knowledge?
+You cannot guarantee it won't say something offensive.
+
+
+Q: 
+A: 
+
+Q: 
+A: 
+
+Q: 
+A: 
+
+Q: 
+A: 
+
+
+
+
+We have to evolve how we think about these tools
+---
+David Aronchick(DIRECTOR, RESEARCH DEVELOPMENT AT PROTOCOL LABS) - The SAME Project: A Cloud Native Approach to Reproducible Machine Learning
+
