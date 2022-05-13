@@ -54,9 +54,57 @@ I can still remember the smell of the room, the feeling of the cold gel, the lon
 I never had another epileptic seizure again and after 3 years my neurologist told me I recovered.
 
 ## My Second Contact With Brainwaves
-The year is 1994, just 2 years after my epileptic seizure. My parents enrolled me and my brother Tomi in a Silva mind control course.
+The year is 1994, just 2 years after my epileptic seizure. My parents enrolled me and my brother Tomi in a Silva Mind Control for kids course.
 
 I have very little memory, but I do remember that was the time when I heard about delta, theta, alpha, and beta brainwaves. I have not just heard about them but in theory, I also learned how to control the brainwaves by relaxation.
+
+4 years later I visited the Silva Mind Control training with my friend Edit. By then I was able to understand and learn many techniques which were thought there.
+
+Even if none of the magical techniques work I still learned about peg lists and relaxation.
+
+In reality, I used the other techniques and I do believe they worked, but as I had no parallel life (at least I am not aware of that) in which I could live the same life without doing the Silva course, I cannot tell if my achievements were really related to those techniques.
+
+There was one huge problem with the relaxation:
+
+I couldn't tell if I was really in alpha or not.
+
+Two years later I went to the Budapest University of Technology (BME) and I became a scientistish.
+
+For me scientistish means I do not believe in anything except it was proven by science. Thanks to this I was sure all the Silva methods are fake similar to all the other supernatural things I have heard of.
+
+## My Third Contact With Brainwaves
+24 years later we arrive in the present. During the last years, I went through an emotional rollercoaster. I had so deep depression I was sure I lose my job, my flat, my family leaves me, I became homeless and I will even be bad for a homeless and I die in a couple of days.
+
+I know it sounds funny, but that was my reality back then.
+
+It took me 2 psychologists, 2 psichoterapeut a RED EQ trainer, and the support of my family and friends, but finally, I managed to come back.
+
+This experience has changed my life forever. I am currently re-reading Eckhart Tolle's The Power of Now Book and I do see some similarities between his life and my life. However, I did not become homeless in reality I was homeless in my mind. Now I understand much more from that book.
+
+Also by now, I became a hscienistish. Hscientistish means I do believe in what humans say and I try to verify it by talking to that person and using somewhat scientific techniques.
+
+I cannot tell exactly what was the trigger, but I decided to order a Muse EEG band and examine my brainwaves during experimenting with different meditation and relaxation techniques to find out which works and which does not.
+
+My Muse S arrived 3 weeks ago, but before it arrived I already came up with an idea in which I can combine programming and my brainwaves. Before I get to the point, please let me tell you about how I got inspired to implement my first mind-controlled app.
+
+## The Inspiration
+I was googling different apps developed for the Muse band but I had to realize there are almost no apps, or at least it is not easy to find them via Google. Luckily I found an article from [Anush Mutyala](https://anushmutyala.medium.com/) with the title [Muse 101 — How to start Developing with the Muse 2 right now](https://anushmutyala.medium.com/muse-101-how-to-start-developing-with-the-muse-2-right-now-a1b87119be5c).
+
+Anush has developed a hands-free slideshow that can be navigated by using eyeblinks. He was also able to switch Chrome tabs using eyeblinks and scrolling via measuring the focus/concentration of the user using only the raw EEG data. He even made a video summarizing solutions built on brainwaves.
+
+In addition to Anush's article
+
+So in the end it was Anush Mutyala, who inspired me to develop my own app(s).
+
+## The Idea
+After reading Anush's article, my brain started to spin and after thinking for quite a while I came up with the eye
+
+
+
+
+
+
+
 
 
 
