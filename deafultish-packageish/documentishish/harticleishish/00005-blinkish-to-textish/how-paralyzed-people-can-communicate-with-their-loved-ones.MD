@@ -1,80 +1,64 @@
-HI!
+From this article, you can learn **how you can get access to your brain from your app** for the price of a mid-level mobile phone by buying an EEG band and an app with which you can get the raw EEG data from the band.
 
-I am Miki Szeles from Hungary, Budapest. I am a father of my son Levi, husband of my wife Panni and soon to be a happy dog owner.
+I will lead you through the development of an app with which you can detect eyeblinks using a Muse S EEG band. We will convert the eyeblinks to text using the Morse code as a result we will have a solution with which completely paralyzed people can communicate with their loved ones.
 
-I am an agileish creativeish technicalish writer and also a software developer and photographer.
+I will also demonstrate **how you can build an app in pure Python with the aid of Kivy** resulting in a program that can be packed to Android, iOS, Windows, Mac, and Linux.
 
-I am an agileish superhero with the superpowers of super thinking, super learning and super memorization.
+Before we start coding, please let me share some moments from my life which led me to start tinkering with my brain.
 
-As you might already know, I am not working on my own as I have a team of agileish creativeish thinkingish friends with me to make sure we provide the best immersive experience for you. By now I am working together with around 40 friends.
+## The Backstory
 
-As this writing is very long, most probably the longest I have ever written, my friend Meading Nexpert gives you some guidelines.
-- Meading Nexpert: Hello fellow humans. I have suggestions based on how much time you have.
-1.	Read the table of contents and the parts written using bold style, so you can immediately understand what you can get from this article.
-2.	Read the backstory so you can learn where I came from, and how I arrived here, and you can also understand my motivation.
+### My First Contact With Brainwaves
+Let's move back 30 years in time.
 
-Before we continue, please let me share my backstory. DJMic, start the party!
+I was in my room, sitting in front of my Commodore 64 computer. My brother had already moved out by that time, but I was not alone, as my friend Szabi was also with me.
 
-- DJMic: [Dear Reader! Please, click here to start the party!]( https://www.youtube.com/watch?v=6-1QnBtmc4k)
+I loved computer games. Playing games like Ugh Olympics, Pirates, Defender of The Crown, Boulder Dash, Wizard of Wor, Nebulus, and Bruce Lee gave me more pleasure than anything else in the world.
 
-## Backstory AKA Story of My Life
+At that time I was playing a newly discovered game called Benji. I was trying to figure out how I can play the game with little success.
 
-### Being a kid AKA The Wonderful Childhood
+Suddenly I saw something in the corner of my eye so I turned right to look through the window. There was nothing unusual except one thing.
 
-### Having epilepsy - AKA My Obsessions
-DJMic: [Please start this music](https://www.youtube.com/watch?v=p8UYvbqROdc)!
+A black figure was floating in the air above the roof of our garage.
 
-### 
+I got scared as hell so I asked Szabi whether he also saw the figure or not.
 
-### Being a Scientist
+No! There is nothing there. - he replied.
 
-### Deepdepression
+Szabi went downstairs to tell my parents what had happened to me. My parents come up in a hurry and they quickly realized something is not ok, so they saw me down in the living room.
 
-### Recovery
+I remember they asked what was my name. I started to think, but I couldn't answer as I couldn't recall it. The feeling I felt at that moment when I couldn't recall my name has been burnt into my mind for eternity.
 
-### Becoming a Hscientistish
+From this point, I couldn't recall anything as I lost my consciousness. Just a few seconds after my parents called the doctor my whole body started to shake unstoppably.
 
-### Becoming Paul Atreides AKA Becoming a Super Thinker
+That was the first time when I had an epileptic seizure.
 
-### Becoming an Agileish Superhero AKA Becoming a Super Thinker and Super Learner
+My next memory is being in a room in the hospital. A nurse lubricated small thingies with a cold gel, then she put a very strange hat on my head.
 
-### Becoming Open Sourceish AKA Sharing My Thinking, Writing and Creational Process
+The hat was strange as many wires were coming out of it all of them connected to a machine.
 
-### 
+I had to lay down and stay calm, then the machine drew lines on a piece of paper.
 
-## The Hamunity Projectis
+As I found out later those were my brainwaves and the machine was an electroencephalography (EEG) device. I couldn't understand the EEG diagram but based on what I heard they looked pretty bad back then.
 
-### The Projectishish
+A couple of days later I was allowed to go home.
 
-- Universalish Signish Languageish
-- Lifeish Simulationish Gameish
-- Thoughtish to Thoughtish
+I was not allowed to play on computers, or watch TV and I couldn't go to the disco with my friends.
+
+From that point, fear became my and my family's best friend as we could never know when another epileptic seizure will come.
+
+During the upcoming years, I had to take medicines and I also had to visit the hospital many times to have regular checkups with a neurologist. During these visits, I started to form a friendship with this EEG device. Month by month my EEG results became better and better.
+
+I can still remember the smell of the room, the feeling of the cold gel, the long wires, the little diodes, the strange hat, and the EEG curves painted on paper.
+
+I never had another epileptic seizure again and after 3 years my neurologist told me I recovered.
+
+## My Second Contact With Brainwaves
+The year is 1994, just 2 years after my epileptic seizure. My parents enrolled me and my brother Tomi in a Silva mind control course.
+
+I have very little memory, but I do remember that was the time when I heard about delta, theta, alpha, and beta brainwaves. I have not just heard about them but in theory, I also learned how to control the brainwaves by relaxation.
 
 
-- Thoughtish to Blinkish
-- Thoughtish to Textish
-- Thoughtish to Thoughtish
 
-## Thougthish to Thoughtish
-DJMic: Here is the next song. [Just click here.]( https://www.youtube.com/watch?v=shoVsQhou-8)
-### Goals
 
-### Motivation
-
-### Inspiration
-## Blinkish to Textish AKA Contacting The Brain - The 0th Step
-As I knew very little about the brain I have decided to do a study project during which I learn about the following things:
--	The build-up of the brain
--	The function of the brain
--	Brainwaves
--	The build-up of EEG devices
--	The function of EEG devices
--	The limitations of EEG devices
--	Biofeedback
--	The Morse code
--	Building a mobile app in Python
-     In this writing, I will focus on mobile development, but I will mention related things when it helps understand the whys.
-     This project is for contacting the brain the first time. I have to know very little about the brain in order to achieve this. Actually based on the information shared by Anush Mutyala I can implement the first step as I only have to combine blinks with the Morse code.
-
-As I did not know the Morse code, I have learnt it using my agileish super learner abilities. You can find the mind map here if you would like to learn it too.
 
