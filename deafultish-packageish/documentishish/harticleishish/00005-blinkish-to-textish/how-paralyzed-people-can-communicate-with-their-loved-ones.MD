@@ -279,7 +279,6 @@ class Gyroscope(Data):
         return self.y
 
 
-# TODO: check and fix x,y,z meaning
 class Accelerometer(Data):
     def __init__(self, *args):
         super(Accelerometer, self).__init__(DataType.ACCELEROMETER)
@@ -438,13 +437,249 @@ That's it. With these few dozens of lines of code, we can get all the data from 
 
 Let's talk about more exciting things.
 
-### Detecting Eyeblinks
+### Detecting and Classifying Eyeblinks
 Usually, eyeblinks are considered artifacts that should be removed in order to have an artifact-free EEG for processing, but in our case, this is the only useful information.
 
 The eyeball acts as a dipole with a positive pole oriented anteriorly (cornea) and a negative pole oriented posteriorly (retina). Thanks to this it highly affects our EEG data.
 
-I have created a short video in which I demonstrate how detected brainwaves change, when we do things like moving our eyes, blinking, and clenching our jaw.
+Here are the different types of blinks and how they appear in our EEG data.
+Normal eyeblink:
+![Normal Eyeblink.JPG](https://cdn.hashnode.com/res/hashnode/image/upload/v1652526885166/AEhLQCWMp.JPG align="left")
+
+Short eyeblink:
+![Short Eyeblink.JPG](https://cdn.hashnode.com/res/hashnode/image/upload/v1652526904463/EiAIDTkEB.JPG align="left")
+
+Long eyeblink:
+![Long Eyeblink.JPG](https://cdn.hashnode.com/res/hashnode/image/upload/v1652526921903/yDE6okiPC.JPG align="left")
+
+I have even created a short video in which I demonstrate how detected brainwaves change, when we do things like moving our eyes, blinking, and clenching our jaw.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VOASXIFvV_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The detection algorithm is very simple. After some observation, I realized eyeblink results in a huge drop, then in a slight rise in the EEG signal and the time between the drop and the rise is the length of the eyeblink.
+
+Here is the detection code:
+
+```
+    def detect_blink(self, data):
+        self.eeg_series_lock.acquire()
+        base_level = self.eeg_series.get_median(CHANNEL_USED_FOR_DETECTION)
+        self.eeg_series_lock.release()
+        channel_value = data.get_channel_value(CHANNEL_USED_FOR_DETECTION)
+        if channel_value > self.max:
+            self.max = channel_value
+        if (channel_value < base_level - BLINKING_START_FALL) and (self.blinking_start_time is None):
+            self.blinking_start_time = datetime.datetime.now()
+            if self.pause_timer is not None:
+                self.pause_timer.cancel()
+        if (self.blinking_start_time is not None) and (channel_value > base_level + BLINKING_STOP_RISE):
+            blinking_end_time = datetime.datetime.now()
+            blink_length = (blinking_end_time - self.blinking_start_time).total_seconds() * 1000
+            blink = BlinkDetector.classify_blink(blink_length)
+            for callback in self.blink_listener_callbacks:
+                callback(blink, blink_length)
+            if blink == Blink.VERY_LONG_BLINK:
+                # Resetting conversion
+                self.blinks.clear()
+            else:
+                self.blinks.append(blink)
+            self.blinking_start_time = None
+            if blink == Blink.SHORT_BLINK or blink == Blink.LONG_BLINK:
+                self.pause_timer = Timer(1, self.pause_detected, args=['Pause detected'])
+                self.pause_timer.start()
+``` 
+
+After having the eyeblink, I can classify them based on their length. I have experimented with different lengths of blinks and I have defined the thresholds based on that.
+
+There are the normal blinks which are very short. There are short blinks that are a little bit longer than the natural eyeblinks.
+
+Then comes the long blink and the very long blink.
+
+Here is the code for the classification:
+```
+    def classify_blink(blink_length):
+        if blink_length < NORMAL_SHORT_BLINK_BORDER:
+            blink = Blink.NORMAL_BLINK
+        elif blink_length < SHORT_LONG_BLINK_BORDER:
+            blink = Blink.SHORT_BLINK
+        elif blink_length < LONG_VERY_LONG_BLINK_BORDER:
+            blink = Blink.LONG_BLINK
+        else:
+            blink = Blink.VERY_LONG_BLINK
+        return blink
+``` 
+That was it. As you can see there is no magic here I did not even use Fourier transformation as it was not needed for this task.
+
+As we have almost all the logic in place we can start implementing our mobile app using Kivy. But before that let's sketch our UI.
+
+### Sketching the UI
+Whenever I have to draw a diagram, create a UI mock, or create a mind map, my one-to-go tool is [draw.io](https://draw.io).
+
+Draw.io is free and it contains many flexible elements you can use to create whatever you want.
+
+So here is my mockup:
+![Blinkish to Textish Mockup.drawio.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1652529344819/UDjxuxXoQ.png align="left")
+
+Finally, we can start using Kivy, to implement our UI.
+
+### Implementing the UI using Kivy
+In [Kivy, layouts](https://kivy.org/doc/stable/gettingstarted/layouts.html) are used to arrange widgets within a component. If you ever worked with a frontend framework, probably you already know these.
+
+Regarding frontend, I have experience with C#, Java Swing, and Windows Forms. Most of them are outdated by now, but most of the frontend frameworks have similarities.
+
+We split up the main widget into an upper and lower part using BoxLaxout. The upper part is also a BoxLayout which will contain the 2 labels and TextInputs. Again, if you ever worked with a frontend framework you are already familiar with most of the widgets which can be used. In this concrete case, I only use Labels and TextInputs.
+
+The bottom panel has a GridLayout, containing all the Morse code-letter pairs functioning as a dictionary to aid communication.
+
+The UI can be either created using Python code or using [Kivy's design language kv](https://kivy.org/doc/stable/guide/lang.html).
+
+I have created my user interface using Python code. Here is the code:
+
+```
+class MainWidget(BoxLayout):
+    def __init__(self, **kwargs):
+        super(MainWidget, self).__init__(**kwargs)
+        self.orientation = 'vertical'
+        self.morse_code = ''
+        self.converted_text = ''
+        Window.clearcolor = (1, 1, 1, 1)
+        self.top_panel = BoxLayout(orientation='vertical', size_hint=(1.0, 0.5))
+        self.padding = (15, 15, 15, 15)
+        self.color = (1, 1, 1, 1)
+        self.orientation = 'vertical'
+        self.add_widget(self.top_panel)
+
+        self.morse_code_label = Label(text='Morse code', font_size=NORMAL_FONT_SIZE, size_hint=(None, 0.1),
+                                      halign='left', color=(0, 0, 0, 1))
+        self.top_panel.add_widget(self.morse_code_label)
+
+        self.current_code = TextInput(multiline=False, font_size=NORMAL_FONT_SIZE, size_hint=(None, 0.1))
+        self.current_code.readonly = True
+        self.top_panel.add_widget(self.current_code)
+
+        self.output_text = Label(text='Text output', font_size=NORMAL_FONT_SIZE, size_hint=(None, 0.1),
+                                 halign='left', color=(0, 0, 0, 1))
+        self.top_panel.add_widget(self.output_text)
+
+        self.text_output = TextInput(multiline=True, font_size=NORMAL_FONT_SIZE, size_hint=(1.0, 0.7))
+        self.text_output.readonly = True
+        self.top_panel.add_widget(self.text_output)
+
+        self.bottom_panel = GridLayout(size_hint=(1.0, 0.5), cols=6, rows=6)
+        self.add_widget(self.bottom_panel)
+        for name, member in MorseCode.__members__.items():
+            if name.startswith('N_'):
+                text = member.code + ' ' + name[2:]
+            else:
+                text = member.code + ' ' + name
+            print('text: ' + text)
+            self.bottom_panel.add_widget(Label(text=text, font_size=LARGE_FONT_SIZE, color=(0, 0, 0, 1)))
+``` 
+
+And here is the result:
+
+![Blinkish to Textish App Kivy Frontend.JPG](https://cdn.hashnode.com/res/hashnode/image/upload/v1652530095021/2R0j5YHdI.JPG align="left")
+It could look better but as my main goal is to create a useful open-source app, it is completely fine for me. It does what it should do.
+
+We only have one final step in order to finish our application. We have to implement the eyeblink to text conversion and display it on the UI.
+
+### Implementing Eyeblink to Text conversion via Morse Code
+Here is the Morse code enum:
+
+```
+class MorseCode(Enum):
+    A = ('a', '.-')
+    B = ('b', '-...')
+    C = ('c', '-.-.')
+    D = ('d', '-..')
+    E = ('e', '.')
+    F = ('f', '..-.')
+    G = ('g', '--.')
+    H = ('h', '....')
+    I = ('i', '..')
+    J = ('j', '.---')
+    K = ('k', '-.-')
+    L = ('l', '.-..')
+    M = ('m', '--')
+    N = ('n', '--')
+    O = ('o', '---')
+    P = ('p', '.--.')
+    Q = ('q', '--.-')
+    R = ('r', '.-.')
+    S = ('s', '...')
+    T = ('t', '-')
+    U = ('u', '..-')
+    V = ('v', '...-')
+    W = ('w', '.--')
+    X = ('x', '-..-')
+    Y = ('y', '-.--')
+    Z = ('z', '--..')
+    N_1 = ('1', '.----')
+    N_2 = ('2', '..---')
+    N_3 = ('3', '...--')
+    N_4 = ('4', '....-')
+    N_5 = ('5', '.....')
+    N_6 = ('6', '-....')
+    N_7 = ('7', '--...')
+    N_8 = ('8', '---..')
+    N_9 = ('9', '----.')
+    N_0 = ('0', '-----')
+
+    def __init__(self, character, code):
+        self.character = character
+        self.code = code
+
+    @classmethod
+    def get_character(cls, morse_code):
+        for name, member in MorseCode.__members__.items():
+            if member.code == morse_code:
+                return member.character
+        return None
+
+```
+
+The conversion happens the following way:
+
+If we detect a short blink we convert it to a "." and if we have a long blink we convert it into a "-" character. As soon as we do not detect a blink for 1 second, we convert our Morse characters into a letter or a number and display it in the "Text Output" widget.
+
+If we detect a very long blink of 1,2sec or more, then we enter a space character so we can separate words using that.
+
+Here is the code:
+
+```
+    def blink_detected(self, blink, blink_length):
+        print(str(blink) + ' with length: ' + str(blink_length))
+        if blink == Blink.SHORT_BLINK:
+            self.morse_code += '.'
+        elif blink == Blink.LONG_BLINK:
+            self.morse_code += '-'
+        elif blink == Blink.PAUSE:
+            try:
+                char = MorseCode.get_character(self.morse_code)
+                if char is not None:
+                    self.converted_text = self.converted_text + char
+                    print('Converted "' + self.morse_code + '" to ' + char + ' full text: "' + self.converted_text + '"')
+                self.morse_code = ''
+            except AttributeError as e:
+                logging.critical(e, exc_info=True)
+                print('Invalid Morse code: ' + self.morse_code)
+                self.morse_code = ''
+        elif blink == Blink.VERY_LONG_BLINK:
+            self.morse_code = ''
+            self.converted_text += 1
+        Clock.schedule_once(self.update_ui)
+``` 
+There is no magic here, except in the last line. The UI cannot be updated from an arbitrary thread. As our EEG handler is running on a separate thread, we have to separate the UI update. The last line schedules the call of our UI update with 0 delay, so as soon as there are no other jobs in the queue, or UI will be updated.
+
+That's all folks. We are completely ready with our application. We are not just ready, but we implemented a mobile/desktop app using only pure Python. I think this can be called "Implementing a mobile app the Pythonian way". Or because I am not too good in Python yet, I would call it "Implementing a mobile app the Pythonianish way".
+
+We have only one step remaining which is packaging our app to have an Android app.
+
+### Packaging Our App Into an Android Package
+
+
+
+
+
 
 
 
