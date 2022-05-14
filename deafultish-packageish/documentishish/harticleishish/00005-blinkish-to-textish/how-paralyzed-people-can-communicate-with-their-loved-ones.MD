@@ -111,14 +111,312 @@ I am detecting eyeblinks via brainwaves and then converting them to text using t
 
 During looking for information about detecting eyeblinks I realized there are already implemented solutions that detect eyeblinks and convert them to text using the Morse code. Some of them are using a camera but others are using an EEG band.
 
-Despite this project is still valuable for the following reasons
+Despite this the project is still valuable for the following reasons
 1. I am building a framework that handles the whole communication with the EEG bands, so developers and neuroscientists can focus on what really matters: implementing the different algorithms with which they can extract information from brainwaves.
 2. There are many different EEG devices, and my goal is to support many of them. As soon as you get the raw EEG data it does not matter from which device it came from.
-3. This is an open-source project and hope a couple of enthusiastic people will contribute to the project.
+3. This is an open-source project and I hope a couple of enthusiastic people will contribute to the project.
 4. This is my first step in the field of Brain-Computer Interfaces. A learning project from which I learn about brainwaves, learning about Python, and the Kivy framework.
 5. I am providing a solution with which completely paralyzed people can communicate with other people for the price of a mid-level phone (400€). My project is open-source and free, but it requires a Muse band (I recommend Muse S) and the Mind Monitor app.
 
+We have the inspiration, the idea, so it is time to set a goal.
 
+## The Goal
+Recently, I usually set HSMART goals for myself, which is my extension of the [SMART](https://www.mindtools.com/pages/article/smart-goals.htm) goal concept. Here are the meanings of the letters:
+- **H**umanish: It has to be something that makes this world a little bit better and at least a small portion of humanity can benefit from it.
+- **S**pecific: The goal has to be clear and specific.
+- **M**easurable: In order to track my progress and to stay motivated the progress with the goal have to be measurable.
+- **A**chiavable: The goal has to be realistic. It does not make much sense to set an unrealistic goal.
+- **R**elevant:  The goal has to matter to you. If you are working on something which is not relevant to your current situation it will be very hard to find motivation.
+- **T**ime-bound: Without a deadline, you can easily lose focus. Parkinson's law is expressing this in a very simple way: "work expands so as to fill the time available for its completion". From this it is easy to see if you do not have a deadline, you can work forever without any real progress on your task.
+
+So let's see my concrete HSMART goal:
+- **H**umanish: I do believe Brain-Computer Interfaces (BCI) can make the world better if they are used for the good. Having a framework that can be used to develop BCI-based apps and having a solution with which paralyzed people can communicate with their loved ones is definitely humaish from my point of view.
+- **S**pecific: I want to develop an app with which completely paralyzed people can communicate with others. In addition to this, I want to develop a framework with which any developer can jumpstart their own brainwave project.
+- **M**easurable: I have defined multiple milestones to measure my progress
+1. Get the RAW data from the Muse
+2. Display live brainwaves
+2. Detect eyeblinks using brainwaves
+3. Classify the detected blinks based on their length
+4. Convert the blinks to text using the Morse code
+5. Design the UI of the mobile app
+6. Develop the app
+7. Write the article in order to participate in the Hashnode Writeathon
+- **A**chiavable:  Taking into consideration that I have a full-time job and a family the deadline is very strict, but it is still achievable. I have time for the project when my son is sleeping which means ~2 hours in the morning and 2-3 hours in the evening and 8-10 hours during the weekend. On weekdays I always spend ~2 hours with my son when I arrive from work. During the weekend we split the day into 1-2 hours long blocks. One block spending time together and one block me time. We repeat this from the morning till the evening, so we spend a lot of time together and everybody has time to focus on their own things too.
+- **R**elevant:  I am highly motivated to put my feet in the field of brain-computer interfaces (BCI). I am recently visiting a data analysis course as an external student at the Budapest University of Economics and Technology (BME). We learn basic data analysis, but also machine learning (ML) and deep learning. I will definitely put my recently acquired knowledge into practice in this project.
+- **T**ime-bound: From the moment I get the Interaxon Muse S I have 3 weeks.
+- One week to learn about brainwaves and develop the framework.
+- One week for implementing the blink detection algorithm.
+- One week to create a mobile app and write an article to participate in the Hashnode Writeathon.
+
+We have the HSMART goal so it is time to start our project and select the technologies.
+
+## Selecting The Tech-stack
+As Python is the number one programming language for data analysis and machine learning the choice was almost straightforward. Apart from a few scripts I have not used Python during my career, so this will be my first ever Python project. According to the [TIOBE index](https://www.tiobe.com/tiobe-index/) Python is the most popular programming language and it is also easy to learn so I chase Python.
+
+At first I wanted to develop a web app, and I selected [Anvil Works](https://anvil.works/) as the framework for development as with it you can create and host a web app in no time.
+
+During reading the tutorials I realized I have to communicate with the Muse device which could be problematic from the browser, so I will need not just a frontend but a backend implementation too. to communicate with the Muse it is highly advised to do it on a local network which meant I should host my backend locally.
+
+After some thinking, I realized a mobile/desktop app is much more suitable for my task. After a little googling and comparison I have decided to go with [Kivy](https://kivy.org/).
+
+Kivy is a free open source cross-platform Python library for rapid development of applications that make use of innovative user interfaces, such as multi-touch apps and it is even GPU accelerated.
+
+As I had no chance to learn a frontend framework like Angular in a few days, the idea of developing a mobile app in pure Python really enlightened me.
+
+However, after googling I found Muse has an SDK (that was one of the main reasons why I ordered the Muse), when I asked the Interaxon support for the link they told me at the moment there is no publicly available SDK, so I had to look for another solution.
+
+Luckily I found Mind Monitor which connects to the Muse and gets the RAW data and it can even stream it using the [Open Sound Control (OSC) protocol](https://en.wikipedia.org/wiki/Open_Sound_Control) as UDP packets.
+
+Because of this pythonosc was a straightforward selection to grab the live EEG data.
+
+That is enough from the tech stack, let's start implementing the solution.
+
+## The Implementation
+This is my first real Python project so I am pretty sure my code is rather messy especially as I was focusing on the results.
+
+But here comes one of the real advantages of open-source development. I can get feedback about my code and even code change suggestions in the form of pull requests. So I am pretty sure it only needs a few weeks and this project will be a good starting point if somebody would like to start open-source contribution, learn Python, or brain-computer-interface (BCI) development. I will personally make sure it will be a kind and supportive community.
+
+However, Python is a scripting language it also supports object-oriented development so most of my code is object-oriented, but not all of them. I still have to learn what is a good way to develop Python apps.
+
+### Implementing Data Classes
+I have created multiple Python modules. One of them is *eeg_commons* which contains generic data that can be acquired from an EEG band. In addition to raw EEG data, it also supports gyroscope and accelerometer data which can be used in further applications.
+
+I also created a *WindowedSeries* and an *EEGSeries* class in order to be able to plot the EEG data and to get the median too.
+
+```
+from enum import Enum
+from statistics import mean, median
+import datetime
+
+
+class DataType(Enum):
+    EEG = 1
+    GYROSCOPE = 2
+    ACCELEROMETER = 3
+
+
+class EEGChannel(Enum):
+    AF7 = 1
+    AF8 = 2
+    TP9 = 3
+    TP10 = 4
+    AUX = 5
+
+
+class EEGChannelMapping:
+    def __init__(self, *args):
+        self.index_to_channel = {}
+        self.channel_to_index = {}
+
+    def add_mapping(self, index, channel):
+        self.index_to_channel[index] = channel
+        self.channel_to_index[channel] = index
+
+    def get_channel(self, index):
+        return self.index_to_channel[index]
+
+    def get_index(self, channel):
+        return self.channel_to_index[channel]
+
+
+class Data(object):
+    def __init__(self, data_type):
+        self.creation_time = datetime.datetime.now()
+        self.type = data_type
+
+
+class EEG(Data):
+
+    @classmethod
+    def create_eeg_data_map(cls, channel_mapping, data_tuple):
+        data_per_channel = {}
+        for idx, data in enumerate(data_tuple):
+            data_per_channel[channel_mapping.get_channel(idx)] = data
+        return data_per_channel
+
+    def __init__(self, eeg_data_map):
+        super(EEG, self).__init__(DataType.EEG)
+        self.data_per_channel = eeg_data_map
+
+    def get_channel_value(self, eeg_channel):
+        return self.data_per_channel[eeg_channel]
+
+    def channel_count(self):
+        return len(self.data_per_channel)
+
+    def get_channels(self):
+        return self.data_per_channel.keys()
+
+
+class Gyroscope(Data):
+    def __init__(self, *args):
+        super(Gyroscope, self).__init__(DataType.GYROSCOPE)
+        self.x = args[0]
+        self.y = args[1]
+        self.z = args[2]
+
+    def get_up_down_location(self):
+        return self.x
+
+    def get_tilt(self):
+        return self.y
+
+
+# TODO: check and fix x,y,z meaning
+class Accelerometer(Data):
+    def __init__(self, *args):
+        super(Accelerometer, self).__init__(DataType.ACCELEROMETER)
+        self.x = args[0]
+        self.y = args[1]
+        self.z = args[2]
+
+    def get_left_right_pitch_acc(self):
+        return self.x
+
+    def get_up_down_acc(self):
+        return self.y
+
+    def get_left_right_acc(self):
+        return self.z
+
+
+class WindowedSeries:
+    def __init__(self, window_size):
+        self.elements = []
+        self.window_size = window_size
+
+    def add_element(self, element):
+        self.elements.append(element)
+        if self.window_size == len(self.elements):
+            del (self.elements[0])
+
+    def get_average(self):
+        if len(self.elements) == 0:
+            return 0
+        return mean(self.elements)
+
+    def get_median(self):
+        if len(self.elements) == 0:
+            return 0
+        return median(self.elements)
+
+
+class EEGSeries:
+    def __init__(self, eeg_channels, series_length):
+        self.time_series = {}
+        self.last_stamp = None
+        for channel in eeg_channels:
+            self.time_series[channel] = WindowedSeries(series_length)
+
+    def add(self, eeg_data):
+        if self.last_stamp is not None and (eeg_data.creation_time - self.last_stamp).total_seconds() < 0:
+            print('Data from past: ' + str((eeg_data.creation_time - self.last_stamp).total_seconds() * 1000))
+            return
+        else:
+            self.last_stamp = eeg_data.creation_time
+        channels = eeg_data.get_channels()
+        for channel in channels:
+            self.time_series[channel].add_element(eeg_data.get_channel_value(channel))
+
+    def get_median(self, channel):
+        return self.time_series[channel].get_median()
+
+
+class EEGConverter:
+    def __init__(self, converter):
+        self.converter = converter
+
+    def convert(self, data):
+        converted_data = {}
+        for channel in data.data_per_channel.keys():
+            converted_data[channel] = self.converter.apply(data.data_per_channel[channel])
+        return EEG(converted_data)
+
+``` 
+
+### Implementing The Muse Band Handler
+In order to communicate with the Muse band, I had to introduce multithreading to make sure the main thread is not blocked while we get the data from the device.
+
+As I have implemented the Observer design pattern by introducing listeners, the other parts of the code are not dependent on the used device which means we can easily add support for new devices.
+
+After we start the Muse plugin it starts listening on the given UDP port to get the data from the EEG band via pythonosc.
+
+```
+from pythonosc import dispatcher
+from pythonosc import osc_server
+from eeg_commons.eeg_commons import EEG, Gyroscope, Accelerometer, EEGChannelMapping, EEGChannel
+from threading import Thread
+
+addresses = []
+
+
+class MuseEEGChannelMapping(EEGChannelMapping):
+    def __init__(self):
+        super(MuseEEGChannelMapping, self).__init__()
+        self.add_mapping(0, EEGChannel.TP9)
+        self.add_mapping(1, EEGChannel.AF7)
+        self.add_mapping(2, EEGChannel.AF8)
+        self.add_mapping(3, EEGChannel.TP10)
+        self.add_mapping(4, EEGChannel.AUX)
+
+
+MUSE_EEG_CHANNEL_MAPPING = MuseEEGChannelMapping()
+
+
+class MuseEEG(EEG):
+    def __init__(self, *args):
+        super(MuseEEG, self).__init__(EEG.create_eeg_data_map(MUSE_EEG_CHANNEL_MAPPING, args[0]))
+
+
+class Muse:
+    eeg_channels = [EEGChannel.AF7, EEGChannel.TP9, EEGChannel.TP10, EEGChannel.AF8, EEGChannel.AUX]
+
+    def __init__(self, ip, port):
+        self.ip = ip
+        self.port = port
+        self.listener_thread = None
+        self.server = None
+        self.listeners = {}
+
+    def add_listener(self, data_type, data_arrived_func):
+        if data_type not in self.listeners.keys():
+            self.listeners[data_type] = []
+        self.listeners[data_type].append(data_arrived_func)
+
+    def notify_listeners(self, data):
+        if data.type in self.listeners.keys():
+            for callback in self.listeners[data.type]:
+                callback(data)
+
+    def handler(self, address: str, *args):
+        if address.endswith('eeg'):
+            self.notify_listeners(MuseEEG(args))
+
+        if address not in addresses:
+            addresses.append(address)
+            print(address)
+        raw_entry = str(address) + ':'
+        for arg in args:
+            raw_entry += "," + str(arg)
+        # print(raw_entry)
+
+    def start_muse_listening(self):
+        disp = dispatcher.Dispatcher()
+        disp.map("/*", self.handler)
+        print("Connecting to  " + self.ip + ":" + str(self.port))
+        self.server = osc_server.ThreadingOSCUDPServer((self.ip, self.port), disp)
+        print("Connected")
+        self.server.serve_forever()
+
+    def start(self):
+        self.listener_thread = Thread(target=self.start_muse_listening, daemon=True)
+        self.listener_thread.start()
+
+    def stop(self):
+        print('Shutdown OSC server')
+        self.server.shutdown()
+
+``` 
 
 
 
