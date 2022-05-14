@@ -2,7 +2,7 @@ From this article, you can learn **how you can get access to your brain from you
 
 I will lead you through the development of an app with which you can detect eyeblinks using a [Muse S EEG band](https://choosemuse.com/muse-s/). We will convert the eyeblinks to text using the Morse code as a result we will have a solution with which completely paralyzed people can communicate with their loved ones.
 
-I will also demonstrate **how you can build an app in pure Python with the aid of Kivy** resulting in a program that can be packed to Android, iOS, Windows, Mac, and Linux.
+I will also demonstrate **how you can build an app in pure Python with the aid of Kivy** resulting in a program that can be packed to Android, iOS, Windows, and Mac.
 
 Before we start coding, please let me share some moments from my life which led me to start tinkering with my brain.
 
@@ -15,7 +15,7 @@ I was in my room, sitting in front of my Commodore 64 computer. My brother had a
 
 I loved computer games. Playing games like Ugh Olympics, Pirates, Defender of The Crown, Boulder Dash, Wizard of Wor, Nebulus, and Bruce Lee gave me more pleasure than anything else in the world.
 
-At that time I was playing a newly discovered game called Benji. I was trying to figure out how I can play the game with little success.
+At that time I was playing a newly discovered game called Benji. I was trying to figure out how I could play the game with little success.
 
 Suddenly I saw something in the corner of my eye so I turned right to look through the window. There was nothing unusual except one thing.
 
@@ -33,8 +33,7 @@ From this point, I couldn't recall anything as I lost my consciousness. Just a f
 
 That was the first time when I had an epileptic seizure.
 
-My next memory is being in a room in the hospital. A nurse lubricated small thingies with a cold gel, then she put a very strange hat on my head.
-
+My next memory is being in the hospital. A few hours later a nurse led me into a room, lubricated small thingies with a cold gel, then put a very strange hat on my head.
 The hat was strange as many wires were coming out of it all of them connected to a machine.
 
 I had to lay down and stay calm, then the machine drew lines on a piece of paper.
@@ -641,7 +640,7 @@ The conversion happens the following way:
 
 If we detect a short blink we convert it to a "." and if we have a long blink we convert it into a "-" character. As soon as we do not detect a blink for 1 second, we convert our Morse characters into a letter or a number and display it in the "Text Output" widget.
 
-If we detect a very long blink of 1,2sec or more, then we enter a space character so we can separate words using that.
+If we detect a very long blink of 1,2 sec or more, then we enter a space character so we can separate words using that.
 
 Here is the code:
 
@@ -674,14 +673,75 @@ That's all folks. We are completely ready with our application. We are not just 
 
 We have only one step remaining which is packaging our app to have an Android app.
 
-### Packaging Our App Into an Android Package
+### Creating Our Android App
+Here comes the beauty of Kivy:
 
+You have to write only one application and you can generate an app for Android, iOs, macOS, and Windows too.
 
+As I am developing on Windows and as I have an Android phone my choice is to make an Android package (APK).
 
+There are multiple ways to do that:
+- Using Buildozer
+- Packaging with python-for-android
+- Packaging your application for the Kivy Launcher
 
+According to the documentation, Buildozer is the easiest. You can [find all the info here regarding packaging](https://kivy.org/doc/stable/gettingstarted/packaging.html).
 
+Just follow the instructions and you will have an app in no time.
 
+I have included the necessary steps in the Readme.MD file of the project.
 
+You can [find the project on my GitHub](https://github.com/mszeles/brainish-appishish).
+
+Huh. That was quite a ride, but I have good news:
+
+We are ready. We have implemented our first brain-computer interface app in no time. And now, let's talk about the future plans.
+
+## Plans for the future
+I have not thought too much about the future as I was focusing on the present, but here are some ideas I came up with:
+- Instead of using hardcoded values for blink classification a training feature could be introduced which guides you through the process of doing eyeblinks with different lengths. Based on this info you can immediately start using the app with little or no error, and later when you got used to it, you can calibrate again, to achieve a better speed.
+- Make the application more robust by filtering artifacts like jaw movement and eye movement.
+- Modify pythonosc, or implement our own solution to grab the OSC data streamed by Mind Monitor in order to access the timestamps based on which we can rearrange the samples.
+- Making a more robust solution by analyzing only the relevant part of the frequency spectrum using Fourier transformation.
+- Using data like eye movement, gyroscope, and accelerometer to implement a much faster brainwave to text solution.
+
+That's all folks. I hope you enjoyed it.
+
+I would love to hear from you. No matter whether you just thinking about starting your own brainwave-based BCI project, or you already developed something just [contact me](https://www.linkedin.com/in/miki-szeles-freelancer-agileish-creativeish-technicalish-writer/) and let's have a friendly chat. I am pretty sure both of us can benefit from that.
+
+P.S.: [Something good will happen to you today!](https://mszeles.com/something-good-will-happen-to-you-today)
+
+<a href="https://msz.team/38yKicd" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&amp;emoji=&amp;slug=theashishmaurya&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff"></a>
+
+---
+Hackernoon interviewed me, so if you would like to **learn more about me**, just [click here and read it!](https://hackernoon.com/i-open-sourced-my-thinking-process-meet-hackernoon-writer-and-test-automation-engineer-miki-szeles)
+---
+** BECOME AN AGILEISH SUPERHERO!**
+
+**Learn how to memorize anything in the world. In this series, I teach you everything I know about learning and memorization, including memory palaces, marker images, number memorization techniques, associations, etc.**
+
+**You can already [find the first videos on my Youtube channel](https://msz.team/36qHu06) in which I show you that it is possible to memorize such boring things as positions of circles.**
+
+**Don't forget to [read How You Can Become An Agileish Super Learner AKA How You Can Become A Super Thinker AKA The Proof Of Concept (POC)](https://msz.team/3vxmaP8)  before you watch the videos.**
+
+**[Join the Agileish Superheroes Facebook group](https://msz.team/3KXFTOg) to learn memorization techniques, thinking techniques, agility, reading and learning techniques and also to get notified about new live sessions and videos**
+
+---
+**As I am a crazy person, I have open-sourced my life on GitHub on Fool's day.**
+
+**I am sharing my thoughts, writings, and creations and as I am committing frequently, I have open-sourced my thinking process, my writing process, and also my creation process.**
+
+**[Just click here, to check my open-sourced life on Github!](https://msz.team/3JSzceX)**
+
+---
+
+**My credo**: [The Mystery Of The Supposedly Red ❤ Emoji AKA The Story Of How I Became A Software Developer Detective To Debug The Internet](https://msz.team/3DLOBwk)
+
+**Read my story**, in case you would like **to understand how I think and act as a developer and tester in the real world.** You can **get some insights about my humor**, and I am also happy to tell you that **this is my article about which I am the proudest of** now.
+
+---
+
+In case you do **not want to miss my posts**, just **follow me** [here on Hashnode](https://mszeles.com/), on [LinkedIn](https://www.linkedin.com/in/miklos-szeles/), on [Twitter](https://twitter.com/mszeles) on [Medium.com](https://medium.com/@mszeles), on [dev.to](https://dev.to/mszeles), on [Hackernoon](https://hackernoon.com/u/mszeles) and even on [Instagram](https://www.instagram.com/szelesmiki/). 😊
 
 
 
