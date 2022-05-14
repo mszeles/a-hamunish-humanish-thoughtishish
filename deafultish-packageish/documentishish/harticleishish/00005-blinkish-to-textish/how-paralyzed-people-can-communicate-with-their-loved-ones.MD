@@ -1,6 +1,6 @@
 From this article, you can learn **how you can get access to your brain from your app** for the price of a mid-level mobile phone by buying an EEG band and an app with which you can get the raw EEG data from the band.
 
-I will lead you through the development of an app with which you can detect eyeblinks using a Muse S EEG band. We will convert the eyeblinks to text using the Morse code as a result we will have a solution with which completely paralyzed people can communicate with their loved ones.
+I will lead you through the development of an app with which you can detect eyeblinks using a [Muse S EEG band](https://choosemuse.com/muse-s/). We will convert the eyeblinks to text using the Morse code as a result we will have a solution with which completely paralyzed people can communicate with their loved ones.
 
 I will also demonstrate **how you can build an app in pure Python with the aid of Kivy** resulting in a program that can be packed to Android, iOS, Windows, Mac, and Linux.
 
@@ -171,8 +171,25 @@ Because of this pythonosc was a straightforward selection to grab the live EEG d
 
 That is enough from the tech stack, let's start implementing the solution.
 
+## Learning About The Interaxon Muse S
+The Muse S is a 4 channel band which means you can measure signals at 4 different points on your head. Thez are AF7, AF8, TP9 and TP10. AF7 and AF8 are positioned on the front of your skull and TP9 and TP10 are positioned at the back of your head. In order to learn more just read the [10-20 EEG system description on Wikipedia](https://en.wikipedia.org/wiki/10%E2%80%9320_system_(EEG)).
+
+You have to know that the scientist at UCSF used 120-200 EEG channels and we only have 4. But I am completely fine about that as having more channels would be overwhelming in the beginning. Having such a limit inspires me to be creative, and thanks to the price of €379.99 it is affordable to anyone who would like to start developing brain-computer interface (BCI) based solutions.
+
+However I am pretty sure 4 channels will be adequate for a while, I already found the device which most probably will be the next EEG device I use. It is the [EPOC Flex Saline Sensor Kit](https://www.emotiv.com/product/epoc-flex-saline-sensor-kit/) which has 32 channels, but it costs four times as much as the Muse S ($1800).
+
+Most probably I will only get that if I find supporters for this project, or in case I really hit the limits of the Muse S.
+
+In terms of specification, the Muse has the earlier mentioned 4 channels and also 2 amplified Aux channels. It has a 256Hz sample rate and 13bits/sample resolution which seems more than enough as usually, we are only interested in delta(0.5-4Hz), theta(4-8Hz), alpha(8-13Hz), beta(13-32Hz), and gamma(32-100Hz) waves. For more details, [check this page](https://choosemuse.com/blog/a-deep-dive-into-brainwaves-brainwave-frequencies-explained-2/).
+
+The EEG band also has a gyroscope, an accelerometer, a PPG sensor (which can be used to measure heart rate) and it also has a thermistor.
+
+The band comes with an app with which you can get real-time feedback about the effectiveness of your meditation and also it has many guided meditations. In addition to this, it has many soundscapes, and journeys that help you fall asleep and it can even track your sleep.
+
+That is more than enough about the Muse S band, it is time to really make our hands dirty and write some code.
+
 ## The Implementation
-This is my first real Python project so I am pretty sure my code is rather messy especially as I was focusing on the results.
+This is my first real Python project so I am pretty sure my code is rather messy especially as I was focusing on the quick results.
 
 But here comes one of the real advantages of open-source development. I can get feedback about my code and even code change suggestions in the form of pull requests. So I am pretty sure it only needs a few weeks and this project will be a good starting point if somebody would like to start open-source contribution, learn Python, or brain-computer-interface (BCI) development. I will personally make sure it will be a kind and supportive community.
 
@@ -181,7 +198,7 @@ However, Python is a scripting language it also supports object-oriented develop
 ### Implementing Data Classes
 I have created multiple Python modules. One of them is *eeg_commons* which contains generic data that can be acquired from an EEG band. In addition to raw EEG data, it also supports gyroscope and accelerometer data which can be used in further applications.
 
-I also created a *WindowedSeries* and an *EEGSeries* class in order to be able to plot the EEG data and to get the median too.
+I also created a *WindowedSeries* and an *EEGSeries* class in order to be able to plot the EEG data and get the median too.
 
 ```
 from enum import Enum
@@ -417,9 +434,17 @@ class Muse:
         self.server.shutdown()
 
 ``` 
+That's it. With these few dozens of lines of code, we can get all the data from the Muse EEG band.
 
+Let's talk about more exciting things.
 
+### Detecting Eyeblinks
+Usually, eyeblinks are considered artifacts that should be removed in order to have an artifact-free EEG for processing, but in our case, this is the only useful information.
 
+The eyeball acts as a dipole with a positive pole oriented anteriorly (cornea) and a negative pole oriented posteriorly (retina). Thanks to this it highly affects our EEG data.
+
+I have created a short video in which I demonstrate how detected brainwaves change, when we do things like moving our eyes, blinking, and clenching our jaw.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VOASXIFvV_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
