@@ -92,12 +92,31 @@ I was googling different apps developed for the Muse band but I had to realize t
 
 Anush has developed a hands-free slideshow that can be navigated by using eyeblinks. He was also able to switch Chrome tabs using eyeblinks and scrolling via measuring the focus/concentration of the user using only the raw EEG data. He even made a video summarizing solutions built on brainwaves.
 
-In addition to Anush's article
+In addition to Anush's article, I found a very exciting project. Scientists from the University of California, San Francisco (UCSF) [have developed a solution](https://www.bbc.com/news/science-environment-52094111) that was able to recognize words/sentences with 96% accuracy.
 
-So in the end it was Anush Mutyala, who inspired me to develop my own app(s).
+There are some drawbacks of their solution:
+1. The number of recognized sentences is limited to 30-50 sentences.
+2. Their solution is not open-source as far as I know.
+
+Despite this, it is an amazing achievement as they proved it is possible to recognize sentences by analyzing our brainwaves and also because it is just the first step for them.
+
+They have [published their research paper](https://www.nature.com/articles/s41593-020-0608-8.epdf) in Nature Neuroscience journal.
+
+So in the end these projects were my inspiration to start my journey in the field of Brain-Computer Interfaces (BCI).
 
 ## The Idea
-After reading Anush's article, my brain started to spin and after thinking for quite a while I came up with the eye
+After reading the articles, my brain started to spin and after thinking for quite a while I came up with the idea of developing my own version of a brainwave to text application.
+
+I am detecting eyeblinks via brainwaves and then converting them to text using the Morse code. However, it is much slower than the UCSF scientist's solution it is still a solution with which completely paralyzed people can communicate with their loved ones.
+
+During looking for information about detecting eyeblinks I realized there are already implemented solutions that detect eyeblinks and convert them to text using the Morse code. Some of them are using a camera but others are using an EEG band.
+
+Despite this project is still valuable for the following reasons
+1. I am building a framework that handles the whole communication with the EEG bands, so developers and neuroscientists can focus on what really matters: implementing the different algorithms with which they can extract information from brainwaves.
+2. There are many different EEG devices, and my goal is to support many of them. As soon as you get the raw EEG data it does not matter from which device it came from.
+3. This is an open-source project and hope a couple of enthusiastic people will contribute to the project.
+4. This is my first step in the field of Brain-Computer Interfaces. A learning project from which I learn about brainwaves, learning about Python, and the Kivy framework.
+5. I am providing a solution with which completely paralyzed people can communicate with other people for the price of a mid-level phone (400€). My project is open-source and free, but it requires a Muse band (I recommend Muse S) and the Mind Monitor app.
 
 
 
