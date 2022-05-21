@@ -1,4 +1,4 @@
-## Neveloper's Humanish Agileish Thoughts No. 1: Happy Agile
+## Neveloper's Humanish Agileish Thoughts No. 1: Feel Good Agile
 
 Software development is a marathon.
 
@@ -32,20 +32,6 @@ After each iteration/walk, we have a walky retro. Cause of this we do not need a
 When we are working together with other people we have the Daily Retro to make their life easier, as they already got used to the daily.
 
 You can find more info in thought No. 2.
-
-## Neveloper's Humanish Agileish Thoughts No. 4: The Non-Cross-Functional Team AKA Cross-Functionalish Duos
-
-At Miki, Minnie, Nikolai, and Co. we have 15 minutes to 3 hours long iterations called walks.
-
-
-After each iteration/walk, we have a walky retro. Cause of this we do not need a multiple hours long Scrum retrospective.
-
-
-When we are working together with other people we have the Daily Retro to make their life easier, as they already got used to the daily.
-
-
-You can find more info in thought No. 2.
-
 
 ## Neveloper's Humanish Agileish Thoughts No. 4: The Non-Cross-functional Team AKA Cross-functionalish Duos
 
@@ -144,22 +130,43 @@ Have a great day and see you soon!
 
 P.S: [Something Good Will Happen To You Today!](https://mszeles.com/something-good-will-happen-to-you-today)
 
+## Neveloper's Humanish Agileish Thoughts No. 5: User Story
+At Miki, Minnie, Nikolai, and Co. we started to use Scrum 8 years ago. During the years we have revisited each element of Scrum and adapted them to our needs.
+
+As you could already realize we have tailored almost all elements of Scrum to our own needs, but the user story is an exception. During the years we have seen great value in them, so we kept them.
+
+User stories are coming from the customers and written by the product owner (PO).
+
+It is the PO's responsibility to clarify every question related to the user story and include it in the Jira (yes, we use Jira) story type issue.
+
+At our company, user stories are the single source of truth. Developers write their code based on the story and testers test the code based on the story too.
+
+However, we love Confluence we do not use it to write lengthy feature specifications there. We have every important thing specified in the story, so we can avoid text duplication.
+
+Q: What if a story has a too lengthy specification?
+
+A: Well, that is a story smell. If your story is too large, most probably you have to split it up into smaller stories.
+
+Q: What if the story takes too much time to develop?
+
+A: As you know instead of cross-functional teams, we have cross-functionalish duos (Thoughts No. 4) which means 2 people are working on one story together. We use subtasks to break larger stories into smaller digestible features. If needed then another walky duo can work on the same story to make sure we get ready earlier.
+
+Q: What if a tester finds a bug and the developer tells it is a feature?
+
+A: At Miki, Minnie, Nikolai, and Co. we do not spend hours for such stupid debates as the solution is simple. If it is in the specification then it is a feature, if not, then it is a bug. It is that simple.
+
+Q: What if the bug is valuable?
+
+A: Then the user story has to be updated or a new user story has to be created.
 
 
 
 
 
-
-
-
-
-
-
-
-## Neveloper's Humanish Agileish Thoughts No. 3: User stories
 ## Neveloper's Humanish Agileish Thoughts No. 4: Team stories
 ## Neveloper's Humanish Agileish Thoughts No. 5: Non-Cross functional teams
 ## Neveloper's Humanish Agileish Thoughts No. 6: Story non-points AKA Story hours
 ## Neveloper's Humanish Agileish Thoughts No. 7: Planning non-poker
 ## Neveloper's Humanish Agileish Thoughts No. 8: Story goals
 
+#humanishagile #feelgoodagile #happyagile #neveloper #agileish #thoughts #softwaredevelopment #agile #agilesoftwaredevelopment #scrum #happiness #team #agileteam #agileteams
