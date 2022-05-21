@@ -1,5 +1,18 @@
 - Maudience: Dear reader! Miki likes to read. Miki likes to read a lot. During the reading, he bookmarks all of the harticles he finds insightful, interesting, or fun. Luckily, Miki likes to write. Miki likes to write a lot. So he decided to create a newsletter in which he not just lists the articles, but also writes a few sentences about them, so you can easily find out whether the article is relevant for you or not.
-  <br><br>
+
+I have created a table content like thingy for you to make sure you can get something valuable from this article no matter how much time you have.
+
+<a id="tableish-contentish">
+**Tableish Contentish**
+1. **Nikolai: If you do not give a sh.t about what Miki was doing during the last two months and you are only here for your weekly dose of harticles, <a href="#start-of-newsletter">just click here!</a>**
+2. **If you want to know what harticles Miki wrote since he posted the last Hashnode weekly then <a href="#my-harticles">click here!</a>**
+3. **If you would like to become a super learner, thinker, or have a super memory <a href="#rediscover-your-inner-superhero">just click here!</a>**
+4. **Do you want to know how Miki open-sourced himslef. <a href="#open-source-me">Click here!</a>**
+5. ** Want to read the interview Miki gave to Hackernoon? <a href="#hackernoon-interview">Read it here!</a>**
+6. **If you want to know how you can get access to your brain from your code for the price of a mid-level mobile phone, or if you want to know with which article Miki is participating in the Hashnode Writeathon <a href="#brainish-appish">Click here!</a>**
+7. **Do you want to win a ticket to Craft Conf 2022 which is one of the world's biggest software developer conferences? <a href="#craft-conf-giveaway">Click here for details!</a>**
+
+## What has happened in the last 2 months?
 - Minnie: Yuppie. I can't believe it. Another Hashnode Weekly. Finally.
 - Miki: Yeah, I am also happy about that.
 - Minnie: What happened? Why didn't you post for 2 months?
@@ -9,6 +22,8 @@
 - Minnie: Why?
 - Miki: As I had time to be creative and focus on other topics too.
 - Minnie: So what did you do in the last 2 months?
+  <a id="my-harticles">
+### Writing 9 harticles
 - Miki: Well. Let's see. I have written 9 articles:
 - [How To Customize Your LinkedIn URL in 6 Easy Steps AKA How To Boost Your LinkedIn SEO AKA Lifehacks By Miki Szeles](https://mszeles.com/how-to-customize-your-linkedin-url-in-6-easy-steps-aka-how-to-boost-your-linkedin-seo-aka-lifehacks-by-miki-szeles)
 - [How you can find a job in one round of interview? AKA Perfectish Matchish Partnerish Opportunityish From Developerishish AKA The Great Refactoring.MD](https://mszeles.com/how-you-can-find-a-job-in-one-round-of-interview-aka-perfectish-matchish-partnerish-opportunityish-from-developerishish-aka-the-great-refactoringmd)
@@ -25,12 +40,12 @@
 - Miki: Well, I might be a little bit crazy, but I have employed Maudience to make sure we can keep (the attention of) our audience and make sure they can get the most out of our articles if they do not have 10+ minutes.
 - Nikolai: Does that work?
 - Miki: We will see. We will see, Nikolai!
-  <br><br>
 - Nikolai: So that's all that you did in the last 2 months?
 - Miki: Nope. I have worked in my full-time job as a test automation engineer, and also spent a lot of time with my son, Levi.
 - Minnie: Yes, family time is very important. The most important one is from all the mentioned things. I will make sure you will never lose focus on that.
 - Miki: Thanks, Minnie.
-  <br><br>
+  <a id="rediscover-your-inner-superhero">
+### Helping you to redicover your inner superhero
 - Nikolai: I am still not impressed with what you did. Is there anything else?
 - Miki: Yes. I have learned many many memorization, learning, and thinking methods during the last three decades of my life.
 - Nikolai: I know. None of them stuck, you gave up using them after a short while.
@@ -60,52 +75,159 @@
 - Miki: They can [join my Facebook group called Agileish Szuperhősök](https://www.facebook.com/groups/1045364599695087).
 - Minnie: What if they do not speak Hungarian?
 - Miki: Then they can [join my English Facebook group called Agileish Superheroes](https://www.facebook.com/groups/488924636292199).
-
+  <a id="open-source-me">
+### Open-sourcing myself
 - Minnie: That's enough about memorization and learning. Have you done anything else in the last 2 months?
-- Miki: Sure.
+- Miki: Sure. As you know, I am a crazy person, I have open-sourced myself on Fool's day.
+- Minnie: Whaaat?
+- Miki: I open-sourced my thoughts, writings, and artistic creations, and as I am doing it on Github, I also open-sourced my thinking process, my writing process, and my art creation process thanks to the commit history.
+- Minnie: Hmm. I have not heard of anyone else who did that.
+- Miki: Me neither.
+- Minnie: Is there anything else important about this?
+- Miki: I believe this will be the first project on GitHub where people will go to read the comments instead of the content itself.
+- Minnie: ???
+- Miki: As in all the comments messages I am talking with you Minnie, Nikolai, and all the others.
+- Minnie: Cool.
+- Nikolai: You are an idiot, Miki.
+- Miki: Thank you, my friend.
+- Minnie: Where is the project?
+- Miki: [Just click here and you will find it!](https://github.com/mszeles/a-hamunish-humanish-thoughtishish)
+  <a id="hackernoon-interview">
+### Giving an interview to Hackernoon
+- Minnie: What else you did do?
+- Miki: I gave an interview to Hackernoon.
+- Minnie: I know that. [Here is the link!](https://hackernoon.com/i-open-sourced-my-thinking-process-meet-hackernoon-writer-and-test-automation-engineer-miki-szeles)
+  <a id="brainish-appish">
+### Developing a mind-controlled app and participating in Hashnode Writeathon
+- Neveloper: Any programming related?
+- Miki: Sure. I have developed an open-source brainwave-based app with which paralyzed people can communicate with their loved ones using a Muse EEG device.
+- Neveloper: Finally. I wanted to learn Python for quite a while.
+- Maudience: How can our readers learn more about the project?
+- Miki: I have written an article about it to participate in the Hashnode Writeathon. [Just click here to read it!](https://mszeles.com/a-brainwave-based-solution-with-which-completely-paralyzed-people-can-communicate-with-their-loved-ones-using-a-muse-eeg-band)
+  <a id="craft-conf-giveaway">
+### Starting a Craft Conf giveaway
+- Nikolai: Ok, I am pretty sure you cannot come up with any other stuff.
+- Miki: Are you sure?
+- Nikolai: Yes, I am sure Miki.
+- Miki: Well, then you are wrong. I have started a Craft Conf conference ticket giveaway.
+- Nikolai: Craft conf? Never heard of it.
+- Neveloper: It is because you have no idea about conferences and software engineering. Craft Conf is one of the biggest software development conferences in the world, featuring 70+ top-notch experts' talks. 1000+ developers take part each year.
+- Maudience: How can our readers participate in this?
+- Miki: They have to write an article about anything. [Just click here to read the rules!](https://mszeles.com/do-you-want-to-learn-software-development-from-top-notch-experts-from-all-around-the-world-here-is-your-chance-aka-the-craft-conf-giveaway)
+- Maudience: But Miki, the deadline is the 25th of May which is very close.
+- Miki: That is true, but they can even participate with an article they have written before up till the 11th of May, the start of the giveaway. They just have to follow the rules.
+- Nikolai: A 399€ ticket for something which our readers would do anyway? Where is the catch?
+- Miki: The winners have to write a 1000 words article after the conference about the conference.
+- Nikolai: I knew it. Nobody will participate.
+- Miki: We will see. Most of the fellow hloggers would write an article anyway about it if they participate.
+  <br><br>
+- Minnie: There is one thing I do not understand. If you do so many things why do you reboot Hashnode Weekly?
+- Miki: As I realized I love writing it and I do believe it is valuable for our readers.
+
+<a href="#tableish-contentish">Return to tableish contentish!</a>
+<a id="start-of-newsletter">
+## Your Weekly Dose of Harticles
+### Today in Spotlight 🔦: Being a Dabbler by Jamie V.
+As you might get used to it I always put one article in the spotlight, usually an article with which I can highly relate. This week it is @[Jamie V.](@sigma1)' [The Power of the "Dabbler"](https://sigma1.hashnode.dev/the-power-of-the-dabbler) article. According to Jamie, he was a Dabbler during his whole life. He shares his thoughts about being a dabbler in his article. It is a must-read in my opinion.
+
+I can highly relate to this as I am a dabbler myself too. In the past, I have started a lot of new things. Just to mention a few examples: playing poker, becoming a barista, playing go, photography, running, Lindy Hop, and creating a Facebook group. When I start something I put 100% into it, which has usually resulted in burnout after a few weeks, months, or years.
+
+No matter what, sooner or later I lost my interest and gave up on them. I have considered this a bad thing for decades, up till recently.
+
+Today I see this from a completely different perspective. I believe all of those experiences were valuable. There are many topics on which I gave up, but still, all of them helped me to become the person I am now.
+
+These topics are seemingly unrelated, but as I am always looking for ways to combine my previous learnings I usually find a way, which might result in something unique.
+
+If you read what have I done during the last 2 months, you could see I have started many completely different topics.
+
+Will I give up some of them?
+
+I am almost sure. I have my limits and I cannot handle as many things in parallel.
+
+Will I give up all of them?
+
+I doubt it. As I am doing many things in parallel I believe I can make sure I won't burn out this time.
+
+Which topics will I continue?
+
+I will continue those ones in which I find the most joy, which is usually the topic that gives the most value to my followers.
+
+And now let's see this week's harticles:
+
+### Software Development
 
 - @[marinsborg](@marinsborg) [URL shortener - Java and Spring complete tutorial](https://marinsborg.hashnode.dev/url-shortener-java-and-spring-complete-tutorial)
 - @[Maxi Contieri](@mcsee) [Code Smell 133 - Hardcoded IF Conditions](https://hashnode.com/authenticate?next=https://mcsee.hashnode.dev/code-smell-133-hardcoded-if-conditions)
-- @[Ashutosh Krishna](@ashutoshkrris) [How to Find and Fix Security Vulnerabilities Using Snyk](https://ashutoshkrris.hashnode.dev/how-to-find-and-fix-security-vulnerabilities-using-snyk)
+
 - @[Vincent Tsen](@vtsen) [How to Create Singleton Class in Kotlin?](https://vtsen.hashnode.dev/how-to-create-singleton-class-in-kotlin)
 - @[Mfon.](@themfon) [What You Need to Know About Pseudocode](https://hashnode.com/authenticate?next=https://themfon.hashnode.dev/what-you-need-to-know-about-pseudocode)
-- @[İlke Candan Bengi](@ilkecandan) [Learning and Predicting, Machine Learning](https://ilkecandan.hashnode.dev/learning-and-predicting-machine-learning)
-- @[Nonstack](@grotesque-shame-tremble-47) [blog.developerdao.com](https://grotesque-shame-tremble-47.hashnode.dev/)
 - @[Eleanor Opiyo](@iamnellie) [Making the big switch to Software development](https://iamnellie.hashnode.dev/making-the-big-switch-to-software-development)
 - @[Souvik Das](@storiesbysouvik) [My journey of becoming a developer](https://storiesbysouvik.hashnode.dev/my-journey-of-becoming-a-developer)
-- @[James 'Dante' Midzi](@dantedecodes) [What Was Your Win This Week?](https://dantedecodes.hashnode.dev/what-was-your-win-this-week-1)
 - @[Eden AI](@edenai) [How to use OCR with JavaScript?](https://edenai.hashnode.dev/how-to-use-ocr-with-javascript)
 - @[Ravi Kumar](@ravi13) [The CSS Box Model](https://ravi13.hashnode.dev/the-css-box-model)
-- @[Ivan](@techwithivan) [5 Of My Favorite VSCode Extensions](https://techwithivan.hashnode.dev/5-of-my-favorite-vscode-extensions)
 - @[Ishita Keshawani](@ishitakeshawani) [Learn Git and Github in 5 minutes](https://ishitakeshawani.hashnode.dev/learn-git-and-github-in-5-minutes)
-- @[Debashis Panda](@geekdeb) [An interesting conversation between JVM & the Java Compiler](https://hashnode.com/authenticate?next=https://geekdeb.hashnode.dev/an-interesting-conversation-between-jvm-and-the-java-compiler)
-- @[Rahul Banerjee](@realpythonproject) [How to Build a Recommender System with Embeddinghub](https://realpythonproject.hashnode.dev/how-to-build-a-recommender-system-with-embeddinghub)
-- @[Francis Faniku](@franciscobaze) [How to HACK chrome dino game](https://franciscobaze.hashnode.dev/how-to-hack-chrome-dino-game)
-- @[Jamie V.](@sigma1) [The Power of the "Dabbler"](https://sigma1.hashnode.dev/the-power-of-the-dabbler)
 - @[idukpaye Alex](@journey-dev) [Which Frontend Javascript Framework/library is the Best?](https://journey-dev.hashnode.dev/which-frontend-javascript-frameworklibrary-is-the-best)
-- @[Linda Smith](@reconnecthealth) [How to Improve your Mental Health](https://reconnecthealth.hashnode.dev/how-to-improve-your-mental-health)
 - @[Lucas D.](@ldupree) [Ok, so I definitely belong in DevRel](https://ldupree.hashnode.dev/ok-so-i-definitely-belong-in-devrel)
 - @[Abdulrhman Elsaed](@apdoelsaed) [The Observer Pattern](https://apdoelsaed.hashnode.dev/the-observer-pattern)
 - @[Joel Tanzi](@jtanzi) [5 Oddly Controversial Topics in Software Development](https://hashnode.com/authenticate?next=https://jtanzi.hashnode.dev/5-oddly-controversial-topics-in-software-development)
 - @[Ozone Ozone](@dappsblockchain) [CICD Pipelines: Evolution with Time](https://dappsblockchain.hashnode.dev/cicd-pipelines-evolution-with-time)
 - @[Ndongmo christian](@chritianhonore) [WebScraping(BeautifulSoup) with Python](https://chritianhonore.hashnode.dev/webscrapingbeautifulsoup-with-python)
 - @[Allen Helton](@allenheltondev) [Solutions Architect Tips: How to Build Your First Architecture Diagram](https://allenheltondev.hashnode.dev/solutions-architect-tips-how-to-build-your-first-architecture-diagram)
-- @[Utsav bhattarai](@utsavbhattarai) [My first Blog - How to write 8log🙂🙂](https://utsavbhattarai.hashnode.dev/my-first-blog-how-to-write-8log)
-- @[Neurotech Africa](@neurotech) [SENTIMENT ANALYSIS WITH PYTHON's NLTK LIBRARY](https://neurotech.hashnode.dev/sentiment-analysis-with-pythons-nltk-library)
-- @[yash pandit](@yash2033) [New start for new good habit!](https://yash2033.hashnode.dev/new-start-for-new-good-habit)
-- @[Chidiogo](@aniediogo) [Cyber Security Facts and Misconceptions](https://aniediogo.hashnode.dev/cyber-security-facts-and-misconceptions)
 - @[Rajat Thakur](@newsdataapi) [News API: Ultimate Beginner’s guide](https://newsdataapi.hashnode.dev/news-api-ultimate-beginners-guide)
 - @[Sajal Tiwari](@sajal-tiwari) [sajal-tiwari.hashnode.dev](https://sajal-tiwari.hashnode.dev/)
+- @[Ander Rodriguez](@anderrv) [Speed Up Web Scraping with Concurrency in Python](https://anderrv.hashnode.dev/speed-up-web-scraping-with-concurrency-in-python)
+- @[Vojko Pribudić](@vojko-pribudic) [Using context managers in Python](https://hashnode.com/authenticate?next=https://vojko-pribudic.hashnode.dev/using-context-managers-in-python)
+- @[Francis Faniku](@franciscobaze) [How to HACK chrome dino game](https://franciscobaze.hashnode.dev/how-to-hack-chrome-dino-game)
+- @[dev_avocado](@devavocado) [Why I switched to TypeScript in 2022 and why you should to 😉](https://devavocado.hashnode.dev/why-i-switched-to-typescript-in-2022-and-why-you-should-to)
+- @[Ana Vela](@anaveecodes) [How To Learn Any Programming Language](https://hashnode.com/authenticate?next=https://anaveecodes.hashnode.dev/how-to-learn-any-programming-language)
+- @[Ary Hegde](@aryaan) [How to suggest similar words in Javascript using Levenshtein distance?](https://aryaan.hashnode.dev/how-to-suggest-similar-words-in-javascript-using-levenshtein-distance)
+- @[Maheshwar Ligade](@techwasti) [5 Online Platforms to Grow Software Engineering Skills.](https://hashnode.com/authenticate?next=https://techwasti.hashnode.dev/5-online-platforms-to-grow-software-engineering-skills)
+
+### Testing
+- @[Eric Ampire](@ericampire) [Create Powerful Tests using Property Based Testing](https://hashnode.com/authenticate?next=https://ericampire.hashnode.dev/create-powerful-tests-using-property-based-testing)
+- @[Matheus Gomes](@mgodev) [Black box testing and White box testing](https://mgodev.hashnode.dev/black-box-testing-and-white-box-testing)
+
+### Writing, Blogging, Groth-hacking
+- @[Ákos Kőműves](@akoskm) [Make your First Dollar online as a Creator](https://hashnode.com/authenticate?next=https://akoskm.hashnode.dev/make-your-first-dollar-online-as-a-creator)
+- @[Abel ](@abeltxor) [How I grew my Twitter audience to 16,000 in less than 2 months!](https://abeltxor.hashnode.dev/how-i-grew-my-twitter-audience-to-16000-in-less-than-2-months)
+
+### Self-improvement, Productivity, Psychology, Learning
+- @[James 'Dante' Midzi](@dantedecodes) [What Was Your Win This Week?](https://dantedecodes.hashnode.dev/what-was-your-win-this-week-1)
+- @[Linda Smith](@reconnecthealth) [How to Improve your Mental Health](https://reconnecthealth.hashnode.dev/how-to-improve-your-mental-health)
 - @[Alejandro Napoles](@lexnapoles) [How to learn better with proven techniques](https://hashnode.com/authenticate?next=https://lexnapoles.hashnode.dev/how-to-learn-better-with-proven-techniques)
 - @[Amokrane Chentir](@amokranechentir) [Solving problems through writing](https://amokranechentir.hashnode.dev/solving-problems-through-writing)
-- @[Patrick Alves](@cpatrickalves) [MLOps: What it is and why does it Matter?](https://hashnode.com/authenticate?next=https://cpatrickalves.hashnode.dev/mlops-what-it-is-and-why-it-matters)
-- @[Eric Ampire](@ericampire) [Create Powerful Tests using Property Based Testing](https://hashnode.com/authenticate?next=https://ericampire.hashnode.dev/create-powerful-tests-using-property-based-testing)
-- @[Eula C.](@eula) [Continued beginnings.](https://hashnode.com/authenticate?next=https://eula.hashnode.dev/continued-beginnings)
-- @[Nonstack](@grotesque-shame-tremble-47) [blog.developerdao.com](https://grotesque-shame-tremble-47.hashnode.dev/)
-- @[Ander Rodriguez](@anderrv) [Speed Up Web Scraping with Concurrency in Python](https://anderrv.hashnode.dev/speed-up-web-scraping-with-concurrency-in-python)
-- @[Abel ](@abeltxor) [How I grew my Twitter audience to 16,000 in less than 2 months!](https://abeltxor.hashnode.dev/how-i-grew-my-twitter-audience-to-16000-in-less-than-2-months)
-- @[Eshan Sharma](@eshansharma) [A Simple Guide to Kubernetes](https://eshansharma.hashnode.dev/a-simple-guide-to-kubernetes)
-- @[Ákos Kőműves](@akoskm) [Make your First Dollar online as a Creator](https://hashnode.com/authenticate?next=https://akoskm.hashnode.dev/make-your-first-dollar-online-as-a-creator)
 - @[SURYA L](@layruss) [How can you focus on your goals to achieve success?](https://hashnode.com/authenticate?next=https://layruss.hashnode.dev/how-can-you-focus-on-your-goals-to-achieve-success)
-- @[Vojko Pribudić](@vojko-pribudic) [Using context managers in Python](https://hashnode.com/authenticate?next=https://vojko-pribudic.hashnode.dev/using-context-managers-in-python)
+- @[Precious Eyoh](@cyberfreak) [Some Important Skills need as a Software Engineer](https://cyberfreak.hashnode.dev/some-important-skills-need-as-a-software-engineer)
+
+### Machine Learning, Data Analysis, and Artificial Intelligence
+- @[İlke Candan Bengi](@ilkecandan) [Learning and Predicting, Machine Learning](https://ilkecandan.hashnode.dev/learning-and-predicting-machine-learning)
+- @[Neurotech Africa](@neurotech) [SENTIMENT ANALYSIS WITH PYTHON's NLTK LIBRARY](https://neurotech.hashnode.dev/sentiment-analysis-with-pythons-nltk-library)
+- @[Rahul Banerjee](@realpythonproject) [How to Build a Recommender System with Embeddinghub](https://realpythonproject.hashnode.dev/how-to-build-a-recommender-system-with-embeddinghub)
+- @[Patrick Alves](@cpatrickalves) [MLOps: What it is and why does it Matter?](https://hashnode.com/authenticate?next=https://cpatrickalves.hashnode.dev/mlops-what-it-is-and-why-it-matters)
 - @[Tiia](@tiiaaurora) [Machine Learning: Creating an animated avatar that reacts to your voice](https://hashnode.com/authenticate?next=https://tiiaaurora.hashnode.dev/machine-learning-creating-an-animated-avatar-that-reacts-to-your-voice)
+- @[Sajal Tiwari](@sajal-tiwari) [Deep image reconstruction from human brain activity](https://sajal-tiwari.hashnode.dev/deep-image-reconstruction-from-human-brain-activity)
+- @[Alao D. I.](@alaodavid) [The Thinking of Man: Human Vs. A.I.](https://alaodavid.hashnode.dev/the-thinking-of-man-human-vs-ai)
+
+### Security
+- @[Chidiogo](@aniediogo) [Cyber Security Facts and Misconceptions](https://aniediogo.hashnode.dev/cyber-security-facts-and-misconceptions)
+- @[Ashutosh Krishna](@ashutoshkrris) [How to Find and Fix Security Vulnerabilities Using Snyk](https://ashutoshkrris.hashnode.dev/how-to-find-and-fix-security-vulnerabilities-using-snyk)
+
+### Devops, CI/CD
+- @[Eshan Sharma](@eshansharma) [A Simple Guide to Kubernetes](https://eshansharma.hashnode.dev/a-simple-guide-to-kubernetes)
+
+### Blockchain and Web3
+- @[Nonstack](@grotesque-shame-tremble-47) [The Complete Guide to Decentralized Autonomous Organizations](https://hashnode.com/authenticate?next=https://grotesque-shame-tremble-47.hashnode.dev/the-complete-guide-to-decentralized-autonomous-organizations)
+- @[Nonstack](@grotesque-shame-tremble-47) [Demystifying Blockchain Technology](https://hashnode.com/authenticate?next=https://grotesque-shame-tremble-47.hashnode.dev/demystifying-blockchain-technology)
+
+### Tools
+- @[Ivan](@techwithivan) [5 Of My Favorite VSCode Extensions](https://techwithivan.hashnode.dev/5-of-my-favorite-vscode-extensions)
+
+
+### Funny articles
+- @[Debashis Panda](@geekdeb) [An interesting conversation between JVM & the Java Compiler](https://hashnode.com/authenticate?next=https://geekdeb.hashnode.dev/an-interesting-conversation-between-jvm-and-the-java-compiler)
+
+### New Hloggers
+- @[Eula C.](@eula) [Continued beginnings.](https://hashnode.com/authenticate?next=https://eula.hashnode.dev/continued-beginnings)
+- @[Utsav bhattarai](@utsavbhattarai) [My first Blog - How to write 8log🙂🙂](https://utsavbhattarai.hashnode.dev/my-first-blog-how-to-write-8log)
+- @[yash pandit](@yash2033) [New start for new good habit!](https://yash2033.hashnode.dev/new-start-for-new-good-habit)
+- @[Markos Korvesis](@3minutehacks) [Oh no... not another one.](https://3minutehacks.hashnode.dev/oh-no-not-another-one)
