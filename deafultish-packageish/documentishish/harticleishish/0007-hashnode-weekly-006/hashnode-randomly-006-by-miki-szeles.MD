@@ -134,9 +134,9 @@ I can highly relate to this as I am a dabbler myself too. In the past, I have st
 
 No matter what, sooner or later I lost my interest and gave up on them. I have considered this a bad thing for decades, up till recently.
 
-Today I see this from a completely different perspective. I believe all of those experiences were valuable. There are many topics on which I gave up, but still, all of them helped me to become the person I am now.
+Today I see this from a completely different perspective. I believe all of those experiences were valuable. There are many topics on which I gave up, but still, all of them helped me to become the person I am now. And from time to time I move back to a topic like I am photographing and playing go again.
 
-These topics are seemingly unrelated, but as I am always looking for ways to combine my previous learnings I usually find a way, which might result in something unique.
+The above-mentioned topics are seemingly unrelated, but as I am always looking for ways to combine my previous learnings I usually find a way, which might result in something unique.
 
 If you read what have I done during the last 2 months, you could see I have started many completely different topics.
 
@@ -156,20 +156,20 @@ And now let's see this week's harticles:
 
 ### Software Development
 
-- @[marinsborg](@marinsborg) [URL shortener - Java and Spring complete tutorial](https://marinsborg.hashnode.dev/url-shortener-java-and-spring-complete-tutorial)
-- @[Maxi Contieri](@mcsee) [Code Smell 133 - Hardcoded IF Conditions](https://hashnode.com/authenticate?next=https://mcsee.hashnode.dev/code-smell-133-hardcoded-if-conditions)
+- Do you want to learn how you can build a complete Spring-based project from requirements up till conenirezation? Read @[marinsborg](@marinsborg)'s excellent article called  [URL shortener - Java and Spring complete tutorial](https://marinsborg.hashnode.dev/url-shortener-java-and-spring-complete-tutorial)!
+- @[Maxi Contieri](@mcsee) is doing an awesome job as he does not just collect code smells, but also gives the solution for them. He just posted the 133rd!!!! article in his series:  [Code Smell 133 - Hardcoded IF Conditions](https://hashnode.com/authenticate?next=https://mcsee.hashnode.dev/code-smell-133-hardcoded-if-conditions)
+- I do not know anything about Kotlin, so when I saw @[Vincent Tsen](@vtsen)'s [How to Create Singleton Class in Kotlin?](https://vtsen.hashnode.dev/how-to-create-singleton-class-in-kotlin) harticle I felt the urge to read it, especially as I could learn about Kotlin via an example with which I am quite familiar the Singleton design pattern.
+- You can learn the ins and outs of pseudocode from @[Mfon.](@themfon)'s [What You Need to Know About Pseudocode](https://hashnode.com/authenticate?next=https://themfon.hashnode.dev/what-you-need-to-know-about-pseudocode) article. I have seen way too much pseudo-code during my university years, but if you are not familiar with them, then this article is highly recommended.
+- Do you want to read an inspiring story about how a woman with a tourism background became a software developer? Just read @[Eleanor Opiyo](@iamnellie)'s [Making the big switch to Software development](https://iamnellie.hashnode.dev/making-the-big-switch-to-software-development) harticle.
+- Do you want more motivation to become a software developer? Read @[Souvik Das](@storiesbysouvik)'s [My journey of becoming a developer](https://storiesbysouvik.hashnode.dev/my-journey-of-becoming-a-developer) harticle.
+- @[Eden AI](@edenai) explains what is OCR, how it works, and what kind of solutions are there on the market and he even provides an example in Javascript in his  [How to use OCR with JavaScript?](https://edenai.hashnode.dev/how-to-use-ocr-with-javascript) post.
+- If you are also not familiar with CSS then @[Ravi Kumar](@ravi13)'s [The CSS Box Model](https://ravi13.hashnode.dev/the-css-box-model) is must-read. He explains the CSS box model in an easily understandable way.
+- Are you new to Git or GitHub? Read @[Ishita Keshawani](@ishitakeshawani)'s [Learn Git and Github in 5 minutes](https://ishitakeshawani.hashnode.dev/learn-git-and-github-in-5-minutes) harticle to jumpstart your git learning.
+- I usually do not like "which is the best" articles as they are biased in most cases, still I read @[idukpaye Alex](@journey-dev)'s harticle [Which Frontend Javascript Framework/library is the Best?](https://journey-dev.hashnode.dev/which-frontend-javascript-frameworklibrary-is-the-best) and I did not regret it.
+- Have you ever used a listener in your code? Then most probably you used the Observer design pattern even without noticing it. Learn about the pattern from @[Abdulrhman Elsaed](@apdoelsaed) by reading his [The Observer Pattern](https://apdoelsaed.hashnode.dev/the-observer-pattern) harticle.
+- I do not know any other profession which has so many controversial topics as software development. It is possible it is because I am not familiar with other professions, but still @[Joel Tanzi](@jtanzi) was able to [list 5 oddly controversial topics in software development](https://hashnode.com/authenticate?next=https://jtanzi.hashnode.dev/5-oddly-controversial-topics-in-software-development). I even added one more, the "feature vs. bug" never-ending debate.
 
-- @[Vincent Tsen](@vtsen) [How to Create Singleton Class in Kotlin?](https://vtsen.hashnode.dev/how-to-create-singleton-class-in-kotlin)
-- @[Mfon.](@themfon) [What You Need to Know About Pseudocode](https://hashnode.com/authenticate?next=https://themfon.hashnode.dev/what-you-need-to-know-about-pseudocode)
-- @[Eleanor Opiyo](@iamnellie) [Making the big switch to Software development](https://iamnellie.hashnode.dev/making-the-big-switch-to-software-development)
-- @[Souvik Das](@storiesbysouvik) [My journey of becoming a developer](https://storiesbysouvik.hashnode.dev/my-journey-of-becoming-a-developer)
-- @[Eden AI](@edenai) [How to use OCR with JavaScript?](https://edenai.hashnode.dev/how-to-use-ocr-with-javascript)
-- @[Ravi Kumar](@ravi13) [The CSS Box Model](https://ravi13.hashnode.dev/the-css-box-model)
-- @[Ishita Keshawani](@ishitakeshawani) [Learn Git and Github in 5 minutes](https://ishitakeshawani.hashnode.dev/learn-git-and-github-in-5-minutes)
-- @[idukpaye Alex](@journey-dev) [Which Frontend Javascript Framework/library is the Best?](https://journey-dev.hashnode.dev/which-frontend-javascript-frameworklibrary-is-the-best)
-- @[Lucas D.](@ldupree) [Ok, so I definitely belong in DevRel](https://ldupree.hashnode.dev/ok-so-i-definitely-belong-in-devrel)
-- @[Abdulrhman Elsaed](@apdoelsaed) [The Observer Pattern](https://apdoelsaed.hashnode.dev/the-observer-pattern)
-- @[Joel Tanzi](@jtanzi) [5 Oddly Controversial Topics in Software Development](https://hashnode.com/authenticate?next=https://jtanzi.hashnode.dev/5-oddly-controversial-topics-in-software-development)
+
 - @[Ozone Ozone](@dappsblockchain) [CICD Pipelines: Evolution with Time](https://dappsblockchain.hashnode.dev/cicd-pipelines-evolution-with-time)
 - @[Ndongmo christian](@chritianhonore) [WebScraping(BeautifulSoup) with Python](https://chritianhonore.hashnode.dev/webscrapingbeautifulsoup-with-python)
 - @[Allen Helton](@allenheltondev) [Solutions Architect Tips: How to Build Your First Architecture Diagram](https://allenheltondev.hashnode.dev/solutions-architect-tips-how-to-build-your-first-architecture-diagram)
@@ -227,6 +227,9 @@ And now let's see this week's harticles:
 - @[Debashis Panda](@geekdeb) [An interesting conversation between JVM & the Java Compiler](https://hashnode.com/authenticate?next=https://geekdeb.hashnode.dev/an-interesting-conversation-between-jvm-and-the-java-compiler)
 
 ### New Hloggers
+- @[Lucas D.](@ldupree) [Ok, so I definitely belong in DevRel](https://ldupree.hashnode.dev/ok-so-i-definitely-belong-in-devrel)
+
+
 - @[Eula C.](@eula) [Continued beginnings.](https://hashnode.com/authenticate?next=https://eula.hashnode.dev/continued-beginnings)
 - @[Utsav bhattarai](@utsavbhattarai) [My first Blog - How to write 8log🙂🙂](https://utsavbhattarai.hashnode.dev/my-first-blog-how-to-write-8log)
 - @[yash pandit](@yash2033) [New start for new good habit!](https://yash2033.hashnode.dev/new-start-for-new-good-habit)
