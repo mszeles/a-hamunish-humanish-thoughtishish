@@ -1,5 +1,5 @@
 - Maudience: Dear reader! Miki likes to read. Miki likes to read a lot. During the reading, he bookmarks all of the harticles he finds insightful, interesting, or fun. Luckily, Miki likes to write. Miki likes to write a lot. So he decided to create a newsletter in which he not just lists the articles, but also writes a few sentences about them, so you can easily find out whether the article is relevant for you or not.
-
+  <br><br>
 - Minnie: Yuppie. I can't believe it. Another Hashnode Weekly. Finally.
 - Miki: Yeah, I am also happy about that.
 - Minnie: What happened? Why didn't you post for 2 months?
@@ -25,24 +25,44 @@
 - Miki: Well, I might be a little bit crazy, but I have employed Maudience to make sure we can keep (the attention of) our audience and make sure they can get the most out of our articles if they do not have 10+ minutes.
 - Nikolai: Does that work?
 - Miki: We will see. We will see, Nikolai!
-
+  <br><br>
 - Nikolai: So that's all that you did in the last 2 months?
 - Miki: Nope. I have worked in my full-time job as a test automation engineer, and also spent a lot of time with my son, Levi.
-- Minnie: Yes, family time is very important. The most important one from all the mentioned things. I will make sure you will never lose focus on that.
+- Minnie: Yes, family time is very important. The most important one is from all the mentioned things. I will make sure you will never lose focus on that.
 - Miki: Thanks, Minnie.
-- Nikolai: I am still not impressed about what you did. Is there anything else?
-- Miki: Yes. I have learnt many many memorization, learning and thinking methods during the last three decades of my life.
-- Nikolai: I know. None of them sticked, you gave up using them after a short while.
+  <br><br>
+- Nikolai: I am still not impressed with what you did. Is there anything else?
+- Miki: Yes. I have learned many many memorization, learning, and thinking methods during the last three decades of my life.
+- Nikolai: I know. None of them stuck, you gave up using them after a short while.
 - Miki: None of them worked up till recently as suddenly everything started to work.
 - Nikolai: How is that possible?
 - Miki: I have employed Metro.
 - Nikolai: Who is he?
 - Miki: He is our Scrum master responsible for retros.
 - Nikolai: Ah, so he helps with your full-time job?
-- Miki: No, he helps in almost everything what I am doing in my life?
+- Miki: No, he helps in almost everything that I am doing in my life?
 - Nikolai: Whaaaaat?
-- Miki: No matter what I am doing, I am doing it in iterations
+- Miki: No matter what I am doing, I am doing it in short 15min-3 hours iterations. I do them up till the flow remains.
+- Nikolai: How is that helpful?
+- Miki: I have a retrospective after each session.
+- Nikolai: A retro what?
+- Miki: Retrospective comes from Scrum. After each sprint the team gathers and creates a list of what went wrong, what went well, and what will they do differently.
+- Nikolai: I still do not get it.
+- Miki: Just [read this article](https://mszeles.com/how-you-can-become-an-agileish-super-learner-aka-how-you-can-become-a-super-thinker-aka-the-proof-of-concept-poc) and you will understand.
+  <br><br>
+- Maudience: So, I am happy you improved your memory and thinking process, but how can our readers benefit from that.
+- Miki: I have started a live memorization series in which I show the power of the different memorization techniques by combining them, thinking aloud, and involving my audience in the memorization, so they can not just see how they can use it, but they get hands-on experience in them immediately.
+- Minnie: What if somebody was not able to participate?
+- Miki: I am uploading all my recordings to Youtube. Just [click here to watch them](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
+- Minnie: What the hell was that?
+- Miki: Ups. Sorry. Wrong link. [Here is the right link](https://www.youtube.com/channel/UCUWS3jUWMjk0XdH5oZJr4lw).
+- Minnie: What if people would like to ask questions, and get involved in conversations about memorization, learning, and thinking?
+- Miki: They can [join my Facebook group called Agileish Szuperhősök](https://www.facebook.com/groups/1045364599695087).
+- Minnie: What if they do not speak Hungarian?
+- Miki: Then they can [join my English Facebook group called Agileish Superheroes](https://www.facebook.com/groups/488924636292199).
 
+- Minnie: That's enough about memorization and learning. Have you done anything else in the last 2 months?
+- Miki: Sure.
 
 - @[marinsborg](@marinsborg) [URL shortener - Java and Spring complete tutorial](https://marinsborg.hashnode.dev/url-shortener-java-and-spring-complete-tutorial)
 - @[Maxi Contieri](@mcsee) [Code Smell 133 - Hardcoded IF Conditions](https://hashnode.com/authenticate?next=https://mcsee.hashnode.dev/code-smell-133-hardcoded-if-conditions)
