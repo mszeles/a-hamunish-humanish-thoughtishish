@@ -152,11 +152,17 @@ Which topics will I continue?
 
 I will continue those ones in which I find the most joy, which is usually the topic that gives the most value to my followers.
 
+Before we continue, my friend DjMic is here to play some music that you can listen to during reading.
+
+- Miki: DjMic! What do you have for us today?
+- DjMic: I know Miki you love pirates. You played with the iconic Pirates both on C64 and PC. You also played Port Royale and Seo of Thieves. So here is some music from the world-class Hungarian band Paddy And The Rats. [Click here and start listening](https://www.youtube.com/watch?v=S3UebW-dGPY&list=RDS3UebW-dGPY&start_radio=1).
+
+
 And now let's see this week's harticles:
 
 ### Software Development
 
-- Do you want to learn how you can build a complete Spring-based project from requirements up till conenirezation? Read @[marinsborg](@marinsborg)'s excellent article called  [URL shortener - Java and Spring complete tutorial](https://marinsborg.hashnode.dev/url-shortener-java-and-spring-complete-tutorial)!
+- Do you want to learn how you can build a complete Spring-based project from requirements up to containerization? Read @[marinsborg](@marinsborg)'s excellent article called  [URL shortener - Java and Spring complete tutorial].(https://marinsborg.hashnode.dev/url-shortener-java-and-spring-complete-tutorial)!
 - @[Maxi Contieri](@mcsee) is doing an awesome job as he does not just collect code smells, but also gives the solution for them. He just posted the 133rd!!!! article in his series:  [Code Smell 133 - Hardcoded IF Conditions](https://hashnode.com/authenticate?next=https://mcsee.hashnode.dev/code-smell-133-hardcoded-if-conditions)
 - I do not know anything about Kotlin, so when I saw @[Vincent Tsen](@vtsen)'s [How to Create Singleton Class in Kotlin?](https://vtsen.hashnode.dev/how-to-create-singleton-class-in-kotlin) harticle I felt the urge to read it, especially as I could learn about Kotlin via an example with which I am quite familiar the Singleton design pattern.
 - You can learn the ins and outs of pseudocode from @[Mfon.](@themfon)'s [What You Need to Know About Pseudocode](https://hashnode.com/authenticate?next=https://themfon.hashnode.dev/what-you-need-to-know-about-pseudocode) article. I have seen way too much pseudo-code during my university years, but if you are not familiar with them, then this article is highly recommended.
@@ -168,69 +174,72 @@ And now let's see this week's harticles:
 - I usually do not like "which is the best" articles as they are biased in most cases, still I read @[idukpaye Alex](@journey-dev)'s harticle [Which Frontend Javascript Framework/library is the Best?](https://journey-dev.hashnode.dev/which-frontend-javascript-frameworklibrary-is-the-best) and I did not regret it.
 - Have you ever used a listener in your code? Then most probably you used the Observer design pattern even without noticing it. Learn about the pattern from @[Abdulrhman Elsaed](@apdoelsaed) by reading his [The Observer Pattern](https://apdoelsaed.hashnode.dev/the-observer-pattern) harticle.
 - I do not know any other profession which has so many controversial topics as software development. It is possible it is because I am not familiar with other professions, but still @[Joel Tanzi](@jtanzi) was able to [list 5 oddly controversial topics in software development](https://hashnode.com/authenticate?next=https://jtanzi.hashnode.dev/5-oddly-controversial-topics-in-software-development). I even added one more, the "feature vs. bug" never-ending debate.
-
-
-- @[Ozone Ozone](@dappsblockchain) [CICD Pipelines: Evolution with Time](https://dappsblockchain.hashnode.dev/cicd-pipelines-evolution-with-time)
-- @[Ndongmo christian](@chritianhonore) [WebScraping(BeautifulSoup) with Python](https://chritianhonore.hashnode.dev/webscrapingbeautifulsoup-with-python)
-- @[Allen Helton](@allenheltondev) [Solutions Architect Tips: How to Build Your First Architecture Diagram](https://allenheltondev.hashnode.dev/solutions-architect-tips-how-to-build-your-first-architecture-diagram)
-- @[Rajat Thakur](@newsdataapi) [News API: Ultimate Beginner’s guide](https://newsdataapi.hashnode.dev/news-api-ultimate-beginners-guide)
-- @[Sajal Tiwari](@sajal-tiwari) [sajal-tiwari.hashnode.dev](https://sajal-tiwari.hashnode.dev/)
-- @[Ander Rodriguez](@anderrv) [Speed Up Web Scraping with Concurrency in Python](https://anderrv.hashnode.dev/speed-up-web-scraping-with-concurrency-in-python)
-- @[Vojko Pribudić](@vojko-pribudic) [Using context managers in Python](https://hashnode.com/authenticate?next=https://vojko-pribudic.hashnode.dev/using-context-managers-in-python)
-- @[Francis Faniku](@franciscobaze) [How to HACK chrome dino game](https://franciscobaze.hashnode.dev/how-to-hack-chrome-dino-game)
-- @[dev_avocado](@devavocado) [Why I switched to TypeScript in 2022 and why you should to 😉](https://devavocado.hashnode.dev/why-i-switched-to-typescript-in-2022-and-why-you-should-to)
-- @[Ana Vela](@anaveecodes) [How To Learn Any Programming Language](https://hashnode.com/authenticate?next=https://anaveecodes.hashnode.dev/how-to-learn-any-programming-language)
-- @[Ary Hegde](@aryaan) [How to suggest similar words in Javascript using Levenshtein distance?](https://aryaan.hashnode.dev/how-to-suggest-similar-words-in-javascript-using-levenshtein-distance)
-- @[Maheshwar Ligade](@techwasti) [5 Online Platforms to Grow Software Engineering Skills.](https://hashnode.com/authenticate?next=https://techwasti.hashnode.dev/5-online-platforms-to-grow-software-engineering-skills)
+- Have you ever tried to automatically collect data from websites? Was it slow? If yes, then reading @[Ander Rodriguez](@anderrv)'s [Speed Up Web Scraping with Concurrency in Python](https://anderrv.hashnode.dev/speed-up-web-scraping-with-concurrency-in-python) article is highly recommended.
+- BeautifulSoup is a Python library for sraping the web. You can learn more about it by reading @[Ndongmo christian](@chritianhonore)'s [WebScraping(BeautifulSoup) with Python](https://chritianhonore.hashnode.dev/webscrapingbeautifulsoup-with-python) harticle.
+- Are you struggling with drawing diagrams? Just read @[Allen Helton](@allenheltondev)'s [Solutions Architect Tips: How to Build Your First Architecture Diagram](https://allenheltondev.hashnode.dev/solutions-architect-tips-how-to-build-your-first-architecture-diagram) and you won't feel overwhelmed when you have to draw a diagram next time.
+- News API is a paid REST API based service with which you can get access to more than 5000 news sources to aid your business intelligence or monitor your company's news appearance and also your competitor's. You can learn more about it in @[Rajat Thakur](@newsdataapi)'s [News API: Ultimate Beginner’s guide](https://newsdataapi.hashnode.dev/news-api-ultimate-beginners-guide).
+- Are you relatively new to Python like me? Do you have to use some resources like files? Is it cumbersome to make sure you always close the resources? @[Vojko Pribudić](@vojko-pribudic) [introducing Python context managers](https://hashnode.com/authenticate?next=https://vojko-pribudic.hashnode.dev/using-context-managers-in-python) which are quite similar to Java's try with resource solution.
+- Have you ever played Chrome's dino game? Do you want to have unlimited lives? @[Francis Faniku](@franciscobaze) shows you  [how to hack the Chrome dino game](https://franciscobaze.hashnode.dev/how-to-hack-chrome-dino-game)
+- Are you programming in JavaScript? Is it often cumbersome and error-prone to work with it? @[dev_avocado](@devavocado) [switched to TypeScript to overcome this problem](https://devavocado.hashnode.dev/why-i-switched-to-typescript-in-2022-and-why-you-should-to).
+- Are you new to programming? Do you want to learn another programming language?@[Ana Vela](@anaveecodes) [provides useful advice on how to do that.](https://hashnode.com/authenticate?next=https://anaveecodes.hashnode.dev/how-to-learn-any-programming-language)
+- Have you ever wondered how search engines can find the right results even if you mistyped something? Levenshtein distance is the answer for you. Just read @[Ary Hegde](@aryaan)'s [How to suggest similar words in Javascript using Levenshtein distance?](https://aryaan.hashnode.dev/how-to-suggest-similar-words-in-javascript-using-levenshtein-distance) article to find out the details.
 
 ### Testing
-- @[Eric Ampire](@ericampire) [Create Powerful Tests using Property Based Testing](https://hashnode.com/authenticate?next=https://ericampire.hashnode.dev/create-powerful-tests-using-property-based-testing)
-- @[Matheus Gomes](@mgodev) [Black box testing and White box testing](https://mgodev.hashnode.dev/black-box-testing-and-white-box-testing)
+- Testing articles are a scarce resource on Hashnode so I am always happy if I read an article about testing from a fellow hlogger. Knowing the fundamentas of testing is a must if you would like to become a good tester. Do you want to learn what is whitebox and blackbox testing? Just read @[Matheus Gomes](@mgodev)'s [Black box testing and White box testing](https://mgodev.hashnode.dev/black-box-testing-and-white-box-testing) harticle.
+- @[Eric Ampire](@ericampire) introduced an interesting concept called property-based testing in his harticle [Create Powerful Tests using Property Based Testing](https://hashnode.com/authenticate?next=https://ericampire.hashnode.dev/create-powerful-tests-using-property-based-testing). After reading it I was not convinced about its usefulness so I asked him some question. I hope he will answer soon. I am pretty curious what do you think about this approach?
 
 ### Writing, Blogging, Groth-hacking
-- @[Ákos Kőműves](@akoskm) [Make your First Dollar online as a Creator](https://hashnode.com/authenticate?next=https://akoskm.hashnode.dev/make-your-first-dollar-online-as-a-creator)
-- @[Abel ](@abeltxor) [How I grew my Twitter audience to 16,000 in less than 2 months!](https://abeltxor.hashnode.dev/how-i-grew-my-twitter-audience-to-16000-in-less-than-2-months)
+- Are you struggling with making a passive income via writing? Me too. A fellow Hungarian @[Ákos Kőműves](@akoskm) gave some tips in his writing [Make your First Dollar online as a Creator](https://hashnode.com/authenticate?next=https://akoskm.hashnode.dev/make-your-first-dollar-online-as-a-creator).
+- Do you want to have more Twitter followers? Get tips from @[Abel ](@abeltxor) who has accumulated 16k followers in 2 months:  [How I grew my Twitter audience to 16,000 in less than 2 months!](https://abeltxor.hashnode.dev/how-i-grew-my-twitter-audience-to-16000-in-less-than-2-months)
 
 ### Self-improvement, Productivity, Psychology, Learning
-- @[James 'Dante' Midzi](@dantedecodes) [What Was Your Win This Week?](https://dantedecodes.hashnode.dev/what-was-your-win-this-week-1)
-- @[Linda Smith](@reconnecthealth) [How to Improve your Mental Health](https://reconnecthealth.hashnode.dev/how-to-improve-your-mental-health)
-- @[Alejandro Napoles](@lexnapoles) [How to learn better with proven techniques](https://hashnode.com/authenticate?next=https://lexnapoles.hashnode.dev/how-to-learn-better-with-proven-techniques)
-- @[Amokrane Chentir](@amokranechentir) [Solving problems through writing](https://amokranechentir.hashnode.dev/solving-problems-through-writing)
-- @[SURYA L](@layruss) [How can you focus on your goals to achieve success?](https://hashnode.com/authenticate?next=https://layruss.hashnode.dev/how-can-you-focus-on-your-goals-to-achieve-success)
-- @[Precious Eyoh](@cyberfreak) [Some Important Skills need as a Software Engineer](https://cyberfreak.hashnode.dev/some-important-skills-need-as-a-software-engineer)
+- Self-reflection is a crucial part of my life, especially since Metro, who is our Scrum Master responsible for the retro joined our team. It can highly boost your motivation if you summarize what went well from time to time. @[James 'Dante' Midzi](@dantedecodes) asks one of the best motivation booster questions [What Was Your Win This Week?](https://dantedecodes.hashnode.dev/what-was-your-win-this-week-1).
+- Do you also find it hard to keep your mental health in today's fast-paced world? Just read @[Linda Smith](@reconnecthealth)'s [How to Improve your Mental Health](https://reconnecthealth.hashnode.dev/how-to-improve-your-mental-health) harticle in which she gives some advice.
+- If you read the first section of my article, you already know I am a little bit obsessed with learning. @[Alejandro Napoles](@lexnapoles) provides great advice on how to improve your learning in hos harticle called [How to learn better with proven techniques](https://lexnapoles.hashnode.dev/how-to-learn-better-with-proven-techniques).
+- @[Amokrane Chentir](@amokranechentir)'s [Solving problems through writing](https://amokranechentir.hashnode.dev/solving-problems-through-writing) is a short, but still valuable writing.
+- Is it hard for you to keep focus and achieve your goals? @[SURYA L](@layruss) provides his advice in [How can you focus on your goals to achieve success?](https://layruss.hashnode.dev/how-can-you-focus-on-your-goals-to-achieve-success).
+- Soft skills are as important as hard skills in today's world, and I am pretty sure soft skills will be even more important in the near future when AI-based programmers like Google's AlphaCode will take over coding from us. @[Precious Eyoh](@cyberfreak) lists a list of skills that are important for a software developer in [Some Important Skills need as a Software Engineer](https://cyberfreak.hashnode.dev/some-important-skills-need-as-a-software-engineer).
 
 ### Machine Learning, Data Analysis, and Artificial Intelligence
-- @[İlke Candan Bengi](@ilkecandan) [Learning and Predicting, Machine Learning](https://ilkecandan.hashnode.dev/learning-and-predicting-machine-learning)
-- @[Neurotech Africa](@neurotech) [SENTIMENT ANALYSIS WITH PYTHON's NLTK LIBRARY](https://neurotech.hashnode.dev/sentiment-analysis-with-pythons-nltk-library)
-- @[Rahul Banerjee](@realpythonproject) [How to Build a Recommender System with Embeddinghub](https://realpythonproject.hashnode.dev/how-to-build-a-recommender-system-with-embeddinghub)
-- @[Patrick Alves](@cpatrickalves) [MLOps: What it is and why does it Matter?](https://hashnode.com/authenticate?next=https://cpatrickalves.hashnode.dev/mlops-what-it-is-and-why-it-matters)
-- @[Tiia](@tiiaaurora) [Machine Learning: Creating an animated avatar that reacts to your voice](https://hashnode.com/authenticate?next=https://tiiaaurora.hashnode.dev/machine-learning-creating-an-animated-avatar-that-reacts-to-your-voice)
-- @[Sajal Tiwari](@sajal-tiwari) [Deep image reconstruction from human brain activity](https://sajal-tiwari.hashnode.dev/deep-image-reconstruction-from-human-brain-activity)
-- @[Alao D. I.](@alaodavid) [The Thinking of Man: Human Vs. A.I.](https://alaodavid.hashnode.dev/the-thinking-of-man-human-vs-ai)
+- @[İlke Candan Bengi](@ilkecandan) helps us to put our feet in the field of machine learning by introducing decision trees with hands-on examples in her writing  [Learning and Predicting, Machine Learning](https://ilkecandan.hashnode.dev/learning-and-predicting-machine-learning).
+- From @[Neurotech Africa](@neurotech) you can learn how to do your own sentiment analysis using Python's NLTK library. Just read his writing [Sentiment Analysis With Python's NLTK Library](https://neurotech.hashnode.dev/sentiment-analysis-with-pythons-nltk-library) to find out.
+- Have you ever wondered how recommendation systems are working? @[Rahul Banerjee](@realpythonproject) not just explains it, but also builds a solution in his writing [How to Build a Recommender System with Embeddinghub](https://realpythonproject.hashnode.dev/how-to-build-a-recommender-system-with-embeddinghub).
+- Creating a machine learning based solution is one thing, but operating that is at least as crucial as implementing it. @[Patrick Alves](@cpatrickalves) gives his advice regarding the operation in his harticle [MLOps: What it is and why does it Matter?].(https://hashnode.com/authenticate?next=https://cpatrickalves.hashnode.dev/mlops-what-it-is-and-why-it-matters)
+- @[Tiia](@tiiaaurora) shows us how we can leverage machine learning to  [create an animated avatar that reacts to our voice](https://tiiaaurora.hashnode.dev/machine-learning-creating-an-animated-avatar-that-reacts-to-your-voice).
+- If you read the first section of this article you know I am obsessed with brainwaves. I am using a Muse S EEG band which has lots of limitations. @[Sajal Tiwari](@sajal-tiwari) goes multiple steps further and shows us what results can be achieved by using an fMRI device in the [Deep image reconstruction from human brain activity](https://sajal-tiwari.hashnode.dev/deep-image-reconstruction-from-human-brain-activity) harticle.
+- I will be honest. I believe we are in a war with AI. We have already lost many battles: We lost in chess, go, Starcraft, and in other fields too. In a few years (or months) away AI will beat us in programming too. Up till it is not guaranteed that AI is emphatic, understandable, non-biased, and ethical we cannot feel safe. @[Alao D. I.](@alaodavid) compares Humanish Intelligence (HI) with Artificial Intelligence (AI) in his blogpost [The Thinking of Man: Human Vs. A.I.](https://alaodavid.hashnode.dev/the-thinking-of-man-human-vs-ai).
 
 ### Security
-- @[Chidiogo](@aniediogo) [Cyber Security Facts and Misconceptions](https://aniediogo.hashnode.dev/cyber-security-facts-and-misconceptions)
-- @[Ashutosh Krishna](@ashutoshkrris) [How to Find and Fix Security Vulnerabilities Using Snyk](https://ashutoshkrris.hashnode.dev/how-to-find-and-fix-security-vulnerabilities-using-snyk)
+- Do you think you are safe and you won't be a target of cyberattacks? Well, I have bad news for you. @[Chidiogo](@aniediogo) debunks some myths in [Cyber Security Facts and Misconceptions](https://aniediogo.hashnode.dev/cyber-security-facts-and-misconceptions).
+- Have you ever heard the name Snyk? Me neither, up till I started to work at my new company. @[Ashutosh Krishna](@ashutoshkrris) tells us about Snyk everything in the [How to Find and Fix Security Vulnerabilities Using Snyk](https://ashutoshkrris.hashnode.dev/how-to-find-and-fix-security-vulnerabilities-using-snyk) harticle.
 
-### Devops, CI/CD
-- @[Eshan Sharma](@eshansharma) [A Simple Guide to Kubernetes](https://eshansharma.hashnode.dev/a-simple-guide-to-kubernetes)
+### DevOps, CI/CD
+- Kubernetes is a frequently used buzzword nowadays, but it is a buzzword with a good reason. Containerization and handling of containers became crucial in today's world.  @[Eshan Sharma](@eshansharma) [A Simple Guide to Kubernetes] explains what is Kubernetes in his writing (https://eshansharma.hashnode.dev/a-simple-guide-to-kubernetes).
+- You cannot become really agile without having a great CI/CD pipeline. @[Ozone Ozone](@dappsblockchain) tells about the history of CI/CD pipelines in his [CICD Pipelines: Evolution with Time](https://dappsblockchain.hashnode.dev/cicd-pipelines-evolution-with-time) blog post.
 
 ### Blockchain and Web3
-- @[Nonstack](@grotesque-shame-tremble-47) [The Complete Guide to Decentralized Autonomous Organizations](https://hashnode.com/authenticate?next=https://grotesque-shame-tremble-47.hashnode.dev/the-complete-guide-to-decentralized-autonomous-organizations)
-- @[Nonstack](@grotesque-shame-tremble-47) [Demystifying Blockchain Technology](https://hashnode.com/authenticate?next=https://grotesque-shame-tremble-47.hashnode.dev/demystifying-blockchain-technology)
+- Have you ever heard the word DAO? No, I am not talking about Data Access Objects. I am talking about Decentralized Autonomous Organizations. @[Nonstack](@grotesque-shame-tremble-47) tells almost everything about DAOs in his writing [The Complete Guide to Decentralized Autonomous Organizations](https://hashnode.com/authenticate?next=https://grotesque-shame-tremble-47.hashnode.dev/the-complete-guide-to-decentralized-autonomous-organizations). I said almost as reading his article raised a few questions in me for which hopefully I will get the answer soon in the article's comment section.
+- @[Nonstack](@grotesque-shame-tremble-47) also wrote an excellent article from which you can learn the basics of blockchain technology. Just read his harticle called [Demystifying Blockchain Technology](https://hashnode.com/authenticate?next=https://grotesque-shame-tremble-47.hashnode.dev/demystifying-blockchain-technology).
 
-### Tools
-- @[Ivan](@techwithivan) [5 Of My Favorite VSCode Extensions](https://techwithivan.hashnode.dev/5-of-my-favorite-vscode-extensions)
+### Tools and resources
+- Are you using Visual Studio Code? Well, I am not using it anymore, but if you do @[Ivan](@techwithivan)'s post can be helpful for you, so here it is: [5 Of My Favorite VSCode Extensions](https://techwithivan.hashnode.dev/5-of-my-favorite-vscode-extensions)
+- Being a software developer is a never-ending journey as you have to keep pace with the continuously changing world. One of the weapons you can use is learning from a platform specialized in teaching software development.  @[Maheshwar Ligade](@techwasti) [lists 5 online platforms](https://hashnode.com/authenticate?next=https://techwasti.hashnode.dev/5-online-platforms-to-grow-software-engineering-skills) with which you can grow your software engineering skills.
 
 
 ### Funny articles
-- @[Debashis Panda](@geekdeb) [An interesting conversation between JVM & the Java Compiler](https://hashnode.com/authenticate?next=https://geekdeb.hashnode.dev/an-interesting-conversation-between-jvm-and-the-java-compiler)
+- My motto is: Writing is fun, reading should be fun too. Based on the inspiration coming from Leandro Melendez I have decided to become a technicalish writer to write about technical topics in a fun (yeah, I know, my humor s.cks) way.
+
+[An interesting conversation between JVM & the Java Compiler](https://hashnode.com/authenticate?next=https://geekdeb.hashnode.dev/an-interesting-conversation-between-jvm-and-the-java-compiler) is the first-ever technicalish article I have ever read on Hashnode. Thanks, @[Debashis Panda](@geekdeb). I hope this is not the last one.
 
 ### New Hloggers
-- @[Lucas D.](@ldupree) [Ok, so I definitely belong in DevRel](https://ldupree.hashnode.dev/ok-so-i-definitely-belong-in-devrel)
+- I had no idea what was DevReal, but after reading @[Lucas D.](@ldupree)'s first post [Ok, so I definitely belong in DevRel](https://ldupree.hashnode.dev/ok-so-i-definitely-belong-in-devrel), I googled it. No. I won't tell, and not because it is still not completely clear for me, but because I leave the joy of discovery for you. 😊
+- @[Eula C.](@eula) just [debuted on Hashnode]((https://eula.hashnode.dev/continued-beginnings)), but she is not new to blogging as she has a WordPress blog too [Continued beginnings.]. We can expect articles related to cybersecurity from her.
+- @[Utsav bhattarai](@utsavbhattarai) is quite ambitious as he is already telling us how to write a blog in his first-ever blog post, still, I like his courage and if you read his article [My first Blog - How to write 8log🙂🙂](https://utsavbhattarai.hashnode.dev/my-first-blog-how-to-write-8log) you can find valuable advice there.
+- @[yash pandit](@yash2033) [started a new good habit!](https://yash2033.hashnode.dev/new-start-for-new-good-habit) by string blogging. He is a little bit mysterious as he did not tell us what he would write about, so I asked him in the comment section. I hope he will answer soon.
+- We are on the same page with @[Markos Korvesis](@3minutehacks) who says "The idea that my words may help even one single person is for me as good a reason as any to write them.". If you would like to find out what will he post about, then just read his first post [Oh no... not another one.](https://3minutehacks.hashnode.dev/oh-no-not-another-one).
 
+That's all folks, we have arrived at the end of this article.
 
-- @[Eula C.](@eula) [Continued beginnings.](https://hashnode.com/authenticate?next=https://eula.hashnode.dev/continued-beginnings)
-- @[Utsav bhattarai](@utsavbhattarai) [My first Blog - How to write 8log🙂🙂](https://utsavbhattarai.hashnode.dev/my-first-blog-how-to-write-8log)
-- @[yash pandit](@yash2033) [New start for new good habit!](https://yash2033.hashnode.dev/new-start-for-new-good-habit)
-- @[Markos Korvesis](@3minutehacks) [Oh no... not another one.](https://3minutehacks.hashnode.dev/oh-no-not-another-one)
+NoShare: Dear Reader! In case you found this article boring and useless, then please do not share it as we do not like negative marketing.
+
+But in all other cases please share it with your social media friends, so they might also get inspired thanks to this collection of awesome harticles.
