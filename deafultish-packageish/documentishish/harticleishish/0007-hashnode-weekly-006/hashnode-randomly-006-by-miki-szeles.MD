@@ -5,17 +5,17 @@ I have created a table content like thingy for you to make sure you can get some
 <a id="tableish-contentish">
 **Tableish Contentish**
 1. **Nikolai: If you do not give a sh.t about what Miki was doing during the last two months and you are only here for your weekly dose of harticles, <a href="#start-of-newsletter">just click here!</a>**
-2. **If you want to know what harticles Miki wrote since he posted the last Hashnode weekly then <a href="#my-harticles">click here!</a>**
+2. **If you want to know what harticles Miki wrote since he posted the last Hashnode weekly, then <a href="#my-harticles">click here!</a>**
 3. **If you would like to become a super learner, thinker, or have a super memory <a href="#rediscover-your-inner-superhero">just click here!</a>**
 4. **Do you want to know how Miki open-sourced himslef. <a href="#open-source-me">Click here!</a>**
 5. ** Want to read the interview Miki gave to Hackernoon? <a href="#hackernoon-interview">Read it here!</a>**
 6. **If you want to know how you can get access to your brain from your code for the price of a mid-level mobile phone, or if you want to know with which article Miki is participating in the Hashnode Writeathon <a href="#brainish-appish">Click here!</a>**
-7. **Do you want to win a ticket to Craft Conf 2022 which is one of the world's biggest software developer conferences? <a href="#craft-conf-giveaway">Click here for details!</a>**
+7. **Do you want to win a ticket to Craft Conf 2022, which is one of the world's biggest software developer conferences? <a href="#craft-conf-giveaway">Click here for details!</a>**
 
-## What has happened in the last 2 months?
+## What has happened in the last two months?
 - Minnie: Yuppie. I can't believe it. Another Hashnode Weekly. Finally.
 - Miki: Yeah, I am also happy about that.
-- Minnie: What happened? Why didn't you post for 2 months?
+- Minnie: What happened? Why didn't you post for two months?
 - Miki: You know, I read 80-100 articles weekly and I realized I could not focus on other things if I am reading so much. I also burnt out on reading a little bit, so luckily I stopped.
 - Minnie: Luckily?
 - Miki: Luckily.
@@ -34,14 +34,14 @@ I have created a table content like thingy for you to make sure you can get some
 - [Breaking News! The Craft Conf Giveaway Submission Deadline Has Been Extended by a Week!](https://mszeles.com/breaking-news-the-craft-conf-giveaway-submission-deadline-has-been-extended-by-a-week)
 - [A Brainwave Based Solution With Which Completely Paralyzed People Can Communicate With Their Loved Ones Using a Muse EEG Band](https://mszeles.com/a-brainwave-based-solution-with-which-completely-paralyzed-people-can-communicate-with-their-loved-ones-using-a-muse-eeg-band)
 - [Why Am I Attending The Craft Conf 2022 Software Development Conference?](https://mszeles.com/why-am-i-attending-the-craft-conf-2022-software-development-conference)
-- Nikolai: 9 articles in 9 weeks? Such a loser. Earlier you posted daily.
+- Nikolai: 9 articles in 9 weeks? Such a loser. Earlier, you posted daily.
 - Miki: Well, you are partially right, but 4 of them are above 20 minutes read time and 2 of them above 30 minutes.
 - Nikolai: You are crazy, nobody will read them.
 - Miki: Well, I might be a little bit crazy, but I have employed Maudience to make sure we can keep (the attention of) our audience and make sure they can get the most out of our articles if they do not have 10+ minutes.
 - Nikolai: Does that work?
 - Miki: We will see. We will see, Nikolai!
-- Nikolai: So that's all that you did in the last 2 months?
-- Miki: Nope. I have worked in my full-time job as a test automation engineer, and also spent a lot of time with my son, Levi.
+- Nikolai: So that's all that you did in the last two months?
+- Miki: Nope. I have worked in my full-time job as a test automation engineer and also spent a lot of time with my son, Levi.
 - Minnie: Yes, family time is very important. The most important one is from all the mentioned things. I will make sure you will never lose focus on that.
 - Miki: Thanks, Minnie.
   <a id="rediscover-your-inner-superhero">
@@ -61,7 +61,7 @@ I have created a table content like thingy for you to make sure you can get some
 - Nikolai: How is that helpful?
 - Miki: I have a retrospective after each session.
 - Nikolai: A retro what?
-- Miki: Retrospective comes from Scrum. After each sprint the team gathers and creates a list of what went wrong, what went well, and what will they do differently.
+- Miki: Retrospective comes from Scrum. After each sprint, the team gathers and creates a list of what went wrong, what went well, and what will they do differently.
 - Nikolai: I still do not get it.
 - Miki: Just [read this article](https://mszeles.com/how-you-can-become-an-agileish-super-learner-aka-how-you-can-become-a-super-thinker-aka-the-proof-of-concept-poc) and you will understand.
   <br><br>
@@ -70,15 +70,15 @@ I have created a table content like thingy for you to make sure you can get some
 - Minnie: What if somebody was not able to participate?
 - Miki: I am uploading all my recordings to Youtube. Just [click here to watch them](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 - Minnie: What the hell was that?
-- Miki: Ups. Sorry. Wrong link. [Here is the right link](https://www.youtube.com/channel/UCUWS3jUWMjk0XdH5oZJr4lw).
-- Minnie: What if people would like to ask questions, and get involved in conversations about memorization, learning, and thinking?
+- Miki: Ups. Sorry. Wrong link. [Here is the correct link](https://www.youtube.com/channel/UCUWS3jUWMjk0XdH5oZJr4lw).
+- Minnie: What if people would like to ask questions and get involved in conversations about memorization, learning, and thinking?
 - Miki: They can [join my Facebook group called Agileish Szuperhősök](https://www.facebook.com/groups/1045364599695087).
 - Minnie: What if they do not speak Hungarian?
 - Miki: Then they can [join my English Facebook group called Agileish Superheroes](https://www.facebook.com/groups/488924636292199).
   <a id="open-source-me">
 ### Open-sourcing myself
-- Minnie: That's enough about memorization and learning. Have you done anything else in the last 2 months?
-- Miki: Sure. As you know, I am a crazy person, I have open-sourced myself on Fool's day.
+- Minnie: That's enough about memorization and learning. Have you done anything else in the last two months?
+- Miki: Sure. As you know, I am a crazy person. I have open-sourced myself on Fool's day.
 - Minnie: Whaaat?
 - Miki: I open-sourced my thoughts, writings, and artistic creations, and as I am doing it on Github, I also open-sourced my thinking process, my writing process, and my art creation process thanks to the commit history.
 - Minnie: Hmm. I have not heard of anyone else who did that.
@@ -86,7 +86,7 @@ I have created a table content like thingy for you to make sure you can get some
 - Minnie: Is there anything else important about this?
 - Miki: I believe this will be the first project on GitHub where people will go to read the comments instead of the content itself.
 - Minnie: ???
-- Miki: As in all the comments messages I am talking with you Minnie, Nikolai, and all the others.
+- Miki: As in all the comments messages, I am talking with you, Minnie, Nikolai, and all the others.
 - Minnie: Cool.
 - Nikolai: You are an idiot, Miki.
 - Miki: Thank you, my friend.
@@ -114,15 +114,15 @@ I have created a table content like thingy for you to make sure you can get some
 - Neveloper: It is because you have no idea about conferences and software engineering. Craft Conf is one of the biggest software development conferences in the world, featuring 70+ top-notch experts' talks. 1000+ developers take part each year.
 - Maudience: How can our readers participate in this?
 - Miki: They have to write an article about anything. [Just click here to read the rules!](https://mszeles.com/do-you-want-to-learn-software-development-from-top-notch-experts-from-all-around-the-world-here-is-your-chance-aka-the-craft-conf-giveaway)
-- Maudience: But Miki, the deadline is the 25th of May which is very close.
+- Maudience: But Miki, the deadline is the 25th of May, which is very close.
 - Miki: That is true, but they can even participate with an article they have written before up till the 11th of May, the start of the giveaway. They just have to follow the rules.
 - Nikolai: A 399€ ticket for something which our readers would do anyway? Where is the catch?
 - Miki: The winners have to write a 1000 words article after the conference about the conference.
 - Nikolai: I knew it. Nobody will participate.
 - Miki: We will see. Most of the fellow hloggers would write an article anyway about it if they participate.
   <br><br>
-- Minnie: There is one thing I do not understand. If you do so many things why do you reboot Hashnode Weekly?
-- Miki: As I realized I love writing it and I do believe it is valuable for our readers.
+- Minnie: There is one thing I do not understand. If you do so many things, why do you reboot Hashnode Weekly?
+- Miki: As I realized, I love writing it, and I do believe it is valuable for our readers.
 
 <a href="#tableish-contentish">Return to tableish contentish!</a>
 <a id="start-of-newsletter">
@@ -130,23 +130,23 @@ I have created a table content like thingy for you to make sure you can get some
 ### Today in Spotlight 🔦: Being a Dabbler by Jamie V.
 As you might get used to it I always put one article in the spotlight, usually an article with which I can highly relate. This week it is @[Jamie V.](@sigma1)' [The Power of the "Dabbler"](https://sigma1.hashnode.dev/the-power-of-the-dabbler) article. According to Jamie, he was a Dabbler during his whole life. He shares his thoughts about being a dabbler in his article. It is a must-read in my opinion.
 
-I can highly relate to this as I am a dabbler myself too. In the past, I have started a lot of new things. Just to mention a few examples: playing poker, becoming a barista, playing go, photography, running, Lindy Hop, and creating a Facebook group. When I start something I put 100% into it, which has usually resulted in burnout after a few weeks, months, or years.
+I can highly relate to this as I am a dabbler myself too. In the past, I have started a lot of new things. Just to mention a few examples: playing poker, becoming a barista, playing go, photography, running, Lindy Hop, and creating a Facebook group. When I start something, I put 100% into it, which has usually resulted in burnout after a few weeks, months, or years.
 
-No matter what, sooner or later I lost my interest and gave up on them. I have considered this a bad thing for decades, up till recently.
+No matter what, sooner or later, I lost my interest and gave up on them. I have considered this a bad thing for decades, up till recently.
 
-Today I see this from a completely different perspective. I believe all of those experiences were valuable. There are many topics on which I gave up, but still, all of them helped me to become the person I am now. And from time to time I move back to a topic like I am photographing and playing go again.
+Today I see this from a completely different perspective. I believe all of those experiences were valuable. There are many topics on which I gave up, but still, all of them helped me to become the person I am now. And from time to time, I move back to a topic like I am photographing and playing go again.
 
-The above-mentioned topics are seemingly unrelated, but as I am always looking for ways to combine my previous learnings I usually find a way, which might result in something unique.
+The above-mentioned topics are seemingly unrelated, but as I am always looking for ways to combine my previous learnings, I usually find a way which might result in something unique.
 
-If you read what have I done during the last 2 months, you could see I have started many completely different topics.
+If you read what have I done during the last two months, you could see I have started many completely different topics.
 
 Will I give up some of them?
 
-I am almost sure. I have my limits and I cannot handle as many things in parallel.
+I am almost sure. I have my limits, and I cannot handle as many things in parallel.
 
 Will I give up all of them?
 
-I doubt it. As I am doing many things in parallel I believe I can make sure I won't burn out this time.
+I doubt it. As I am doing many things in parallel, I believe I can make sure I won't burn out this time.
 
 Which topics will I continue?
 
@@ -155,7 +155,7 @@ I will continue those ones in which I find the most joy, which is usually the to
 Before we continue, my friend DjMic is here to play some music that you can listen to during reading.
 
 - Miki: DjMic! What do you have for us today?
-- DjMic: I know Miki you love pirates. You played with the iconic Pirates both on C64 and PC. You also played Port Royale and Seo of Thieves. So here is some music from the world-class Hungarian band Paddy And The Rats. [Click here and start listening](https://www.youtube.com/watch?v=S3UebW-dGPY&list=RDS3UebW-dGPY&start_radio=1).
+- DjMic: I know, Miki, you love pirates. You played with the iconic Pirates both on C64 and PC. You also played Port Royale and Seo of Thieves. So here is some music from the world-class Hungarian band Paddy And The Rats. [Click here and start listening](https://www.youtube.com/watch?v=S3UebW-dGPY&list=RDS3UebW-dGPY&start_radio=1).
 
 
 And now let's see this week's harticles:
@@ -163,20 +163,20 @@ And now let's see this week's harticles:
 ### Software Development
 
 - Do you want to learn how you can build a complete Spring-based project from requirements up to containerization? Read @[marinsborg](@marinsborg)'s excellent article called  [URL shortener - Java and Spring complete tutorial].(https://marinsborg.hashnode.dev/url-shortener-java-and-spring-complete-tutorial)!
-- @[Maxi Contieri](@mcsee) is doing an awesome job as he does not just collect code smells, but also gives the solution for them. He just posted the 133rd!!!! article in his series:  [Code Smell 133 - Hardcoded IF Conditions](https://hashnode.com/authenticate?next=https://mcsee.hashnode.dev/code-smell-133-hardcoded-if-conditions)
+- @[Maxi Contieri](@mcsee) is doing an awesome job as he does not just collect code smells but also gives the solution for them. He just posted the 133rd!!!! article in his series:  [Code Smell 133 - Hardcoded IF Conditions](https://hashnode.com/authenticate?next=https://mcsee.hashnode.dev/code-smell-133-hardcoded-if-conditions)
 - I do not know anything about Kotlin, so when I saw @[Vincent Tsen](@vtsen)'s [How to Create Singleton Class in Kotlin?](https://vtsen.hashnode.dev/how-to-create-singleton-class-in-kotlin) harticle I felt the urge to read it, especially as I could learn about Kotlin via an example with which I am quite familiar the Singleton design pattern.
 - You can learn the ins and outs of pseudocode from @[Mfon.](@themfon)'s [What You Need to Know About Pseudocode](https://hashnode.com/authenticate?next=https://themfon.hashnode.dev/what-you-need-to-know-about-pseudocode) article. I have seen way too much pseudo-code during my university years, but if you are not familiar with them, then this article is highly recommended.
 - Do you want to read an inspiring story about how a woman with a tourism background became a software developer? Just read @[Eleanor Opiyo](@iamnellie)'s [Making the big switch to Software development](https://iamnellie.hashnode.dev/making-the-big-switch-to-software-development) harticle.
 - Do you want more motivation to become a software developer? Read @[Souvik Das](@storiesbysouvik)'s [My journey of becoming a developer](https://storiesbysouvik.hashnode.dev/my-journey-of-becoming-a-developer) harticle.
-- @[Eden AI](@edenai) explains what is OCR, how it works, and what kind of solutions are there on the market and he even provides an example in Javascript in his  [How to use OCR with JavaScript?](https://edenai.hashnode.dev/how-to-use-ocr-with-javascript) post.
+- @[Eden AI](@edenai) explains what is OCR, how it works, and what kind of solutions are there on the market, and he even provides an example in Javascript in his  [How to use OCR with JavaScript?](https://edenai.hashnode.dev/how-to-use-ocr-with-javascript) post.
 - If you are also not familiar with CSS then @[Ravi Kumar](@ravi13)'s [The CSS Box Model](https://ravi13.hashnode.dev/the-css-box-model) is must-read. He explains the CSS box model in an easily understandable way.
 - Are you new to Git or GitHub? Read @[Ishita Keshawani](@ishitakeshawani)'s [Learn Git and Github in 5 minutes](https://ishitakeshawani.hashnode.dev/learn-git-and-github-in-5-minutes) harticle to jumpstart your git learning.
-- I usually do not like "which is the best" articles as they are biased in most cases, still I read @[idukpaye Alex](@journey-dev)'s harticle [Which Frontend Javascript Framework/library is the Best?](https://journey-dev.hashnode.dev/which-frontend-javascript-frameworklibrary-is-the-best) and I did not regret it.
-- Have you ever used a listener in your code? Then most probably you used the Observer design pattern even without noticing it. Learn about the pattern from @[Abdulrhman Elsaed](@apdoelsaed) by reading his [The Observer Pattern](https://apdoelsaed.hashnode.dev/the-observer-pattern) harticle.
-- I do not know any other profession which has so many controversial topics as software development. It is possible it is because I am not familiar with other professions, but still @[Joel Tanzi](@jtanzi) was able to [list 5 oddly controversial topics in software development](https://hashnode.com/authenticate?next=https://jtanzi.hashnode.dev/5-oddly-controversial-topics-in-software-development). I even added one more, the "feature vs. bug" never-ending debate.
+- I usually do not like "which is the best" articles as they are biased in most cases. still, I read @[idukpaye Alex](@journey-dev)'s harticle [Which Frontend Javascript Framework/library is the Best?](https://journey-dev.hashnode.dev/which-frontend-javascript-frameworklibrary-is-the-best), and I did not regret it.
+- Have you ever used a listener in your code? Then most probably, you used the Observer design pattern even without noticing it. Learn about the pattern from @[Abdulrhman Elsaed](@apdoelsaed) by reading his [The Observer Pattern](https://apdoelsaed.hashnode.dev/the-observer-pattern) harticle.
+- I do not know any other profession which has so many controversial topics as software development. It is possible it is because I am not familiar with other professions, but still @[Joel Tanzi](@jtanzi) was able to [list five oddly controversial topics in software development](https://hashnode.com/authenticate?next=https://jtanzi.hashnode.dev/5-oddly-controversial-topics-in-software-development). I even added one more, the "feature vs. bug" never-ending debate.
 - Have you ever tried to automatically collect data from websites? Was it slow? If yes, then reading @[Ander Rodriguez](@anderrv)'s [Speed Up Web Scraping with Concurrency in Python](https://anderrv.hashnode.dev/speed-up-web-scraping-with-concurrency-in-python) article is highly recommended.
 - BeautifulSoup is a Python library for sraping the web. You can learn more about it by reading @[Ndongmo christian](@chritianhonore)'s [WebScraping(BeautifulSoup) with Python](https://chritianhonore.hashnode.dev/webscrapingbeautifulsoup-with-python) harticle.
-- Are you struggling with drawing diagrams? Just read @[Allen Helton](@allenheltondev)'s [Solutions Architect Tips: How to Build Your First Architecture Diagram](https://allenheltondev.hashnode.dev/solutions-architect-tips-how-to-build-your-first-architecture-diagram) and you won't feel overwhelmed when you have to draw a diagram next time.
+- Are you struggling with drawing diagrams? Just read @[Allen Helton](@allenheltondev)'s [Solutions Architect Tips: How to Build Your First Architecture Diagram](https://allenheltondev.hashnode.dev/solutions-architect-tips-how-to-build-your-first-architecture-diagram), and you won't feel overwhelmed when you have to draw a diagram next time.
 - News API is a paid REST API based service with which you can get access to more than 5000 news sources to aid your business intelligence or monitor your company's news appearance and also your competitor's. You can learn more about it in @[Rajat Thakur](@newsdataapi)'s [News API: Ultimate Beginner’s guide](https://newsdataapi.hashnode.dev/news-api-ultimate-beginners-guide).
 - Are you relatively new to Python like me? Do you have to use some resources like files? Is it cumbersome to make sure you always close the resources? @[Vojko Pribudić](@vojko-pribudic) [introducing Python context managers](https://hashnode.com/authenticate?next=https://vojko-pribudic.hashnode.dev/using-context-managers-in-python) which are quite similar to Java's try with resource solution.
 - Have you ever played Chrome's dino game? Do you want to have unlimited lives? @[Francis Faniku](@franciscobaze) shows you  [how to hack the Chrome dino game](https://franciscobaze.hashnode.dev/how-to-hack-chrome-dino-game)
@@ -185,29 +185,29 @@ And now let's see this week's harticles:
 - Have you ever wondered how search engines can find the right results even if you mistyped something? Levenshtein distance is the answer for you. Just read @[Ary Hegde](@aryaan)'s [How to suggest similar words in Javascript using Levenshtein distance?](https://aryaan.hashnode.dev/how-to-suggest-similar-words-in-javascript-using-levenshtein-distance) article to find out the details.
 
 ### Testing
-- Testing articles are a scarce resource on Hashnode so I am always happy if I read an article about testing from a fellow hlogger. Knowing the fundamentas of testing is a must if you would like to become a good tester. Do you want to learn what is whitebox and blackbox testing? Just read @[Matheus Gomes](@mgodev)'s [Black box testing and White box testing](https://mgodev.hashnode.dev/black-box-testing-and-white-box-testing) harticle.
-- @[Eric Ampire](@ericampire) introduced an interesting concept called property-based testing in his harticle [Create Powerful Tests using Property Based Testing](https://hashnode.com/authenticate?next=https://ericampire.hashnode.dev/create-powerful-tests-using-property-based-testing). After reading it I was not convinced about its usefulness so I asked him some question. I hope he will answer soon. I am pretty curious what do you think about this approach?
+- Testing articles are a scarce resource on Hashnode, so I am always happy if I read an article about testing from a fellow hlogger. Knowing the fundamentas of testing is a must if you would like to become a good tester. Do you want to learn what is whitebox and blackbox testing? Just read @[Matheus Gomes](@mgodev)'s [Black box testing and White box testing](https://mgodev.hashnode.dev/black-box-testing-and-white-box-testing) harticle.
+- @[Eric Ampire](@ericampire) introduced an interesting concept called property-based testing in his harticle [Create Powerful Tests using Property Based Testing](https://hashnode.com/authenticate?next=https://ericampire.hashnode.dev/create-powerful-tests-using-property-based-testing). After reading it, I was not convinced about its usefulness, so I asked him some question. I hope he will answer soon. I am pretty curious what do you think about this approach?
 
 ### Writing, Blogging, Groth-hacking
 - Are you struggling with making a passive income via writing? Me too. A fellow Hungarian @[Ákos Kőműves](@akoskm) gave some tips in his writing [Make your First Dollar online as a Creator](https://hashnode.com/authenticate?next=https://akoskm.hashnode.dev/make-your-first-dollar-online-as-a-creator).
-- Do you want to have more Twitter followers? Get tips from @[Abel ](@abeltxor) who has accumulated 16k followers in 2 months:  [How I grew my Twitter audience to 16,000 in less than 2 months!](https://abeltxor.hashnode.dev/how-i-grew-my-twitter-audience-to-16000-in-less-than-2-months)
+- Do you want to have more Twitter followers? Get tips from @[Abel ](@abeltxor), who has accumulated 16k followers in 2 months:  [How I grew my Twitter audience to 16,000 in less than 2 months!](https://abeltxor.hashnode.dev/how-i-grew-my-twitter-audience-to-16000-in-less-than-2-months)
 
 ### Self-improvement, Productivity, Psychology, Learning
-- Self-reflection is a crucial part of my life, especially since Metro, who is our Scrum Master responsible for the retro joined our team. It can highly boost your motivation if you summarize what went well from time to time. @[James 'Dante' Midzi](@dantedecodes) asks one of the best motivation booster questions [What Was Your Win This Week?](https://dantedecodes.hashnode.dev/what-was-your-win-this-week-1).
+- Self-reflection is a crucial part of my life, especially since Metro, who is our Scrum Master responsible for the retro, joined our team. It can highly boost your motivation if you summarize what went well from time to time. @[James 'Dante' Midzi](@dantedecodes) asks one of the best motivation booster questions [What Was Your Win This Week?](https://dantedecodes.hashnode.dev/what-was-your-win-this-week-1).
 - Do you also find it hard to keep your mental health in today's fast-paced world? Just read @[Linda Smith](@reconnecthealth)'s [How to Improve your Mental Health](https://reconnecthealth.hashnode.dev/how-to-improve-your-mental-health) harticle in which she gives some advice.
 - If you read the first section of my article, you already know I am a little bit obsessed with learning. @[Alejandro Napoles](@lexnapoles) provides great advice on how to improve your learning in hos harticle called [How to learn better with proven techniques](https://lexnapoles.hashnode.dev/how-to-learn-better-with-proven-techniques).
-- @[Amokrane Chentir](@amokranechentir)'s [Solving problems through writing](https://amokranechentir.hashnode.dev/solving-problems-through-writing) is a short, but still valuable writing.
+- @[Amokrane Chentir](@amokranechentir)'s [Solving problems through writing](https://amokranechentir.hashnode.dev/solving-problems-through-writing) is short but still valuable writing.
 - Is it hard for you to keep focus and achieve your goals? @[SURYA L](@layruss) provides his advice in [How can you focus on your goals to achieve success?](https://layruss.hashnode.dev/how-can-you-focus-on-your-goals-to-achieve-success).
 - Soft skills are as important as hard skills in today's world, and I am pretty sure soft skills will be even more important in the near future when AI-based programmers like Google's AlphaCode will take over coding from us. @[Precious Eyoh](@cyberfreak) lists a list of skills that are important for a software developer in [Some Important Skills need as a Software Engineer](https://cyberfreak.hashnode.dev/some-important-skills-need-as-a-software-engineer).
 
 ### Machine Learning, Data Analysis, and Artificial Intelligence
 - @[İlke Candan Bengi](@ilkecandan) helps us to put our feet in the field of machine learning by introducing decision trees with hands-on examples in her writing  [Learning and Predicting, Machine Learning](https://ilkecandan.hashnode.dev/learning-and-predicting-machine-learning).
-- From @[Neurotech Africa](@neurotech) you can learn how to do your own sentiment analysis using Python's NLTK library. Just read his writing [Sentiment Analysis With Python's NLTK Library](https://neurotech.hashnode.dev/sentiment-analysis-with-pythons-nltk-library) to find out.
-- Have you ever wondered how recommendation systems are working? @[Rahul Banerjee](@realpythonproject) not just explains it, but also builds a solution in his writing [How to Build a Recommender System with Embeddinghub](https://realpythonproject.hashnode.dev/how-to-build-a-recommender-system-with-embeddinghub).
-- Creating a machine learning based solution is one thing, but operating that is at least as crucial as implementing it. @[Patrick Alves](@cpatrickalves) gives his advice regarding the operation in his harticle [MLOps: What it is and why does it Matter?].(https://hashnode.com/authenticate?next=https://cpatrickalves.hashnode.dev/mlops-what-it-is-and-why-it-matters)
+- From @[Neurotech Africa](@neurotech), you can learn how to do your sentiment analysis using Python's NLTK library. Just read his writing [Sentiment Analysis With Python's NLTK Library](https://neurotech.hashnode.dev/sentiment-analysis-with-pythons-nltk-library) to find out.
+- Have you ever wondered how recommendation systems are working? @[Rahul Banerjee](@realpythonproject) not just explains it but also builds a solution in his writing [How to Build a Recommender System with Embeddinghub](https://realpythonproject.hashnode.dev/how-to-build-a-recommender-system-with-embeddinghub).
+- Creating a machine learning based solution is one thing, but operating that is at least as crucial as implementing it. @[Patrick Alves](@cpatrickalves) gives his advice regarding the operation in his harticle [MLOps: What it is and why does it Matter?]. (https://hashnode.com/authenticate?next=https://cpatrickalves.hashnode.dev/mlops-what-it-is-and-why-it-matters)
 - @[Tiia](@tiiaaurora) shows us how we can leverage machine learning to  [create an animated avatar that reacts to our voice](https://tiiaaurora.hashnode.dev/machine-learning-creating-an-animated-avatar-that-reacts-to-your-voice).
-- If you read the first section of this article you know I am obsessed with brainwaves. I am using a Muse S EEG band which has lots of limitations. @[Sajal Tiwari](@sajal-tiwari) goes multiple steps further and shows us what results can be achieved by using an fMRI device in the [Deep image reconstruction from human brain activity](https://sajal-tiwari.hashnode.dev/deep-image-reconstruction-from-human-brain-activity) harticle.
-- I will be honest. I believe we are in a war with AI. We have already lost many battles: We lost in chess, go, Starcraft, and in other fields too. In a few years (or months) away AI will beat us in programming too. Up till it is not guaranteed that AI is emphatic, understandable, non-biased, and ethical we cannot feel safe. @[Alao D. I.](@alaodavid) compares Humanish Intelligence (HI) with Artificial Intelligence (AI) in his blogpost [The Thinking of Man: Human Vs. A.I.](https://alaodavid.hashnode.dev/the-thinking-of-man-human-vs-ai).
+- If you read the first section of this article, you know I am obsessed with brainwaves. I am using a Muse S EEG band which has lots of limitations. @[Sajal Tiwari](@sajal-tiwari) goes multiple steps further and shows us what results can be achieved by using an fMRI device in the [Deep image reconstruction from human brain activity](https://sajal-tiwari.hashnode.dev/deep-image-reconstruction-from-human-brain-activity) harticle.
+- I will be honest. I believe we are in a war with AI. We have already lost many battles: We lost in chess, go, Starcraft, and in other fields too. In a few years (or months) away, AI will beat us in programming too. Up till it is not guaranteed that AI is emphatic, understandable, non-biased, and ethical we cannot feel safe. @[Alao D. I.](@alaodavid) compares Humanish Intelligence (HI) with Artificial Intelligence (AI) in his blogpost [The Thinking of Man: Human Vs. A.I.](https://alaodavid.hashnode.dev/the-thinking-of-man-human-vs-ai).
 
 ### Security
 - Do you think you are safe and you won't be a target of cyberattacks? Well, I have bad news for you. @[Chidiogo](@aniediogo) debunks some myths in [Cyber Security Facts and Misconceptions](https://aniediogo.hashnode.dev/cyber-security-facts-and-misconceptions).
@@ -227,18 +227,18 @@ And now let's see this week's harticles:
 
 
 ### Funny articles
-- My motto is: Writing is fun, reading should be fun too. Based on the inspiration coming from Leandro Melendez I have decided to become a technicalish writer to write about technical topics in a fun (yeah, I know, my humor s.cks) way.
+- My motto is: Writing is fun, reading should be fun too. Based on the inspiration coming from Leandro Melendez, I have decided to become a technicalish writer to write about technical topics in a fun (yeah, I know, my humor s.cks) way.
 
 [An interesting conversation between JVM & the Java Compiler](https://hashnode.com/authenticate?next=https://geekdeb.hashnode.dev/an-interesting-conversation-between-jvm-and-the-java-compiler) is the first-ever technicalish article I have ever read on Hashnode. Thanks, @[Debashis Panda](@geekdeb). I hope this is not the last one.
 
 ### New Hloggers
 - I had no idea what was DevReal, but after reading @[Lucas D.](@ldupree)'s first post [Ok, so I definitely belong in DevRel](https://ldupree.hashnode.dev/ok-so-i-definitely-belong-in-devrel), I googled it. No. I won't tell, and not because it is still not completely clear for me, but because I leave the joy of discovery for you. 😊
 - @[Eula C.](@eula) just [debuted on Hashnode]((https://eula.hashnode.dev/continued-beginnings)), but she is not new to blogging as she has a WordPress blog too [Continued beginnings.]. We can expect articles related to cybersecurity from her.
-- @[Utsav bhattarai](@utsavbhattarai) is quite ambitious as he is already telling us how to write a blog in his first-ever blog post, still, I like his courage and if you read his article [My first Blog - How to write 8log🙂🙂](https://utsavbhattarai.hashnode.dev/my-first-blog-how-to-write-8log) you can find valuable advice there.
+- @[Utsav bhattarai](@utsavbhattarai) is quite ambitious as he is already telling us how to write a blog in his first-ever blog post, still, I like his courage, and if you read his article [My first Blog - How to write 8log🙂🙂](https://utsavbhattarai.hashnode.dev/my-first-blog-how-to-write-8log), you can find valuable advice there.
 - @[yash pandit](@yash2033) [started a new good habit!](https://yash2033.hashnode.dev/new-start-for-new-good-habit) by string blogging. He is a little bit mysterious as he did not tell us what he would write about, so I asked him in the comment section. I hope he will answer soon.
-- We are on the same page with @[Markos Korvesis](@3minutehacks) who says "The idea that my words may help even one single person is for me as good a reason as any to write them.". If you would like to find out what will he post about, then just read his first post [Oh no... not another one.](https://3minutehacks.hashnode.dev/oh-no-not-another-one).
+- We are on the same page with @[Markos Korvesis](@3minutehacks), who says, "The idea that my words may help even one single person is for me as good a reason as any to write them.". If you would like to find out what will he post about, then just read his first post [Oh no... not another one.](https://3minutehacks.hashnode.dev/oh-no-not-another-one).
 
-That's all folks, we have arrived at the end of this article.
+That's all, folks; we have arrived at the end of this article.
 
 NoShare: Dear Reader! In case you found this article boring and useless, then please do not share it as we do not like negative marketing.
 
