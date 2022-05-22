@@ -2,7 +2,7 @@
 
 I have created a table content like thingy for you to make sure you can get something valuable from this article no matter how much time you have.
 
-<a id="tableish-contentish">
+<a id="tableish-contentish"></a>
 **Tableish Contentish**
 1. **Nikolai: If you do not give a sh.t about what Miki was doing during the last two months and you are only here for your weekly dose of harticles, <a href="#start-of-newsletter">just click here!</a>**
 2. **If you want to know what harticles Miki wrote since he posted the last Hashnode weekly, then <a href="#my-harticles">click here!</a>**
@@ -22,7 +22,7 @@ I have created a table content like thingy for you to make sure you can get some
 - Minnie: Why?
 - Miki: As I had time to be creative and focus on other topics too.
 - Minnie: So what did you do in the last 2 months?
-  <a id="my-harticles">
+  <a id="my-harticles"></a>
 ### Writing 9 Harticles
 - Miki: Well. Let's see. I have written 9 articles:
 - [How To Customize Your LinkedIn URL in 6 Easy Steps AKA How To Boost Your LinkedIn SEO AKA Lifehacks By Miki Szeles](https://mszeles.com/how-to-customize-your-linkedin-url-in-6-easy-steps-aka-how-to-boost-your-linkedin-seo-aka-lifehacks-by-miki-szeles)
@@ -45,7 +45,7 @@ I have created a table content like thingy for you to make sure you can get some
 - Minnie: Yes, family time is very important. The most important one is from all the mentioned things. I will make sure you will never lose focus on that.
 - Miki: Thanks, Minnie.
   <a href="#tableish-contentish">Return to tableish contentish!</a>
-  <a id="rediscover-your-inner-superhero">
+  <a id="rediscover-your-inner-superhero"></a>
 ### Helping You to Redicover Your Inner Superhero
 - Nikolai: I am still not impressed with what you did. Is there anything else?
 - Miki: Yes. I have learned many many memorization, learning, and thinking methods during the last three decades of my life.
@@ -77,7 +77,7 @@ I have created a table content like thingy for you to make sure you can get some
 - Minnie: What if they do not speak Hungarian?
 - Miki: Then they can [join my English Facebook group called Agileish Superheroes](https://www.facebook.com/groups/488924636292199).
   <a href="#tableish-contentish">Return to tableish contentish!</a>
-  <a id="open-source-me">
+  <a id="open-source-me"></a>
 ### Open-sourcing myself
 - Minnie: That's enough about memorization and learning. Have you done anything else in the last two months?
 - Miki: Sure. As you know, I am a crazy person. I have open-sourced myself on Fool's day.
@@ -97,14 +97,14 @@ I have created a table content like thingy for you to make sure you can get some
 - Minnie: Can they find this article there too?
 - Miki: Sure. Unfortunately, I messed up the naming of the file, and you cannot read back all the comments except if you go to the [project's commit history](https://github.com/mszeles/a-hamunish-humanish-thoughtishish/commits/main), but still you can [find this harticle here](https://github.com/mszeles/a-hamunish-humanish-thoughtishish/blob/980bb161b36e0c353d4578a5d66c8de62c4785b3/deafultish-packageish/documentishish/harticleishish/0007-hashnode-weekly-006/hashnode-randomly-006-by-miki-szeles.MD).
   <a href="#tableish-contentish">Return to tableish contentish!</a>
-  <a id="hackernoon-interview">
+  <a id="hackernoon-interview"></a>
 ### Giving an Interview to Hackernoon
 - Minnie: What else you did do?
 - Miki: I gave an interview to Hackernoon.
 - Minnie: I know that. [Here is the link!](https://hackernoon.com/i-open-sourced-my-thinking-process-meet-hackernoon-writer-and-test-automation-engineer-miki-szeles)
 - Miki: Thanks, Minnie.
   <a href="#tableish-contentish">Return to tableish contentish!</a>
-  <a id="brainish-appish">
+  <a id="brainish-appish"></a>
 ### Developing a mind-controlled app and participating in Hashnode Writeathon
 - Neveloper: Any programming related?
 - Miki: Sure. I have developed an open-source brainwave-based app with which paralyzed people can communicate with their loved ones using a Muse EEG device.
@@ -112,7 +112,7 @@ I have created a table content like thingy for you to make sure you can get some
 - Maudience: How can our readers learn more about the project?
 - Miki: I have written an article about it with which I am also participating in the Hashnode Writeathon. [Just click here to read it!](https://mszeles.com/a-brainwave-based-solution-with-which-completely-paralyzed-people-can-communicate-with-their-loved-ones-using-a-muse-eeg-band)
   <a href="#tableish-contentish">Return to tableish contentish!</a>
-  <a id="craft-conf-giveaway">
+  <a id="craft-conf-giveaway"></a>
 ### Starting a Craft Conf Giveaway
 - Nikolai: Ok, I am pretty sure you cannot come up with any other stuff.
 - Miki: Are you sure?
@@ -135,7 +135,7 @@ I have created a table content like thingy for you to make sure you can get some
 - Miki: As I realized, I love writing it, and I do believe it is valuable for our readers.
 
 <a href="#tableish-contentish">Return to tableish contentish!</a>
-<a id="start-of-newsletter">
+<a id="start-of-newsletter"></a>
 ## Your Weekly Dose of Harticles
 ### Today in Spotlight 🔦: Being a Dabbler by Jamie V.
 As you might get used to it I always put one article in the spotlight, usually an article with which I can highly relate.
@@ -249,8 +249,64 @@ And now let's see this week's harticles:
 - @[yash pandit](@yash2033) [started a new good habit!](https://yash2033.hashnode.dev/new-start-for-new-good-habit) by starting blogging. He is a little bit mysterious as he did not tell us what he would write about, so I asked him in the comment section. I hope he will answer soon.
 - We are on the same page with @[Markos Korvesis](@3minutehacks), who says, "The idea that my words may help even one single person is for me as good a reason as any to write them". If you would like to find out what will he post about, then just read his first post [Oh no... not another one.](https://3minutehacks.hashnode.dev/oh-no-not-another-one).
 
-That's all, folks; we have arrived at the end of this article.
+That's all, folks. We have arrived at the end of this article.
 
-NoShare: Dear Reader! In case you found this article boring and useless, then please do not share it as we do not like negative marketing.
+NoShare: **Dear Reader! In case you found this article boring and useless, then please do not share it as we do not like negative marketing.**
 
-But in all other cases please share it with your social media friends, so they might also get inspired thanks to this collection of awesome harticles.
+**But in all other cases please share it with your social media friends, so they might also get inspired thanks to this collection of awesome harticles.**
+
+Don't forget to read the previous Hashnode Weely Newsletters:
+1. [Hashnode Weekly 001 by Miki Szeles](https://mszeles.com/hashnode-weekly-001-by-miki-szeles)
+2. [Hashnode Weekly 002 by Miki Szeles](https://mszeles.com/hashnode-weekly-002-by-miki-szeles)
+3. [Hashnode Weekly 003 by Miki Szeles](https://mszeles.com/hashnode-weekly-003-by-miki-szeles)
+4. [Hashnode Weekly 004 by Miki Szeles](https://mszeles.com/hashnode-weekly-004-by-miki-szeles)
+5. [Hahnode Weekly 005 Limited Edition by Miki Szeles AKA The Big Delete](https://mszeles.com/hahnode-weekly-005-limited-edition-by-miki-szeles-aka-the-big-delete)
+
+P.S.: [Something good will happen to you today!](https://mszeles.com/something-good-will-happen-to-you-today)
+
+**My goal is to become a freelancer** doing test automation in half time and doing technicalish writing in the other half. **I am available to work as a technicalish writer** and I would really appreciate it if you would **support me if you found my writings valuable** in any sense.
+
+<a href="https://msz.team/38yKicd" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&amp;emoji=&amp;slug=theashishmaurya&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff"></a>
+
+---
+
+**Hackernoon interviewed me**, so if you would like to **learn more about me**, just [click here and read it!](https://hackernoon.com/i-open-sourced-my-thinking-process-meet-hackernoon-writer-and-test-automation-engineer-miki-szeles)
+
+---
+** Become an agileish superhero!**
+
+**Learn how to memorize anything in the world. In this series, I teach you everything I know about learning and memorization, including memory palaces, marker images, number memorization techniques, associations, etc.**
+
+**You can already [find the first videos on my Youtube channel](https://msz.team/36qHu06) in which I show you that it is possible to memorize such boring things as positions of circles.**
+
+**Don't forget to [read How You Can Become An Agileish Super Learner AKA How You Can Become A Super Thinker AKA The Proof Of Concept (POC)](https://msz.team/3vxmaP8)  before you watch the videos.**
+
+**[Join the Agileish Superheroes Facebook group](https://msz.team/3KXFTOg) to learn memorization techniques, thinking techniques, agility, reading and learning techniques and also to get notified about new live sessions and videos**
+
+---
+As I am a crazy person, **I have open-sourced my life on GitHub on Fool's day.**
+
+**I am sharing my thoughts, writings, and creations, and as I am frequently committing, I have open-sourced my thinking process, my writing process, and also my creation process.**
+
+**[Just click here to check my open-sourced life on Github!](https://msz.team/3JSzceX)**
+
+---
+
+**My credo**: [The Mystery Of The Supposedly Red Emoji AKA The Story Of How I Became A Software Developer Detective To Debug The Internet](https://msz.team/3DLOBwk)
+
+**Read my story**, in case you would like **to understand how I think and act as a developer and tester in the real world.** You can **get some insights about my humor**, and I am also happy to tell you that **this is my article about which I am the proudest of** now.
+
+---
+
+In case you do **not want to miss my posts**, just **follow me** [here on Hashnode](https://mszeles.com/), on [LinkedIn](https://www.linkedin.com/in/miklos-szeles/), on [Twitter](https://twitter.com/mszeles) on [Medium.com](https://medium.com/@mszeles), on [dev.to](https://dev.to/mszeles), on [Hackernoon](https://hackernoon.com/u/mszeles) and even on [Instagram](https://www.instagram.com/szelesmiki/).
+
+---
+- Minnie: Finally the CTO is over. We can get to the teaser.
+- Miki: Yes, finally.
+- Minnie: What are you working on recently?
+- Miki: I am writing an article with the title "How You Can Become a Test Automation Engineer in 2022 AKA How I Became a Test Automation Engineer".
+- Minnie: Sounds fun.
+- Miki: This time it won't be fun, as I am writing it alone, as I this is a serious topic.
+- Minnie: I see. When will you publish it?
+- Miki: I do not know yet, but the [draft is available on my GitHub](https://github.com/mszeles/a-hamunish-humanish-thoughtishish/blob/bdc0236cacc178e7664c091bc73ca4c40a55c83e/deafultish-packageish/documentishish/harticleishish/0008-how-to-become-a-test-automation-engineer/0008-how-to-become-a-test-automation-engineer-in-2022.MD) if somebody would like to follow the birt of the harticle.
+- Minnie: Cool.
