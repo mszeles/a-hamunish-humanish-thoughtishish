@@ -108,16 +108,77 @@ Yes, there is a fifth number too, but I won't tell you what is it as I want you 
 - Believe it or not, but you can read tractor reviews on Hashnode. Just check @[Mukesh Gupta](@tractorsblog)'s [Powertrac Tractor Price, Features, and Specifications- Khetigaadi](https://tractorsblog.hashnode.dev/powertrac-tractor-price-features-and-specifications-khetigaadi-1) article.
 
 ## Newcomers
-- @[Phillip Cooper](@phizzajc) [Beginnings...](https://phizzajc.hashnode.dev/beginnings)
-- @[Puleeno Nguyen](@puleeno) [Hello Hash node](https://puleeno.hashnode.dev/hello-hash-node)
-- @[KaguraTart](@kaguratart) [Hello World!](https://kaguratart.hashnode.dev/hello-world)
-- @[Zubaydullo Abdirakhmonov](@zubaydullo) [Hello world!](https://zubaydullo.hashnode.dev/hello-world)
-- @[Kyle Yu](@silkrow) [Hello World](https://silkrow.hashnode.dev/hello-world)
-- @[Việt Dũng](@itfromthestars) [Hello world~](https://itfromthestars.hashnode.dev/hello-world)
-- @[Aditya Rizki Pratama](@haidityara) [Hello, it's Aditya Here,,,](https://haidityara.hashnode.dev/hello-its-aditya-here)
-- @[Shivaditya Shivganesh](@sshivaditya) [Hello World](https://sshivaditya.hashnode.dev/hello-world)
+- @[Phillip Cooper](@phizzajc) is a developer with more than a decade of experience and many ideas. He has decided to share them in the form of blog posts. You can read his first harticle here: [Beginnings...](https://phizzajc.hashnode.dev/beginnings)
+- @[Puleeno Nguyen](@puleeno) will write about WordPress and ReactJS. He was a little bit short on words, but you can still check his first post [Hello Hash node](https://puleeno.hashnode.dev/hello-hash-node).
+- However @[KaguraTart](@kaguratart) wrote a longer sentence in her first post [Hello World!](https://kaguratart.hashnode.dev/hello-world), I still do not know what she will write about. Follow her if you are interested.
+- The same applies to @[Zubaydullo Abdirakhmonov](@zubaydullo)'s first article called [Hello world!](https://zubaydullo.hashnode.dev/hello-world).
+- @[Kyle Yu](@silkrow) will record his programming-related learnings on his blog. Here you can find another Hello world article: [Hello World](https://silkrow.hashnode.dev/hello-world).
+- @[Việt Dũng](@itfromthestars) has been working for 5 years in the field of SAP HCM in Vietnam. Read his first post if you would like to know what we can expect from him. You can find it here: [Hello world~](https://itfromthestars.hashnode.dev/hello-world)
+- @[Aditya Rizki Pratama](@haidityara) is an Indonesian kid who loves backend development so we can expect articles about that. You can find his first post here: [Hello, it's Aditya Here](https://haidityara.hashnode.dev/hello-its-aditya-here)
+- @[Shivaditya Shivganesh](@sshivaditya) just started blogging similarly to the others. I asked him what he will write about, but no answer arrived yet. You can still check the first post here: [Hello World](https://sshivaditya.hashnode.dev/hello-world)
 
+- Minnie: Despite keeping it short, it is still a lot of great list of harticles.
+- Miki: Yes, I think so.
+- Minnie: Where is the teaser trailer.
+- Miki: Wait for it, it will come.
+- McMuck: Here comes the part where we ask our readers to support us.
+- Miki: You are right.
 
+- Maudience: Dear Readers! As you might already know Miki needs coffee not just to produce code, but also for writing articles. He even hired our illustrator illustratoth to create a nice buy me a coffee image. So please support him with a few coffees if possible.
+- McMuck: Where is the logo?
+- Miki: We have to commit it to Github, to make it live forever.
+- McMuck: Ummm. Okayish. Whatever you want, just get the money.
+
+<a href="https://msz.team/38yKicd" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1654119439779/aV9WBoHv-.jpg"></a>
+
+---
+
+**Hackernoon interviewed me**, so if you would like to **learn more about me**, just [click here and read it!](https://hackernoon.com/i-open-sourced-my-thinking-process-meet-hackernoon-writer-and-test-automation-engineer-miki-szeles)
+
+---
+** Become an agileish superhero!**
+
+**Learn how to memorize anything in the world. In this series, I teach you everything I know about learning and memorization, including memory palaces, marker images, number memorization techniques, associations, etc.**
+
+**You can already [find the first videos on my Youtube channel](https://msz.team/36qHu06) in which I show you that it is possible to memorize such boring things as positions of circles.**
+
+**Don't forget to [read How You Can Become An Agileish Super Learner AKA How You Can Become A Super Thinker AKA The Proof Of Concept (POC)](https://msz.team/3vxmaP8)  before you watch the videos.**
+
+**[Join the Agileish Superheroes Facebook group](https://msz.team/3KXFTOg) to learn memorization techniques, thinking techniques, agility, reading and learning techniques and also to get notified about new live sessions and videos**
+
+- Minnie: Are we there yet?
+- Miki: No, it is still the call to action section.
+- Minnie: I can't wait to see it.
+---
+As I am a crazy person, **I have open-sourced my life on GitHub on Fool's day.**
+
+**I am sharing my thoughts, writings, and creations, and as I am frequently committing, I have open-sourced my thinking process, my writing process, and also my creation process.**
+
+**[Just click here to check my open-sourced life on Github!](https://msz.team/3JSzceX)**
+
+- Minnie: And now?
+- Miki: Almost, Minnie. Almost.
+---
+
+**My credo**: [The Mystery Of The Supposedly Red Emoji AKA The Story Of How I Became A Software Developer Detective To Debug The Internet](https://msz.team/3DLOBwk)
+
+**Read my story**, in case you would like **to understand how I think and act as a developer and tester in the real world.** You can **get some insights about my humor**, and I am also happy to tell you that **this is my article about which I am the proudest of** now.
+
+---
+
+In case you do **not want to miss my posts**, just **follow me** [here on Hashnode](https://mszeles.com/), on [LinkedIn](https://www.linkedin.com/in/miklos-szeles/), on [Twitter](https://twitter.com/mszeles) on [Medium.com](https://medium.com/@mszeles), on [dev.to](https://dev.to/mszeles), on [Hackernoon](https://hackernoon.com/u/mszeles) and even on [Instagram](https://www.instagram.com/szelesmiki/).
+
+---
+
+- Minnie: And now?
+- Miki: We are there finally.
+- Minnie: So what is the teaser?
+- Miki: An upcoming article series.
+- Minnie: Really? About what?
+- Miki: I cannot tell, but I can say similarly to HAshnode weekly it will be also related to Hashnode.
+- Minnie: Cool. I want to see it now.
+- Miki: Well, it is almost ready, so you can read it.
+- Minnie: Cool.
 
 
 
