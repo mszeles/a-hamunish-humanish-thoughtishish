@@ -1,11 +1,11 @@
 - Maudience: Hello, dear Readers! Hello, Miki!
 - Miki: Hello, dear Readers! Hello, Maudience!
-- Maudience: How many articles did you bookmark, Miki?
+- Maudience: How many articles did you bookmark this time, Miki?
 - Miki: 86.
 - Maudience: Wow, you found 86 harticles worth mentioning in one week?
 - Miki: Yes, and I have not even had the chance to check all of the titles.
 - Nikolai: But, there are only around 40 articles here. How is that possible?
-- Miki: I had very little time and in case I want to include all 86 articles then it would take me several hours more, to write the recommendation to all of them.
+- Miki: I had very little time and including all 86 articles would take me several hours more, as I need to write the recommendation for all of them.
 - Minnie: So, you decided to post more frequently!? Very clever.
 - Miki: Well, I am not sure that I will post more frequently as I have much less time to read articles nowadays, but I am planning to post around 40 articles in each Hashnode Randomly.
 - Minnie: Oh, so keep the name Hashnode Randomly!?
@@ -35,66 +35,77 @@
 - Miki: Interesting articles which are not closely related to my current knowledge. I have written about this in detail in [my article where I summarized the experiences of my first month as a hlogger.](https://mszeles.com/my-first-month-on-hashnode-a-retrospection-about-blogging-on-hashnode-developer-journaling-platform-by-miki-szeles)
 - Maudience: Guys! Let's start with the harticles, I do not want to lose our readers right at the beginning.
 
-- @[Arvid Kahl](@arvidkahl) [Choose Your Own Adventure: Creator, Curator, Commentator, or Connector](https://arvidkahl.hashnode.dev/choose-your-own-adventure-creator-curator-commentator-or-connector)
+## Today in The Spotlight 🔦: Creator, Curator, Commentator, or Connector from Arvid Kahl
+
+I have read a very insightful article from @[Arvid Kahl](@arvidkahl) which made me think about myself. In his article [Choose Your Own Adventure: Creator, Curator, Commentator, or Connector](https://arvidkahl.hashnode.dev/choose-your-own-adventure-creator-curator-commentator-or-connector), Arvid mentions four boxes into which you can be put on social media: Creator, Curator, Commentator, or Connector.
+
+In short, you are a Creator if you create content. You are a Curator if you collect and share other people's content. You are a Commentator if you pick other people's content and talk about that. And finally, if you create and "manage" communities, then you are a connector.
+
+You can be in multiple boxes at the same time. I thought about this for a while and I came up with the following values:
+25% 10% 10% 20% 35%
+
+I am writing articles that is why I am 25% creator. I am posting the Hashnode Randomly from time to time, so I am a 10% curator. I very often comment on other's articles sharing my relevant e[xperience there. I am building multiple online communities ([Selenide User Group](https://www.linkedin.com/groups/9154550/), [Agileish Superheroes](https://www.facebook.com/groups/488924636292199)) so I am a connector too.
+
+Yes, there is a fifth number too, but I won't tell you what is it as I want you to read the article, as it is worth every minute you spend on it.
 
 ## Software Development
-- @[Vinay Krishnan](@vnay-dev) [Progressive Web Apps : An introduction](https://vnay-dev.hashnode.dev/progressive-web-apps-an-introduction)
-- @[yaox023](@yaox023) [Brief Review of Token-based Authentication](https://yaox023.hashnode.dev/brief-review-of-token-based-authentication)
-- @[Nicolae Rotaru](@page2api) [How to Scrape Reddit Data: Posts, Images, Comments, and more.](https://page2api.hashnode.dev/how-to-scrape-reddit-data-posts-images-comments-and-more)
-- @[Saumya Ranjan Nayak](@saumya) [How to become a Software Engineer from a Coder ?](https://saumya.hashnode.dev/how-to-become-a-software-engineer-from-a-coder)
-- @[Ashutosh Krishna](@ashutoshkrris) [Getting Started With Flask](https://ashutoshkrris.hashnode.dev/getting-started-with-flask)
-- @[Ashraf Mohamed](@ashraf-mohamed) [S.O.L.I.D Principles: Dependency Inversion Principle.](https://ashraf-mohamed.hashnode.dev/dependency-inversion-principle)
-- @[Ganesh Pilli](@negahni) [How leaders can mess with Agile](https://negahni.hashnode.dev/how-leaders-can-mess-with-agile)
-- @[Brock Herion](@brockherion) [Things about software development I wish somebody had told me](https://brockherion.hashnode.dev/things-about-software-development-i-wish-somebody-had-told-me)
-- @[Maxi Contieri](@mcsee) [Code Smell 135 -  Interfaces With just One Realization](https://mcsee.hashnode.dev/code-smell-135-interfaces-with-just-one-realization)
-- @[Ashutosh Krishna](@ashutoshkrris) [Hangman Game using Python](https://ashutoshkrris.hashnode.dev/hangman-game-using-python)
-- @[Saptarshi Sarkar](@saptarshisarkar) [How to Improve Logic Building Skills in Programming](https://saptarshisarkar.hashnode.dev/improve-logic-building-skills-in-programming)
-- @[Rakesh Potnuru](@itsrakesh) [Taking Open Source contributions and communities to next level with the Reward System](https://itsrakesh.hashnode.dev/taking-open-source-contributions-and-communities-to-next-level-with-the-reward-system)
-- @[Joseph Perez](@perezident14) [My Experience Of Becoming A Software Engineer](https://perezident14.hashnode.dev/my-experience-of-becoming-a-software-engineer)
-- @[Caroline](@akinyi) [Five Basics Of Web Development For Beginners: "AKA Craft Conf Giveaway Participation"](https://akinyi.hashnode.dev/five-basics-of-web-development-for-beginners-aka-craft-conf-giveaway-participation)
+- Do you know what are progressive web apps? I have to admit I did not hear about them until last week. @[Vinay Krishnan](@vnay-dev) gives a great intro about progressive web apps in his writing [Progressive Web Apps : An introduction](https://vnay-dev.hashnode.dev/progressive-web-apps-an-introduction).
+- @[yaox023](@yaox023) explains pretty well [how token based authentication works](https://yaox023.hashnode.dev/brief-review-of-token-based-authentication).
+- Are you interested in web scraping? @[Nicolae Rotaru](@page2api) explains how you can use Page2API API to scrape Reddit in his writing [How to Scrape Reddit Data: Posts, Images, Comments, and more.](https://page2api.hashnode.dev/how-to-scrape-reddit-data-posts-images-comments-and-more).
+- @[Saumya Ranjan Nayak](@saumya) collected a list of advice on how you can advance from a coder to a software engineer in his article [How to become a Software Engineer from a Coder ?](https://saumya.hashnode.dev/how-to-become-a-software-engineer-from-a-coder). However, he is talking about the technical side it is equally important to improve your soft skills if you really want to become a good software developer.
+- Have you ever wondered how you can build scalable and secure web applications in Python? @[Ashutosh Krishna](@ashutoshkrris) gives an intro about the Flask microframework in his post [Getting Started With Flask](https://ashutoshkrris.hashnode.dev/getting-started-with-flask).
+- Writing clean code is a must-have skill that should be learned by every software developer. It is highly advised to follow the SOLID principles whenever you write code. @[Ashraf Mohamed](@ashraf-mohamed) explains the dependency inversion principle in his post [S.O.L.I.D Principles: Dependency Inversion Principle.](https://ashraf-mohamed.hashnode.dev/dependency-inversion-principle).
+- Almost every company is moving towards becoming agile nowadays, but it is very easy to do it the wrong way. @[Ganesh Pilli](@negahni) collected some pitfalls with which [a leader can mess with Agile](https://negahni.hashnode.dev/how-leaders-can-mess-with-agile). I also added my thoughts in the comment section.
+- Being a software developer has its own challenges. @[Brock Herion](@brockherion) gives some advice based on his experience about the topic in his writing [Things about software development I wish somebody had told me](https://brockherion.hashnode.dev/things-about-software-development-i-wish-somebody-had-told-me).
+- @[Maxi Contieri](@mcsee) continued his extremely helpful series about code smells. It is unbelievable but he just posted [Code Smell 135 -  Interfaces With just One Realization](https://mcsee.hashnode.dev/code-smell-135-interfaces-with-just-one-realization) which is the 135th element of his series.
+- Are you learning Python? Do you like the Hangman game? Just read @[Ashutosh Krishna](@ashutoshkrris)'s [Hangman Game using Python](https://ashutoshkrris.hashnode.dev/hangman-game-using-python) article.
+- Have you ever struggled with solving a problem? @[Saptarshi Sarkar](@saptarshisarkar) gives you valuable advice in his [How to Improve Logic Building Skills in Programming](https://saptarshisarkar.hashnode.dev/improve-logic-building-skills-in-programming) article.
+- @[Rakesh Potnuru](@itsrakesh) introduced a new solution with which you can incentivize open-source contribution in his [Taking Open Source contributions and communities to next level with the Reward System](https://itsrakesh.hashnode.dev/taking-open-source-contributions-and-communities-to-next-level-with-the-reward-system) post. I also did something similar with the [Selenideium Element Inspector Bounty Hunting Reward program](https://mszeles.com/breaking-news-selenideium-element-inspector-bounty-hunting-reward-program-is-here).
+- @[Joseph Perez](@perezident14) was a Twitch streamer and also managed a cheese store. I think that is enough info to convince you to read his story [My Experience Of Becoming A Software Engineer](https://perezident14.hashnode.dev/my-experience-of-becoming-a-software-engineer).
+- @[Caroline](@akinyi) participated in the Craft Conf giveaway and won a ticket for the Craft Conf. She participated with her [Five Basics Of Web Development For Beginners: "AKA Craft Conf Giveaway Participation"](https://akinyi.hashnode.dev/five-basics-of-web-development-for-beginners-aka-craft-conf-giveaway-participation) article.
 
 ## Testing
-- @[Sérgio Martins](@sergiomartins8) [Five C's of a Test Engineer](https://sergiomartins8.hashnode.dev/five-cs-of-a-test-engineer)
-- @[Tiffany Lewis](@tiffanylewis) [Top 5 API Testing Tools For 2022 And Beyond](https://tiffanylewis.hashnode.dev/top-5-api-testing-tools-for-2022-and-beyond)
-- @[KMS Solutions Blog](@kmssolutions) [What is DevTestOps and how can it transform Agile?](https://kmssolutions.hashnode.dev/what-is-devtestops-and-how-can-it-transform-agile)
+- @[Sérgio Martins](@sergiomartins8) posts are worth reading if you are a tester or a test automation engineer. His latest post that I read was [Five C's of a Test Engineer](https://sergiomartins8.hashnode.dev/five-cs-of-a-test-engineer), but you can find much more valuable content on his blog.
+- If you would like to test APIs then @[Tiffany Lewis](@tiffanylewis)'s [Top 5 API Testing Tools For 2022 And Beyond](https://tiffanylewis.hashnode.dev/top-5-api-testing-tools-for-2022-and-beyond) article is highly recommended. I also recommend [checking Karate DSL](https://github.com/karatelabs/karate) which is my number one favorite for API automation.
+- Have you ever heard about DevTestOps? I have to admit I heard about it first time in @[KMS Solutions Blog](@kmssolutions)'s [What is DevTestOps and how can it transform Agile?](https://kmssolutions.hashnode.dev/what-is-devtestops-and-how-can-it-transform-agile) article.
 
-## Data analysis, Artifical Intelligence
-- @[Austen Collins](@serverlessinc) [Deploying PyTorch Model as a Serverless Service](https://serverlessinc.hashnode.dev/deploying-pytorch-model-as-a-serverless-service)
-- @[keerthi reddy](@keerthi23) [Topmost data science project to add to your portfolio in 2022](https://keerthi23.hashnode.dev/topmost-data-science-project-to-add-to-your-portfolio-in-2022)
-- @[Neurotech Africa](@neurotech) [Get Started With Topic Modelling Using Gensim In Nlp](https://neurotech.hashnode.dev/get-started-with-topic-modelling-using-gensim-in-nlp)
+## Data analysis, Artificial Intelligence
+- Do you know what is a serverless service? Well, I had no idea before I read @[Austen Collins](@serverlessinc)'s [Deploying PyTorch Model as a Serverless Service](https://serverlessinc.hashnode.dev/deploying-pytorch-model-as-a-serverless-service) article.
+- @[keerthi reddy](@keerthi23) gives advice on what kind of data science project you should work on in order to make your portfolio more appealing in his [Topmost data science project to add to your portfolio in 2022](https://keerthi23.hashnode.dev/topmost-data-science-project-to-add-to-your-portfolio-in-2022) harticle.
+- Do you know what is topic modelling? I had no idea, but luckily we can learn it from @[Neurotech Africa](@neurotech)'s [Get Started With Topic Modelling Using Gensim In Nlp](https://neurotech.hashnode.dev/get-started-with-topic-modelling-using-gensim-in-nlp) harticle.
 
 ## DevOps, Networks
-- @[Dev Valecha](@iamdevvalecha) [Understanding Load Balancing!! (NGINX) ft. Jethalal.](https://iamdevvalecha.hashnode.dev/understanding-load-balancing-nginx-ft-jethalal)
+- @[Dev Valecha](@iamdevvalecha) clearly explains what is load balancing in his post [Understanding Load Balancing!! (NGINX) ft. Jethalal.](https://iamdevvalecha.hashnode.dev/understanding-load-balancing-nginx-ft-jethalal).
 
 ## Productivity, Self-Improvement, Psychology, Soft-skills
-- @[moalsare33](@moalsare33) [Why We Misjudge People All the Time](https://moalsare33.hashnode.dev/why-we-misjudge-people-all-the-time)
-- @[FARZANA bano](@farzanabano) [Topic: How do you use your voice to positively impact yourself and your community?](https://farzanabano.hashnode.dev/topic-how-do-you-use-your-voice-to-positively-impact-yourself-and-your-community)
-- @[Loran L](@loran) [Internal dialogue of a procrastinator](https://loran.hashnode.dev/internal-dialogue-of-a-procrastinator)
-- @[saningo lekalantula](@kantush) [Dealing with imposter syndrome!](https://kantush.hashnode.dev/dealing-with-imposter-syndrome)
-- @[Nik F P](@nikfp) [Soft Skills checkup: The many phases of Managing](https://nikfp.hashnode.dev/soft-skills-checkup-the-many-phases-of-managing)
+- Did you know we develop an opinion about a person in 3 seconds? Do you also put people in boxes? @[moalsare33](@moalsare33)'s [Why We Misjudge People All the Time](https://moalsare33.hashnode.dev/why-we-misjudge-people-all-the-time) is definitely a good read on the topic.
+- "Some people in society do not need power, they don’t need status, they don’t need, but they want someone who can work with them, who can show them the right path." This quote is from @[FARZANA bano](@farzanabano) short but valuable harticle called [Topic: How do you use your voice to positively impact yourself and your community?](https://farzanabano.hashnode.dev/topic-how-do-you-use-your-voice-to-positively-impact-yourself-and-your-community). Just check it if I made you curious.
+- I loved @[Loran L](@loran)'s [Internal dialogue of a procrastinator](https://loran.hashnode.dev/internal-dialogue-of-a-procrastinator) harticle as he was also using a conversational style and also because I am also often a procrastinator. Luckily Meadline joined my team, so she makes sure everything will be delivered on time.
+- The imposter syndrome affects many of us developers. I do believe it is more common in the tech community as we have to keep face with the constantly uprising new technologies year by year and month by month. Despite this imposter syndrome is still a taboo in many places. Luckily @[saningo lekalantula](@kantush) toom the courage and gave also ideas on [how you can deal with imposter syndrome](https://kantush.hashnode.dev/dealing-with-imposter-syndrome).
+- @[Nik F P](@nikfp) introduces 5 phases of management in his very interesting [Soft Skills checkup: The many phases of Managing](https://nikfp.hashnode.dev/soft-skills-checkup-the-many-phases-of-managing) harticle.
 
 
 
 ## Blogging, SEO
-- @[Alexander Richterich](@richterich) [How should I write my first post ⁉](https://richterich.hashnode.dev/how-should-i-write-my-first-post)
-- @[Frank Elda](@frankelda) [SEO for Medium writers: get more views on your articles!](https://frankelda.hashnode.dev/seo-for-medium-writers)
+- @[Alexander Richterich](@richterich) gives some advice on [How should I write my first post ⁉](https://richterich.hashnode.dev/how-should-i-write-my-first-post). I also wrote a post about the topic months ago but I did not post it yet. Maybe the time is here to share my experiences too.
+- @[Frank Elda](@frankelda) talks about SEO in his writing [SEO for Medium writers: get more views on your articles!](https://frankelda.hashnode.dev/seo-for-medium-writers). It is definitely worth reading even if you are not using medium but instead you use your own domain with Hashnode.
 
 ## Blockchain
-- @[Jamie V.](@sigma1) [NFTs - Disrupting technology or hype?](https://sigma1.hashnode.dev/nfts-disrupting-technology-or-hype)
+- Have you heard about NFTs? @[Jamie V.](@sigma1) talks about them in his writing [NFTs - Disrupting technology or hype?](https://sigma1.hashnode.dev/nfts-disrupting-technology-or-hype).
 
 ## Inspiring Stories
-- @[Damilola Abiola](@damiabiola) [Product Manager Diaries #1](https://damiabiola.hashnode.dev/product-manager-diaries-1)
-- @[Julia Furst Morgado](@julia) [Balancing a full-time job while learning to code](https://julia.hashnode.dev/balancing-a-full-time-job-while-learning-to-code)
-- @[Eula Chua](@eula) [An Attitude of Gratitude and Exam Preparation](https://eula.hashnode.dev/an-attitude-of-gratitude-and-exam-preparation)
+- @[Damilola Abiola](@damiabiola) is a product manager who had lots of struggles in her life and she is brave enough to share them with us in her writing [Product Manager Diaries #1](https://damiabiola.hashnode.dev/product-manager-diaries-1). I really appreciate it.
+- @[Julia Furst Morgado](@julia) similarly to many of us have to learn new things while she has a full-time job. I have to admit it is very challenging to do that. However she gives advice on how to code when you have a full-time job, her advice is equally valuable no matter what you are learning. [Balancing a full-time job while learning to code](https://julia.hashnode.dev/balancing-a-full-time-job-while-learning-to-code)
+- "On days when I feel discouraged, being grateful regardless helps me to persevere and carry on without letting the false thoughts of unworthiness hinder me from pursuing my purpose in life." quote is from @[Eula Chua](@eula)'s [An Attitude of Gratitude and Exam Preparation](https://eula.hashnode.dev/an-attitude-of-gratitude-and-exam-preparation) harticle. Definitely worth reading if you need a little motivation.
 
 
 ## Tools and Resources
-- @[Suraj Vishwakarma](@surajondev) [5 Color Inspiration Website You Should Bookmark](https://surajondev.hashnode.dev/5-color-inspiration-website-you-should-bookmark)
+- Are you planning to create a website? Or you just interested in colors, then @[Suraj Vishwakarma](@surajondev)'s [5 Color Inspiration Website You Should Bookmark](https://surajondev.hashnode.dev/5-color-inspiration-website-you-should-bookmark) is definitely for you.
 
 ## Non-Technical Articles
-- @[Sandra](@airfryerreview) [Beans on Toast Recipe – How to Make it Perfect?](https://airfryerreview.hashnode.dev/beans-on-toast-recipe-how-to-make-it-perfect)
-- @[baccaratsite top](@baccaratsitetop) [Origin of Backgammon](https://baccaratsitetop.hashnode.dev/origin-of-backgammon)
-- @[Mukesh Gupta](@tractorsblog) [Powertrac Tractor Price, Features, and Specifications- Khetigaadi](https://tractorsblog.hashnode.dev/powertrac-tractor-price-features-and-specifications-khetigaadi-1)
+- I was innocently browsing through the technical articles here on Hashnode when the picture of a yummy Beans on Toast appeared in front of me. I think I do not have to say I became hungry immediately. @[Sandra](@airfryerreview) shared the recipe in her [Beans on Toast Recipe – How to Make it Perfect?](https://airfryerreview.hashnode.dev/beans-on-toast-recipe-how-to-make-it-perfect) writing.
+- Do you play Backgammon? Do you know how ancient is it? Just read @[baccaratsite top](@baccaratsitetop)'s [Origin of Backgammon](https://baccaratsitetop.hashnode.dev/origin-of-backgammon) article to learn about this game.
+- Believe it or not, but you can read tractor reviews on Hashnode. Just check @[Mukesh Gupta](@tractorsblog)'s [Powertrac Tractor Price, Features, and Specifications- Khetigaadi](https://tractorsblog.hashnode.dev/powertrac-tractor-price-features-and-specifications-khetigaadi-1) article.
 
 ## Newcomers
 - @[Phillip Cooper](@phizzajc) [Beginnings...](https://phizzajc.hashnode.dev/beginnings)
